@@ -1,0 +1,69 @@
+[
+  {
+    "Name": "MB-240: Microsoft Dynamics 365 Field Service Functional Consultant",
+    "Language": "English",
+    "BaseURL": "https://github.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService",
+    "Files": [
+      {
+        "RawFilePath": "",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService/master/Instructions/Labs/LAB%5BMB-240%5D_Lab00_Dynamics_365_Labs.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService/master/Instructions/Labs/LAB%5BMB-240%5D_Lab01_Configure_Field_Service.md",
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService/master/Instructions/Labs/LAB%5BMB-240%5D_Lab02_Skills_and_Characteristics.md",
+        "Order": 4
+      },      
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService/master/Instructions/Labs/LAB%5BMB-240%5D_Lab03_Resource_Configuration.md",
+        "Order": 5
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService/master/Instructions/Labs/LAB%5BMB-240%5D_Lab04_Incident_Types.md",
+        "Order": 6
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService/master/Instructions/Labs/LAB%5BMB-240%5D_Lab05_Work_Order_Management.md",
+        "Order": 7
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService/master/Instructions/Labs/LAB%5BMB-240%5D_Lab06_Agreements.md",
+        "Order": 8
+      },  
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService/master/Instructions/Labs/LAB%5BMB-240%5D_Lab07_Inspections.md",
+        "Order": 9
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService/master/Instructions/Labs/LAB%5BMB-240%5D_Lab09_Configure_Schedule_Board.md",
+        "Order": 10
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService/master/Instructions/Labs/LAB%5BMB-240%5D_Lab10_Mobile.md",
+        "Order": 11
+      },      
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService/master/Instructions/Labs/LAB%5BMB-240%5D_Lab11_Inventory.md",
+        "Order": 12
+      },      
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService/master/Instructions/Labs/LAB%5BMB-240%5D_Lab12_Assets.md",
+        "Order": 13
+      },      
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService/master/Instructions/Labs/LAB%5BMB-240%5D_Lab13_Power_Platform.md",
+        "Order": 14
+      },      
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService/master/Instructions/Labs/LAB%5BMB-240%5D_Lab14_Survey.md",
+        "Order": 15
+      }
+    ]
+  }
+]
