@@ -4,6 +4,8 @@
 
 In this exercise you will create and populate an Incident Type as a template for creating work orders.
 
+   >Note: The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
+   
 ### Task 1 - Work Order Type
 
 1. In the **Dynamics 365 Field Service app**, click the **Service (1)** area in the bottom-left of the sitemap, and select **Settings (2)** from the list. 

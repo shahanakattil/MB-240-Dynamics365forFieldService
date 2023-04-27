@@ -4,6 +4,8 @@
 
 In this exercise you will create the location where resources will start and end their day.
 
+   >Note: The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
+
 ### Task 1 - Set Time Zone
 
 1. Click the **Settings (1)** icon in the navigation bar and select **Personalization Settings (2)**.
