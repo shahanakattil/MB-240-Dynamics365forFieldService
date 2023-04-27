@@ -10,17 +10,19 @@ Out-of-the-box, Dynamics 365 for Field Service has the work order table enabled 
 
 1. In the **Dynamics 365 Field Service app**, click the **Service** area in the bottom-left of the sitemap, and in the **Scheduling** group select **Work Orders**.
 
+   ![](../images/Create-work-orders.png)
+
 1. Click **+ New**.
 
 1. Select the **odl_user_DID_Relecloud** account you created in an earlier lab for **Service Account**.
 
-1. Select the **[your prefix] Service Printer** incident type you created in a previous lab for **Primary Incident Type**.
+1. Select the **odl_user_DID_Service Printer** incident type you created in a previous lab for **Primary Incident Type**.
 
 1. Select the **Settings** tab.
 
-1. Select the **[your prefix] Normal** priority you created in a previous lab for **Priority**.
+1. Select the **odl_user_DID_Normal** priority you created in a previous lab for **Priority**.
 
-1. Select the **[your prefix] North** territory you created in a previous lab for **Service Territory**.
+1. Select the **odl_user_DID_North** territory you created in a previous lab for **Service Territory**.
 
 1. Enter **Today \@ 1:00 PM** for **Time from Promised**.
 
