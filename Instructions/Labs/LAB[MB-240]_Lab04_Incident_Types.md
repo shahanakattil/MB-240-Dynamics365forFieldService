@@ -172,7 +172,7 @@ In this exercise you will create a work order by using the incident type.
 
 1. Click **+ New**.
 
-1. Enter **[your prefix ex. mollyc]** + **Relecloud** for **Account Name**. Click **Save**.
+1. Enter **odl_user_DID_Relecloud** for **Account Name**. Click **Save**.
 
 1. Click **Save & Close**.
 
@@ -180,11 +180,11 @@ In this exercise you will create a work order by using the incident type.
 
 1. Click **+ New** located on the command bar.
 
-1. Enter **[your prefix ex. mollyc]** + **Jane** for **First Name**.
+1. Enter **odl_user_DID_Jane** for **First Name**.
 
 1. Enter **Doe** for **Last Name**.
 
-1. Select the **[your prefix] Relecloud** account you created in Task 1 for **Account Name**.
+1. Select the **odl_user_DID_Relecloud** account you created in Task 1 for **Account Name**.
 
 1. Click **Save & Close**.
 
