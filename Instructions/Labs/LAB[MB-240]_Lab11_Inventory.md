@@ -8,15 +8,15 @@ In this exercise you will add inventory to a warehouse and then transfer to a tr
 
 ### Task 1 – Setup inventory in Warehouse
 
-1. In the **Dynamics 365 Field Service app**, click the **Inventory** area in the bottom-left of the sitemap, and in the **Inventory** group select **Warehouses**.
+1. In the **Dynamics 365 Field Service app**, click the **Inventory (1)** area in the bottom-left of the sitemap, and in the **Inventory (2)** group select **Warehouses (3)**.
 
-1. Edit the **Main** warehouse.
+1. Edit the **Main (4)** warehouse.
 
     ![](../images/Setup-inventory-in-Warehouse-8.png)
 
 1. Click **Related** and select **Product Inventory**.
 
-    [](../images/Setup-inventory-in-Warehouse-9.png)
+   ![](../images/Setup-inventory-in-Warehouse-9.png)
 
 1. Click **+ New Product Inventory**.
 
@@ -28,9 +28,9 @@ In this exercise you will add inventory to a warehouse and then transfer to a tr
 
 ### Task 2 – Inventory adjustment
 
-1. In the **Dynamics 365 Field Service app**, click the **Inventory** area in the bottom-left of the sitemap, and in the **Inventory** group select **Adjustments**.
+1. In the **Dynamics 365 Field Service app**, click the **Inventory** area in the bottom-left of the sitemap, and in the **Inventory** group select **Adjustments (1)**.
 
-1. Click **+ New**.
+1. Click **+ New (2)**.
 
     ![](../images/Setup-inventory-in-Warehouse-7.png)
 
