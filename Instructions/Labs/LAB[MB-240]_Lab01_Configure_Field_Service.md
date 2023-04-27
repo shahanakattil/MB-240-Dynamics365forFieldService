@@ -74,9 +74,9 @@ In this exercise, you will adding products and services for use on work orders a
 
 1. Enter **odl_user_DID_Print-Serv-1234** for **Product ID**.
 
-1. Select **Default Unit** for **Unit Group**.
+1. Type and select **Default Unit** for **Unit Group**.
 
-1. Select **Primary Unit** for **Default Unit**.
+1. Type and select **Primary Unit** for **Default Unit**.
 
 1. Set **Decimals Supported** to **2**.
 
@@ -103,9 +103,9 @@ In this exercise, you will adding products and services for use on work orders a
 
 1. Enter **odl_user_DID_Print-Maint** for **Product ID (2)**.
 
-1. Select **Default Unit** for **Unit Group (3)**.
+1. Type and select **Default Unit** for **Unit Group (3)**.
 
-1. Select **Primary Unit** for **Default Unit (4)**.
+1. Type and select **Primary Unit** for **Default Unit (4)**.
 
 1. Set **Decimals Supported (5)** to **2**.
 
@@ -131,9 +131,9 @@ In this exercise, you will adding products and services for use on work orders a
 
 1. Enter **odl_user_DID_Printer_Service_Fee** for **Product ID (2)**.
 
-1. Select **Default Unit** for **Unit Group (3)**.
+1. Type and select **Default Unit** for **Unit Group (3)**.
 
-1. Select **Primary Unit** for **Default Unit (4)**.
+1. Type and select **Primary Unit** for **Default Unit (4)**.
 
 1. Set **Decimals Supported** to **2 (5)**.
 
