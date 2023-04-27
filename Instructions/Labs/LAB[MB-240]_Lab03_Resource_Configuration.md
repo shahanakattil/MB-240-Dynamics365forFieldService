@@ -32,7 +32,7 @@ In this exercise you will create the location where resources will start and end
 
 1. Click **+ New (4)**.
 
-    ![](../Org-Units.png)
+   ![](../images/Org-Units.png)
 
 1. Enter **odl_user_DID_Org Unit** for **Name**.
 
