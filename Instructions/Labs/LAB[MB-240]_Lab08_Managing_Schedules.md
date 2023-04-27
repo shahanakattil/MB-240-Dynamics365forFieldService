@@ -1,14 +1,10 @@
----
-lab:
-    title: 'Lab 8: Managing schedules (15 minutes)'
-    module: 'Module 3: Schedule and dispatch work orders'
----
-
 # Practice Lab 8 - Scheduling
 
 ## Exercise 1 - Schedule work orders with the schedule board
 
 Out-of-the-box, Dynamics 365 for Field Service has the work order table enabled for use with the Resource Scheduling feature. In this exercise, we will be creating work orders that we can schedule using the application.
+
+   >Note: The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
 
 ### Task 1 – Create work orders
 
@@ -16,7 +12,7 @@ Out-of-the-box, Dynamics 365 for Field Service has the work order table enabled 
 
 1. Click **+ New**.
 
-1. Select the **[your prefix] Relecloud** account you created in an earlier lab for **Service Account**.
+1. Select the **odl_user_DID_Relecloud** account you created in an earlier lab for **Service Account**.
 
 1. Select the **[your prefix] Service Printer** incident type you created in a previous lab for **Primary Incident Type**.
 
