@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 4: Incident types (15 minutes)'
-    module: 'Module 2: Manage Work Orders'
----
-
 # Practice Lab 4 - Incident types
 
 ## Exercise 1 – Create an Incident Type
