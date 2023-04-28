@@ -10,7 +10,7 @@ Out-of-the-box, Dynamics 365 for Field Service has the work order table enabled 
 
 1. In the **Dynamics 365 Field Service app**, click the **Service** area in the bottom-left of the sitemap, and in the **Scheduling** group select **Work Orders**.
 
-   ![](../images/Create-work-orders.png)
+   ![](../images/Create-work-orders-1.png)
 
 1. Click **+ New**.
 
@@ -20,6 +20,8 @@ Out-of-the-box, Dynamics 365 for Field Service has the work order table enabled 
 
 1. Select the **Settings** tab.
 
+
+
 1. Select the **odl_user_DID_Normal** priority you created in a previous lab for **Priority**.
 
 1. Select the **odl_user_DID_North** territory you created in a previous lab for **Service Territory**.
@@ -28,21 +30,25 @@ Out-of-the-box, Dynamics 365 for Field Service has the work order table enabled 
 
 1. Enter **Tomorrow \@ 3:00 PM** for **Time to Promised**.
 
+
+
 1. Click **Save**. Make a note of the Work Order number.
 
 1. Click **+ New**.
 
-1. Select the **[your prefix] Relecloud** account you created in an earlier lab for **Service Account**.
+1. Select the **odl_user_DID_Relecloud** account you created in an earlier lab for **Service Account**.
 
-1. Select the **[your prefix] Quick Inspection** incident type you created in a previous lab for **Primary Incident Type**.
+1. Select the **odl_user_DID_Quick Inspection** incident type you created in a previous lab for **Primary Incident Type**.
 
 1. Select the **Settings** tab.
 
-1. Select the **[your prefix] Urgent** priority you created in a previous lab for **Priority**.
+1. Select the **odl_user_DID_Urgent** priority you created in a previous lab for **Priority**.
 
-1. Select the **[your prefix] North** territory you created in a previous lab for **Service Territory**.
+1. Select the **odl_user_DID_North** territory you created in a previous lab for **Service Territory**.
 
 1. Click **Save**. Make a note of the Work Order number.
+
+   >Note: Make a note of all the Work Order number created in this Exercise.
 
 ## Exercise 2 - Schedule work orders using the schedule board
 

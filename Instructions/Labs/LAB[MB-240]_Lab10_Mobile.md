@@ -1,50 +1,56 @@
----
-lab:
-    title: 'Lab 10: Field Service mobile app (30 minutes)'
-    module: 'Module 4: Field Service mobile app'
----
-
 # Practice Lab 10 - Field Service mobile app
 
 ## Exercise 1 – Configure Field Service mobile app for frontline workers
 
 In this exercise you will configure settings for work orders including priorities and resolutions.
 
+   >Note: The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
+
 ### Task 1 – Configure security and offline profile
 
-1. In the **Dynamics 365 Field Service app**, click **Home**.
+1. In the **Dynamics 365 Field Service app**, click **Get Started** from My work panel.
 
 1. Under Set up your frontline workers, click **Set up**.
 
-1. Select your user for **Users**.
+    ![](../images/Set-up-1.png)
 
-1. Select your **Time Zone**.
+1. Select your user for **Users (1)**.
 
-1. Click **Save and Close**.
+1. Select your **Time Zone (2)**.
+
+1. Click **Save and Close (3)**.
+
+    ![](../images/Set-up-2.png)
 
 ### Task 2 – Create work order
 
-1. In the **Dynamics 365 Field Service app**, click the **Service** area in the bottom-left of the sitemap, and in the **Scheduling** group select **Work Orders**.
+1. In the **Dynamics 365 Field Service app**, click the **Service (1)** area in the bottom-left of the sitemap, and in the **Scheduling** group select **Work Orders (2)**.
 
-1. Click **+ New**.
+1. Click **+ New (3)**.
 
-1. Select the **[your prefix] Relecloud** account you created in an earlier lab for **Service Account**.
+    ![](../images/Set-up-3.png)
 
-1. Select the **[your prefix] Service Printer** incident type you created in a previous lab for **Primary Incident Type**.
+1. Select the **odl_user_DID_Relecloud** account you created in an earlier lab for **Service Account (1)**.
 
-1. Select the **Settings** tab.
+1. Select the **odl_user_DID_Service_Printer** incident type you created in a previous lab for **Primary Incident Type (2)**.
 
-1. Select the **[your prefix] Normal** priority you created in a previous lab for **Priority**.
+1. Select the **Settings (3)** tab.
+
+    ![](../images/Set-up-4.png)
+
+1. Select the **odl_user_DID_Normal** priority you created in a previous lab for **Priority**.
 
 1. Click **Save**.
 
+    ![](../images/Set-up-5.png)
+
 1. In the **Dynamics 365 Field Service app**, click the **Service** area in the bottom-left of the sitemap, and in the **Scheduling** group select **Schedule Board**.
 
-1. Select the  **[your prefix] Board** tab.
-
-1. Expand the **Booking Requirements** pane at the bottom of the board.
+1. Select the  **odl_user_DID_Board** tab.
 
 1. Drag the requirement for the work order to an available slot for today or tomorrow for your resource.
+
+    ![](../images/Set-up-6.png)
 
 ### Task 3 – Install the mobile app
 
@@ -64,11 +70,15 @@ In this exercise you will configure settings for work orders including prioritie
 
 1. Change **Booking Status** to **Traveling** and tap **Save**. The color of the booking on the schedule board will change.
 
+    ![](../images/Install-the-mobile-app-2.jpg)
+
 1. Change **Booking Status** to **In Progress** and tap **Save**. The color of the booking on the schedule board will change.
 
 1. Tap the **Customer** tab.
 
 1. Tap **Get Directions**.
+
+    ![](../images/Install-the-mobile-app-7.jpg)
 
 1. Close the mapping app.
 
@@ -82,6 +92,8 @@ In this exercise you will configure settings for work orders including prioritie
 
 1. Tap to open the **Inspect Printer** task.
 
+    ![](../images/Install-the-mobile-app-9.jpg)
+
 1. If you have barcode available click on the barcode symbol and allow the app to use your device and scan a barcode.
 
 1. If you do not have a barcode, enter **ABC888** for **Serial number**.
@@ -90,17 +102,21 @@ In this exercise you will configure settings for work orders including prioritie
 
 1. Enter **500** for **Page Count**.
 
-1. Enter **All ok** for **Comments**.
+    ![](../images/Install-the-mobile-app-10.jpg)
 
-1. Tap on **Photo** and allow the app to use your camera and take a photo.
+1. Enter **All ok** for **Comments (1)**.
 
-1. Slide **% Complete** to **100**.
+1. Tap on **Photo (2)** and allow the app to use your camera and take a photo.
 
-1. Select **Pass** for **Result**.
+1. Slide **% Complete (3)** to **100**.
 
-1. Set **Actual Duration** to **15 minutes**.
+1. Select **Pass** for **Result (4)**.
 
-1. Tap **Save**.
+1. Set **Actual Duration (5)** to **15 minutes**.
+
+1. Tap **Save (6)**.
+
+    ![](../images/Install-the-mobile-app-14.jpg)
 
 1. Tap **<** to return to the booking.
 
@@ -109,6 +125,8 @@ In this exercise you will configure settings for work orders including prioritie
 1. Tap **Used** for **Line Status**.
 
 1. Tap **Save**.
+
+    ![](../images/Install-the-mobile-app-13.jpg)
 
 1. Tap **<** to return to the booking.
 
@@ -119,6 +137,8 @@ In this exercise you will configure settings for work orders including prioritie
 1. If a popup message appears that says you do not have quantity on hand, click **OK**.
 
 1. Tap **Save**.
+
+    ![](../images/Install-the-mobile-app-12.jpg)
 
 1. Tap **<** to return to the booking.
 
