@@ -1,14 +1,10 @@
----
-lab:
-  title: 'Lab 13: Customize Schedule Boards (50 minutes)'
-  module: 'Module 7: Power Platform'
----
-
 # Practice Lab 13 – Customize Schedule Boards
 
 ## Scenario
 
 Dispatchers have requested more information about the customer and work order to be displayed on the schedule board. You are going to customize the views used by the schedule board to achieve this.
+
+   >Note: The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
 
 ## Exercise 1: Gather components to customizes
 
@@ -24,25 +20,25 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Click **+ New solution**.
 
-1. Enter **[your prefix ex. mollyc]** + **Solution** for **Name**.
+1. Enter **odl_user_DID_Solution** for **Name**.
 
 1. Click **+ New publisher**.
 
-1. Enter **[your prefix ex. mollyc]** for **Display Name**.
+1. Enter **odl_user_DID** for **Display Name**.
 
-1. Enter **[your prefix ex. mollyc]** for **Name**.
+1. Enter **odl_user_DID** for **Name**.
 
-1. Enter **[your prefix ex. mollyc]** for **Prefix**.
+1. Enter **odl_user_DID** for **Prefix**.
 
 1. Click **Save**.
 
-1. Select the **[your prefix]** publisher.
+1. Select the **odl_user_DID** publisher.
 
 1. Click **Create**.
 
 ### Task 2: Add views to solution
 
-1. Click on **[your prefix ex. mollyc] Solution**.
+1. Click on **odl_user_DID_Solution**.
 
 1. Click **Add existing** and select **Table**.
 
@@ -92,7 +88,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 ### Task 3: Customize views
 
-1. Edit your **[your prefix ex. mollyc] Solution**.
+1. Edit your **odl_user_DID_Solution**.
 
 1. Select **Bookable Resource** table.
 
@@ -106,7 +102,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Click **Save As**.
 
-1. Enter **[your prefix ex. mollyc]** + **Bookable Resource Detail panel** for **Name** and click **Save**.
+1. Enter **odl_user_DID_Bookable_Resource_Detail_panel** for **Name** and click **Save**.
 
 1. Click **Publish**.
 
@@ -118,7 +114,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Click **+ New view**.
 
-1. Enter **[your prefix ex. mollyc]** + **BRB Details panel** for **Name** and click **Create**.
+1. Enter **odl_user_DID_BRB_Details_panel** for **Name** and click **Create**.
 
 1. Add the **Work Order** column to the view.
 
@@ -146,7 +142,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Click **+ New view**.
 
-1. Enter **[your prefix ex. mollyc]** + **BRB Tooltip** for **Name** and click **Create**.
+1. Enter **odl_user_DID_BRB_Tooltip** for **Name** and click **Create**.
 
 1. Add the **Work Order** column to the view.
 
@@ -178,7 +174,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Click **+ New view**.
 
-1. Enter **[your prefix ex. mollyc]** + **Unscheduled North Territory Work Orders** for **Name** and click **Create**.
+1. Enter **odl_user_926295_Unscheduled_North_Territory_Work Orders** for **Name** and click **Create**.
 
 1. Add the **Work Order** column to the view.
 
@@ -212,7 +208,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Select **Work Order**.
 
-1. Select **Service Territory** with operator **Equals** and value **[your prefix] North**.
+1. Select **Service Territory** with operator **Equals** and value **odl_user_926295_North**.
 
 1. Click **Ok**.
 
@@ -226,23 +222,23 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. In the **Dynamics 365 Field Service app**, click the **Service** area in the bottom-left of the sitemap, and in the **Scheduling** group select **Schedule Board**.
 
-1. Select the  **[your prefix] Board** tab.
+1. Select the  **odl_user_926295_Board** tab.
 
 1. Click the ellipsis (...) next to the name of the tab and select **Board settings**.
 
 1. Select the **Map** tab.
 
-1. Select **[your prefix] Bookable Resource Detail panel** for **Resource details view**.
+1. Select **odl_user_926295_Bookable_Resource_Detail_panel** for **Resource details view**.
 
 1. Expand **Schedule types** and select **Other**.
 
-1. Select **[your prefix] BRB Details panel** for **Booking details view**.
+1. Select **odl_user_926295_BRB_Details_panel** for **Booking details view**.
 
 1. Expand **Schedule types** and select **Work Order**.
 
-1. Select **[your prefix] BRB Tooltip** for **Booking tooltips view**.
+1. Select **odl_user_926295_BRB_Tooltip** for **Booking tooltips view**.
 
-1. Select **[your prefix] BRB Details panel** for **Booking details view**.
+1. Select **odl_user_926295_BRB_Details_panel** for **Booking details view**.
 
 1. Select **Requirement panels**.
 
@@ -252,7 +248,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Enter **North work orders to schedule** for **Title**.
 
-1. Select **[your prefix] Unscheduled North Territory Work Orders** for **View**.
+1. Select **odl_user_926295_Unscheduled_North_Territory Work Orders** for **View**.
 
 1. Click **Save**.
 
