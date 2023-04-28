@@ -8,35 +8,47 @@ In this exercise you will be defining an inspection template and adding it to a 
 
 ### Task 1 - Create Inspection Template
 
-1. In the **Dynamics 365 Field Service app**, click the **Settings** area in the bottom-left of the sitemap, and in the **Work Orders** group select **Inspection Templates**.
+1. In the **Dynamics 365 Field Service app**, click the **Resources (1)** area in the bottom-left of the sitemap, and select **Settings (2)** from the list. 
 
-1. Click **+ New**.
+    ![](../images/settings-select.png)
 
-1. Enter **odl_user_DID_Printer_Inspection** for **Name for Inspection**.
+1. In the **Work Orders** group select **Inspection Templates (1)**.
 
-1. Click on **TextBox** to add question.
+1. Click **+ New (2)**.
 
-1. Enter **Serial number** for **Question1** title.
+    ![](../images/inspection-01.png)
 
-1. Toggle **Required** to On.
+1. Enter **odl_user_DID_Printer_Inspection** for **Name for Inspection (1)**.
 
-1. Click **Advanced**.
+1. Click on **TextBox (2)** to add question.
+
+1. Enter **Serial number** for **Question1 (3)** title.
+
+1. Toggle **Required (4)** to On.
+
+1. Click **Advanced (5)**.
+
+    ![](../images/inspection-02.png)
 
 1. Select **Barcode** for **Input type**.
 
-1. Select **Toolbox** tab.
+    ![](../images/inspection-03.png)
 
-1. Click on **Dropdown** to add question.
+1. Select **Toolbox (1)** tab.
 
-1. Enter **Condition** for **Question2** title.
+1. Click on **Dropdown (2)** to add question.
 
-1. Toggle **Required** to On.
+1. Enter **Condition (3)** for **Question2** title.
 
-1. Change **Item 1** to **Poor**.
+1. Toggle **Required (4)** to On.
 
-1. Change **Item 2** to **Satisfactory**.
+1. Change **Item 1** to **Poor (5)**.
 
-1. Change **Item 3** to **Good**.
+1. Change **Item 2** to **Satisfactory (5)**.
+
+1. Change **Item 3** to **Good (5)**.
+
+    ![](../images/inspection-04.png)
 
 1. Click on **Number** to add question.
 
