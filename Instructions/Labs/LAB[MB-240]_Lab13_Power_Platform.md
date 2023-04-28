@@ -8,37 +8,39 @@ Dispatchers have requested more information about the customer and work order to
 
 ## Exercise 1: Gather components to customizes
 
-In this exercise, you will create a solution and add the views used on the schedule board/
+In this exercise, you will create a solution and add the views used on the schedule board
 
 ### Task 1: Create solution
 
 1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>
 
-1. Select the WWLLABnnn environment.
+1. Select the **Prod-Env-926295** environment.
+    
+    ![](../images/power-apps-01.png)
 
 1. Click **Solutions**.
 
 1. Click **+ New solution**.
 
-1. Enter **odl_user_DID_Solution** for **Name**.
+1. Enter **odl_user_926295_Solution** for **Name**.
 
 1. Click **+ New publisher**.
 
-1. Enter **odl_user_DID** for **Display Name**.
+1. Enter **odl_user_926295** for **Display Name**.
 
-1. Enter **odl_user_DID** for **Name**.
+1. Enter **odl_user_926295** for **Name**.
 
-1. Enter **odl_user_DID** for **Prefix**.
+1. Enter **odl_user_926295** for **Prefix**.
 
 1. Click **Save**.
 
-1. Select the **odl_user_DID** publisher.
+1. Select the **odl_user_926295** publisher.
 
 1. Click **Create**.
 
 ### Task 2: Add views to solution
 
-1. Click on **odl_user_DID_Solution**.
+1. Click on **odl_user_926295_Solution**.
 
 1. Click **Add existing** and select **Table**.
 
@@ -88,7 +90,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 ### Task 3: Customize views
 
-1. Edit your **odl_user_DID_Solution**.
+1. Edit your **odl_user_926295_Solution**.
 
 1. Select **Bookable Resource** table.
 
@@ -102,7 +104,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Click **Save As**.
 
-1. Enter **odl_user_DID_Bookable_Resource_Detail_panel** for **Name** and click **Save**.
+1. Enter **odl_user_926295_Bookable_Resource_Detail_panel** for **Name** and click **Save**.
 
 1. Click **Publish**.
 
@@ -114,7 +116,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Click **+ New view**.
 
-1. Enter **odl_user_DID_BRB_Details_panel** for **Name** and click **Create**.
+1. Enter **odl_user_926295_BRB_Details_panel** for **Name** and click **Create**.
 
 1. Add the **Work Order** column to the view.
 
@@ -142,7 +144,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Click **+ New view**.
 
-1. Enter **odl_user_DID_BRB_Tooltip** for **Name** and click **Create**.
+1. Enter **odl_user_926295_BRB_Tooltip** for **Name** and click **Create**.
 
 1. Add the **Work Order** column to the view.
 
