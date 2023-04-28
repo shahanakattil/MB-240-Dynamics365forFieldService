@@ -14,7 +14,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>
 
-1. Select the **Prod-Env-926295** environment.
+1. Select the **Prod-Env-DID** environment.
     
     ![](../images/power-apps-01.png)
 
@@ -22,15 +22,15 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Click **+ New solution (2)**.
 
-1. Enter **odl_user_926295_Solution** for **Name (3)**.
+1. Enter **odl_user_DID_Solution** for **Name (3)**.
 
 1. Click **+ New publisher (4)**.
 
     ![](../images/power-apps-02.png)
 
-1. Enter **odl_user_926295** for **Display Name (1)**.
+1. Enter **odl_user_DID** for **Display Name (1)**.
 
-1. Enter **odl_user_926295** for **Name (2)**.
+1. Enter **odl_user_DID** for **Name (2)**.
 
 1. Enter **powerapp** for **Prefix (3)**.
 
@@ -38,7 +38,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
     ![](../images/power-apps-03.png)
 
-1. Select the **odl_user_926295** publisher.
+1. Select the **odl_user_DID** publisher.
 
 1. Click **Create**.
 
@@ -46,7 +46,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 ### Task 2: Add views to solution
 
-1. Click on **odl_user_926295_Solution**.
+1. Click on **odl_user_DID_Solution**.
 
     ![](../images/power-apps-05.png)
 
@@ -114,7 +114,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 ### Task 3: Customize views
 
-1. Edit your **odl_user_926295_Solution**.
+1. Edit your **odl_user_DID_Solution**.
 
 1. Select **Bookable Resource** table.
 
@@ -134,7 +134,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Click **Save As (1)**.
 
-1. Enter **odl_user_926295_Bookable_Resource_Detail_panel** for **Name (2)** and click **Save (3)**.
+1. Enter **odl_user_DID_Bookable_Resource_Detail_panel** for **Name (2)** and click **Save (3)**.
 
     ![](../images/power-apps-15.png)
 
@@ -150,7 +150,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Click **+ New view**.
 
-1. Enter **odl_user_926295_BRB_Details_panel** for **Name** and click **Create**.
+1. Enter **odl_user_DID_BRB_Details_panel** for **Name** and click **Create**.
 
     ![](../images/power-apps-17.png)
 
@@ -186,7 +186,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Click **+ New view**.
 
-1. Enter **odl_user_926295_BRB_Tooltip** for **Name** and click **Create**.
+1. Enter **odl_user_DID_BRB_Tooltip** for **Name** and click **Create**.
 
     ![](../images/power-apps-17.png)
 
@@ -222,7 +222,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Click **+ New view**.
 
-1. Enter **odl_user_926295_Unscheduled_North_Territory_Work Orders** for **Name** and click **Create**.
+1. Enter **odl_user_DID_Unscheduled_North_Territory_Work Orders** for **Name** and click **Create**.
 
     ![](../images/power-apps-17.png)
 
@@ -264,7 +264,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Select **Work Order**.
 
-1. Select **Service Territory** with operator **Equals** and value **odl_user_926295_North**.
+1. Select **Service Territory** with operator **Equals** and value **odl_user_DID_North**.
 
 1. Click **Ok**.
 
@@ -284,7 +284,7 @@ In this exercise, you will create a solution and add the views used on the sched
     
 1. In the **Scheduling** group select **Schedule Board**.
 
-1. Select the  **odl_user_926295_Board** tab.
+1. Select the  **odl_user_DID_Board** tab.
 
 1. Click the ellipsis (...) next to the name of the tab and select **Board settings**.
 
@@ -292,21 +292,21 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Select the **Map** tab.
 
-1. Select **odl_user_926295_Bookable_Resource_Detail_panel** for **Resource details view**.
+1. Select **odl_user_DID_Bookable_Resource_Detail_panel** for **Resource details view**.
 
     ![](../images/select-board-02.png)
 
 1. Expand **Schedule types** and select **Appointments**.
 
-1. Select **odl_user_926295_BRB_Details_panel** for **Booking details view**.
+1. Select **odl_user_DID_BRB_Details_panel** for **Booking details view**.
 
     ![](../images/select-board-03.png)
 
 1. Expand **Schedule types** and select **Work Order**.
 
-1. Select **odl_user_926295_BRB_Tooltip** for **Booking tooltips view**.
+1. Select **odl_user_DID_BRB_Tooltip** for **Booking tooltips view**.
 
-1. Select **odl_user_926295_BRB_Details_panel** for **Booking details view**.
+1. Select **odl_user_DID_BRB_Details_panel** for **Booking details view**.
 
     ![](../images/select-board-04.png)
 
@@ -318,7 +318,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Enter **North work orders to schedule** for **Title (4)**.
 
-1. Select **odl_user_926295_Unscheduled_North_Territory Work Orders** for **View (5)**.
+1. Select **odl_user_DID_Unscheduled_North_Territory Work Orders** for **View (5)**.
 
 1. Click **Save (6)**.
 
