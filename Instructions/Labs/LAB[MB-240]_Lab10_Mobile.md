@@ -14,27 +14,27 @@ In this exercise you will configure settings for work orders including prioritie
 
     ![](../images/Set-up-1.png)
 
-1. Select your user for **Users**.
+1. Select your user for **Users (1)**.
 
-1. Select your **Time Zone**.
+1. Select your **Time Zone (2)**.
 
-1. Click **Save and Close**.
+1. Click **Save and Close (3)**.
 
     ![](../images/Set-up-2.png)
 
 ### Task 2 – Create work order
 
-1. In the **Dynamics 365 Field Service app**, click the **Service** area in the bottom-left of the sitemap, and in the **Scheduling** group select **Work Orders**.
+1. In the **Dynamics 365 Field Service app**, click the **Service (1)** area in the bottom-left of the sitemap, and in the **Scheduling** group select **Work Orders (2)**.
 
-1. Click **+ New**.
+1. Click **+ New (3)**.
 
     ![](../images/Set-up-3.png)
 
-1. Select the **odl_user_DID_Relecloud** account you created in an earlier lab for **Service Account**.
+1. Select the **odl_user_DID_Relecloud** account you created in an earlier lab for **Service Account (1)**.
 
-1. Select the **odl_user_DID_Service_Printer** incident type you created in a previous lab for **Primary Incident Type**.
+1. Select the **odl_user_DID_Service_Printer** incident type you created in a previous lab for **Primary Incident Type (2)**.
 
-1. Select the **Settings** tab.
+1. Select the **Settings (3)** tab.
 
     ![](../images/Set-up-4.png)
 
@@ -104,17 +104,17 @@ In this exercise you will configure settings for work orders including prioritie
 
     ![](../images/Install-the-mobile-app-10.jpg)
 
-1. Enter **All ok** for **Comments**.
+1. Enter **All ok** for **Comments (1)**.
 
-1. Tap on **Photo** and allow the app to use your camera and take a photo.
+1. Tap on **Photo (2)** and allow the app to use your camera and take a photo.
 
-1. Slide **% Complete** to **100**.
+1. Slide **% Complete (3)** to **100**.
 
-1. Select **Pass** for **Result**.
+1. Select **Pass** for **Result (4)**.
 
-1. Set **Actual Duration** to **15 minutes**.
+1. Set **Actual Duration (5)** to **15 minutes**.
 
-1. Tap **Save**.
+1. Tap **Save (6)**.
 
     ![](../images/Install-the-mobile-app-14.jpg)
 
