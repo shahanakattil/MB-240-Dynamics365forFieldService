@@ -70,7 +70,7 @@ In this exercise you will configure settings for work orders including prioritie
 
 1. Change **Booking Status** to **Traveling** and tap **Save**. The color of the booking on the schedule board will change.
 
-    ![](../images/Install-the-mobile-app-2.png)
+    ![](../images/Install-the-mobile-app-2.jpg)
 
 1. Change **Booking Status** to **In Progress** and tap **Save**. The color of the booking on the schedule board will change.
 
@@ -78,7 +78,7 @@ In this exercise you will configure settings for work orders including prioritie
 
 1. Tap **Get Directions**.
 
-    ![](../images/Install-the-mobile-app-7.png)
+    ![](../images/Install-the-mobile-app-7.jpg)
 
 1. Close the mapping app.
 
@@ -92,7 +92,7 @@ In this exercise you will configure settings for work orders including prioritie
 
 1. Tap to open the **Inspect Printer** task.
 
-    ![](../images/Install-the-mobile-app-9.png)
+    ![](../images/Install-the-mobile-app-9.jpg)
 
 1. If you have barcode available click on the barcode symbol and allow the app to use your device and scan a barcode.
 
@@ -102,7 +102,7 @@ In this exercise you will configure settings for work orders including prioritie
 
 1. Enter **500** for **Page Count**.
 
-    ![](../images/Install-the-mobile-app-10.png)
+    ![](../images/Install-the-mobile-app-10.jpg)
 
 1. Enter **All ok** for **Comments**.
 
@@ -116,7 +116,7 @@ In this exercise you will configure settings for work orders including prioritie
 
 1. Tap **Save**.
 
-    ![](../images/Install-the-mobile-app-14.png)
+    ![](../images/Install-the-mobile-app-14.jpg)
 
 1. Tap **<** to return to the booking.
 
@@ -126,7 +126,7 @@ In this exercise you will configure settings for work orders including prioritie
 
 1. Tap **Save**.
 
-    ![](../images/Install-the-mobile-app-13.png)
+    ![](../images/Install-the-mobile-app-13.jpg)
 
 1. Tap **<** to return to the booking.
 
@@ -138,7 +138,7 @@ In this exercise you will configure settings for work orders including prioritie
 
 1. Tap **Save**.
 
-    ![](../images/Install-the-mobile-app-12.png)
+    ![](../images/Install-the-mobile-app-12.jpg)
 
 1. Tap **<** to return to the booking.
 
