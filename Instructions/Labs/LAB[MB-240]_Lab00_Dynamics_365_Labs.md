@@ -18,7 +18,6 @@ In this Module 0 lab, you will validate and set up your tenant. You will have ac
 
     ![](../images/azure-login.png)
 
-
     ![](../images/azure-login-password.png)
 
 1. On the **Action Required** page, select **Ask Later**. and select **No** on the **Stay Signed in** page.
