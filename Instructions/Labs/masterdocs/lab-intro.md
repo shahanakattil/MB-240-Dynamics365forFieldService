@@ -10,7 +10,7 @@
 
 1. The **[DeploymentId]/[DID]** can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the **[DeploymentID]**.
 
-    **Deployment ID:** <inject key="GET-DEPLOYMENT-ID" />
+    **Deployment ID:** <inject key= GET-DEPLOYMENT-ID />
 
     ![](/Instructions/images/DID.png)
 
