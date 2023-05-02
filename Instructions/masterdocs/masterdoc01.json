@@ -5,7 +5,7 @@
     "BaseURL": "https://github.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService",
     "Files": [
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService/stage/Instructions/Labs/masterdocs/lab-intro.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService/stage/Instructions/masterdocs/lab-intro.md",
         "Order": 1
       },
       {
