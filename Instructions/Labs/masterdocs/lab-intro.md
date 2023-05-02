@@ -2,6 +2,10 @@
 
 1. Select the **Environment Details** tab. This contains your user credentials for the lab.
 
+    **Username:** <inject key="AzureAdUserEmail" />
+    
+    **Password:** <inject key="AzureAdUserPassword" />
+
     ![](/Instructions/images/environment-details.png)
 
 1. The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
