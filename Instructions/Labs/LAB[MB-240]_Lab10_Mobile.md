@@ -54,6 +54,8 @@ In this exercise you will configure settings for work orders including prioritie
 
 ### Task 3 – Install the mobile app
 
+>**`Note`**: From here all the tasks will be performed via a mobile app
+
 1. In your mobile devices app store, search for **Field Service Dynamics 365**.
 
 1. Select the **Field Service (Dynamics 365)** app and install.
