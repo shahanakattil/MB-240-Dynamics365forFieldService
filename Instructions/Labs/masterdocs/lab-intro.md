@@ -8,7 +8,7 @@
 
     ![](/Instructions/images/environment-details.png)
 
-1. The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
+1. The **[DeploymentId]/[DID]** can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
 
     ![](/Instructions/images/DID.png)
 
