@@ -98,7 +98,7 @@ In this exercise you will create the location where resources will start and end
 
 1. Click **Save (4)**.
 
-    ![](../images/Hourly-Rate.png)
+    ![](../images/Hourly-Rates.png)
 
 1. Select the **General** tab
 
