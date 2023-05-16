@@ -110,7 +110,7 @@ In this exercise you will be defining an inspection template and adding it to a 
 
 1. Click **Save (5)**.
 
-    ![](../images/service-task-types-3.png)
+    ![](../images/Service_Task_Types_3.png)
 
 1. In the **Work Orders** group select **Incident Types**.
 
