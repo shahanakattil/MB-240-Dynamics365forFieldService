@@ -200,7 +200,7 @@ In this exercise, you will use Power Automate to send a survey when a work order
 
 1. Select your survey.
 
-1. Click on the **Resend** tab.
+1. Click on the **Send** tab, and select **Resend** drop-down.
 
 1. Click **Automate**.
 
