@@ -22,7 +22,7 @@ In this exercise, you will be defining a preventative maintenance agreement that
 
 1. Select the **odl_user_DID_Price_List** price list created in a previous lab for **Price List (2)**.
 
-1. Select the first of the current month for the **Start Date (3)**.
+1. Select the first day of the current month for the **Start Date (3)**.
 
 1. Select the **End Date (3)** to 12 months after the start date.
 
