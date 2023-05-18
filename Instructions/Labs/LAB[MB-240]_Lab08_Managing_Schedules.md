@@ -61,6 +61,8 @@ Universal Resource Scheduling provides several items that can be used to assist 
 1. In the General tab, make sure **Enable new Schedule Board** is set to **On**.
 
    ![](../images/Create-work-order-3.png)
+   
+   >Note: "If you do not see the option please proceed to the next part of the exercise".
 
 ### Task 2 – Schedule work orders
 
@@ -86,7 +88,7 @@ Universal Resource Scheduling provides several items that can be used to assist 
 
 1. Click on the **Filters** icon.
 
-1. Select the **odl_user_DID_North** territory you created in a previous lab. 
+1. Select the **odl_user_DID_North** in **territories** you created in a previous lab. 
 
 1. Click **Apply**. Your resource should be listed.
 

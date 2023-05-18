@@ -22,7 +22,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Click **+ New solution (2)**.
 
-1. Enter **odl_user_DID_Solution** for **Name (3)**.
+1. Enter **odl_user_DID_Solution** for **Display Name & Name (3)**.
 
 1. Click **+ New publisher (4)**.
 
@@ -330,7 +330,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
     ![](../images/select-board-06.png)
 
-1. Select the a booking and verify the tooltip reflects the changes you made.
+1. Select the booking and verify the tooltip reflects the changes you made.
 
     ![](../images/select-board-07.png)
 

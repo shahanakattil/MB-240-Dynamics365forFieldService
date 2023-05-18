@@ -126,7 +126,7 @@ In this task you will create a proficiency model that contains the five differen
 
 1. Click **+ New Rating Value**.
 
-1. Enter ***odl_user_DID_Proficient** for **Name**.
+1. Enter **odl_user_DID_Proficient** for **Name**.
 
 1. Enter **2** for **Value**.
 
@@ -134,7 +134,7 @@ In this task you will create a proficiency model that contains the five differen
 
 1. Click **+ New Rating Value**.
 
-1. Enter ***odl_user_DID_Expert** for **Name**.
+1. Enter **odl_user_DID_Expert** for **Name**.
 
 1. Enter **3** for **Value**.
 

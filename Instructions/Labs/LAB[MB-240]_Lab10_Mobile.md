@@ -90,11 +90,11 @@ In this exercise you will configure settings for work orders including prioritie
 
 1. Check the **Replace Toner** task.
 
-1. Check the **Final Test** task.
+1. Check the **Replace Final Test** task.
 
 1. Tap to open the **Inspect Printer** task.
 
-    ![](../images/Install-the-mobile-app-9.jpg)
+    ![](../images/image-9.jpg)
 
 1. If you have barcode available click on the barcode symbol and allow the app to use your device and scan a barcode.
 

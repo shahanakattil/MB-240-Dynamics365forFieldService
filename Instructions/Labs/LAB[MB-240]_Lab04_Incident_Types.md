@@ -130,7 +130,7 @@ In this exercise you will create and populate an Incident Type as a template for
 
 1. Enter **odl_user_DID_Replace_Final_Test** for **Name**.
 
-1. Select the **odl_user_DID_Replace_Final_Test** service task type you created in Task 2 for **Task Type**.
+1. Select the **odl_user_DID_Final_Test** service task type you created in Task 2 for **Task Type**.
 
 1. Click **Save and Close**.
 
