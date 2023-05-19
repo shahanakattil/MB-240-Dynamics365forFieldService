@@ -57,13 +57,6 @@ In this practice lab, you will validate and set up your tenant.
    
 >**Note**: Wait for the Environment to get ready before you continue with this lab.
 
-
-> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-> - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
-> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
-> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
-
 ### Task 3 – Access the Dynamics 365 application
 
 1. On the Power Platform admin center, select the **Prod-Env-[DeploymentID]** environment.
