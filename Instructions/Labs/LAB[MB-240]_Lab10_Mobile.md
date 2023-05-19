@@ -73,7 +73,7 @@ In this exercise, you will configure settings for work orders including prioriti
 
 ### Task 4 – Process the booking
 
-1. Tap to open the booking.
+1. In this task to process the booking, Tap to open the booking.
 
 1. Change **Booking Status** to **Traveling** and tap **Save**. The color of the booking on the schedule board will change.
 
