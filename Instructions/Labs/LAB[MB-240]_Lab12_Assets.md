@@ -101,6 +101,12 @@ In this exercise, you will create the assets for a customer.
 
     ![](../images/Service-Account-9.png)
 
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
 ### Task 3 – Asset hierarchy
 
 1. In the **Dynamics 365 Field Service app**, click the **Service** area in the bottom-left of the sitemap, and in the **Assets** group select **Assets**.
@@ -179,6 +185,12 @@ In this exercise, you will create functional locations for an account and associ
 
     ![](../images/Service-Account-4.png)
 
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
 ### Task 2 – Associate assets with functional locations
 
 1. In the **Dynamics 365 Field Service app**, click the **Service** area in the bottom-left of the sitemap, and in the **Customers** group select **Accounts**.
@@ -220,3 +232,5 @@ In this exercise, you will create a work order linked to the customer asset and 
 1. Open the work order product and in the **General** tab, verify the customer asset is populated.
 
     ![](../images/Service-Account-1.png)
+
+**Result:** You have successfully learnt setting the products to convert to customer assets and created assets.Also additionally you have created functional locations to accounts and associate to assets.
