@@ -46,6 +46,12 @@ In this exercise, you will adding territories that will be used when scheduling 
 
 1. You will now have four Territories with your prefix.
 
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
 ## Exercise 3 - Create Products
 
 In this exercise, you will adding products and services for use on work orders and add them to the price list.
@@ -197,3 +203,9 @@ In this exercise, you will adding products and services for use on work orders a
 1. Select the **[your prefix] Printer Service Fee** product you created in Task 3.
 
 1. Click **Save & Close**.
+
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
