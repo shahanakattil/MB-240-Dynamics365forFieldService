@@ -93,6 +93,12 @@ In this exercise, you will configure settings for work orders including prioriti
 1. Click **Save & Close**. You should have a total of 4 active resolutions created as shown below.
 
     ![](../images/priorities-06.png)
+    
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 ## Exercise 2 – Create and process work orders
 
@@ -164,3 +170,11 @@ Field Service provides several items that can be used to assist in scheduling re
     ![](../images/work-order-new-04.png)
 
     ![](../images/work-order-new-05.png)
+
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+**Result:** You have successfully made settings to work orders. Followed by you have created and completed work orders by scheduling them successfully.
