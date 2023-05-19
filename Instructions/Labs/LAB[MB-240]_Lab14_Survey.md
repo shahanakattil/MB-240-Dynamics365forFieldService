@@ -232,3 +232,5 @@ In this exercise, you will use Power Automate to send a survey when a work order
 1. Click **Save**.
 
     ![](../images/custom-voice-40.png)
+    
+ **Result:** You have successfully created a project and using template created a survey. Followed by creating an email template you have sent the survey by email successfully.
