@@ -81,6 +81,12 @@ In this exercise, you will create and populate an Incident Type as a template fo
 
     ![](../images/Service-Task-Types-2.png)
 
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
 ### Task 3 – Incident Type
 
 1. In the **Work Orders** group select **Incident Types**.
@@ -261,3 +267,11 @@ In this exercise, you will create a work order by using the incident type.
     ![](../images/work-order-05.png)
 
 1. Verify that the two Characteristics defined on the Incident Type were added.
+
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+**Result:** You have successfully created/populated an Incident Type as a template and also created a work order by using the incident type.
