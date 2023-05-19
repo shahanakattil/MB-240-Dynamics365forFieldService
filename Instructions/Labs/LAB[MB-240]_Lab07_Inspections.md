@@ -90,6 +90,12 @@ In this exercise, you will be defining an inspection template and adding it to a
 
     ![](../images/inspection-10.png)
 
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
 ### Task 2 - Add Inspection Template to Service Type Task
 
 1. In the **Work Orders** group select **Service Task Types**.
@@ -185,3 +191,11 @@ In this exercise, you will be defining an inspection template and adding it to a
 1. Click **Mark Complete (2)**.
 
     ![](../images/inspection-19.png)
+
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+**Result:** You have successfully definied an inspection template by adding it to a service type task. Also you were able to view inspection by creating a work order.
