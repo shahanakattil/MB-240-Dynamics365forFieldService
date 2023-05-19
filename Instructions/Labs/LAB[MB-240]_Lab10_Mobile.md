@@ -51,6 +51,12 @@ In this exercise, you will configure settings for work orders including prioriti
 
     ![](../images/Set-up-6.png)
 
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
 ### Task 3 – Install the mobile app
 
 >**`Note`**: From here all the tasks will be performed via a mobile app
@@ -148,3 +154,5 @@ In this exercise, you will configure settings for work orders including prioriti
 1. Change **Booking Status** to **Completed** and tap **Save**.
 
 1. Tap **<** to return to the agenda.
+
+**Result:** You have successfully configured Field Service mobile app for frontline workers by creating work orders including priorities and resolutions.
