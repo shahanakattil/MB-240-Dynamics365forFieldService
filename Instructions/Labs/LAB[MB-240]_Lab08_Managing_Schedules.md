@@ -47,6 +47,12 @@ Out-of-the-box, Dynamics 365 for Field Service has the work order table enabled 
 
 1. Click **Save**. (Make a note of the Work Order number.)
 
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
 ## Exercise 2 - Schedule work orders using the schedule board
 
 Universal Resource Scheduling provides several items that can be used to assist in scheduling resources for specific items. The two primary components that are used are the Schedule Board and the Schedule Assistant. The Schedule Board provides the ability to manually schedule items, and the assistant offers suggestions on resources based on factors like location, skills, and availability. In this exercise, we will examine how you can use the schedule board to schedule items.
@@ -122,3 +128,5 @@ Universal Resource Scheduling provides several items that can be used to assist 
 1. Select your resource and click **Book & Exit**.
 
    ![](../images/Create-work-order-10.png)
+
+**Result:** You have successfully created work orders by scheduling them using Schedule Boards.
