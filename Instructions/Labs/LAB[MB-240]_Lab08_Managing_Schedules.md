@@ -4,7 +4,6 @@
 
 Out-of-the-box, Dynamics 365 for Field Service has the work order table enabled for use with the Resource Scheduling feature. In this exercise, we will be creating work orders that we can schedule using the application.
 
-   >Note: The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
 
 ### Task 1 – Create work orders
 
@@ -12,17 +11,17 @@ Out-of-the-box, Dynamics 365 for Field Service has the work order table enabled 
 
 1. Click **+ New**.
 
-1. Select the **odl_user_DID_Relecloud** account you created in an earlier lab for **Service Account**.
+1. Select the **Relecloud** account you created in an earlier lab for **Service Account**.
 
-1. Select the **odl_user_DID_Service_Printer** incident type you created in a previous lab for **Primary Incident Type**.
+1. Select the **Service Printer** incident type you created in a previous lab for **Primary Incident Type**.
 
 1. Select the **Settings** tab.
 
    ![](../images/Create-work-order-1.png)
 
-1. Select the **odl_user_DID_Normal** priority you created in a previous lab for **Priority**.
+1. Select the **Normal** priority you created in a previous lab for **Priority**.
 
-1. Select the **odl_user_DID_North** territory you created in a previous lab for **Service Territory**.
+1. Select the **North** territory you created in a previous lab for **Service Territory**.
 
 1. Enter **Today \@ 1:00 PM** for **Time from Promised**.
 
@@ -36,21 +35,21 @@ Out-of-the-box, Dynamics 365 for Field Service has the work order table enabled 
 
 1. Click **+ New**.
 
-1. Select the **odl_user_DID_Relecloud** account you created in an earlier lab for **Service Account**.
+1. Select the **Relecloud** account you created in an earlier lab for **Service Account**.
 
-1. Select the **odl_user_DID_Quick_Inspection** incident type you created in a previous lab for **Primary Incident Type**.
+1. Select the **Quick Inspection** incident type you created in a previous lab for **Primary Incident Type**.
 
 1. Select the **Settings** tab.
 
-1. Select the **odl_user_DID_Urgent** priority you created in a previous lab for **Priority**.
+1. Select the **Urgent** priority you created in a previous lab for **Priority**.
 
-1. Select the **odl_user_DID_North** territory you created in a previous lab for **Service Territory**.
+1. Select the **North** territory you created in a previous lab for **Service Territory**.
 
 1. Click **Save**. (Make a note of the Work Order number.)
 
 ## Exercise 2 - Schedule work orders using the schedule board
 
-Universal Resource Scheduling provides several items that can be used to assist in scheduling resources for specific items. The two primary components that are used are the Schedule Board and the Schedule Assistant. The Schedule Board provides the ability to manually schedule items, and the assistant offers suggestions on resources based on factors like location, skills, and availability. In this exercise we will examine how you can use the schedule board to schedule items.
+Universal Resource Scheduling provides several items that can be used to assist in scheduling resources for specific items. The two primary components that are used are the Schedule Board and the Schedule Assistant. The Schedule Board provides the ability to manually schedule items, and the assistant offers suggestions on resources based on factors like location, skills, and availability. In this exercise, we will examine how you can use the schedule board to schedule items.
 
 ### Task 1 – Enable the new Schedule Board
 
@@ -88,7 +87,7 @@ Universal Resource Scheduling provides several items that can be used to assist 
 
 1. Click on the **Filters** icon.
 
-1. Select the **odl_user_DID_North** in **territories** you created in a previous lab. 
+1. Select the **North** in **territories** you created in a previous lab. 
 
 1. Click **Apply**. Your resource should be listed.
 
@@ -118,7 +117,7 @@ Universal Resource Scheduling provides several items that can be used to assist 
 
    ![](../images/Create-work-order-9.png)
 
-1. Select the **Normal** work order that you created in Exercise 1 and from the **Unscheduled Work Orders** tab and click **Find Availability**.
+1. Select the **Normal** work order that you created in Exercise 1 from the **Unscheduled Work Orders** tab and click **Find Availability**.
 
 1. Select your resource and click **Book & Exit**.
 

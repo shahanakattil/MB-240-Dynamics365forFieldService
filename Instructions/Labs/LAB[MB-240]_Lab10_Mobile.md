@@ -2,9 +2,8 @@
 
 ## Exercise 1 – Configure Field Service mobile app for frontline workers
 
-In this exercise you will configure settings for work orders including priorities and resolutions.
+In this exercise, you will configure settings for work orders including priorities and resolutions.
 
-   >Note: The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
 
 ### Task 1 – Configure security and offline profile
 
@@ -30,15 +29,15 @@ In this exercise you will configure settings for work orders including prioritie
 
     ![](../images/Set-up-3.png)
 
-1. Select the **odl_user_DID_Relecloud** account you created in an earlier lab for **Service Account (1)**.
+1. Select the **Relecloud** account you created in an earlier lab for **Service Account (1)**.
 
-1. Select the **odl_user_DID_Service_Printer** incident type you created in a previous lab for **Primary Incident Type (2)**.
+1. Select the **Service Printer** incident type you created in a previous lab for **Primary Incident Type (2)**.
 
 1. Select the **Settings (3)** tab.
 
     ![](../images/Set-up-4.png)
 
-1. Select the **odl_user_DID_Normal** priority you created in a previous lab for **Priority**.
+1. Select the **Normal** priority you created in a previous lab for **Priority**.
 
 1. Click **Save**.
 
@@ -46,7 +45,7 @@ In this exercise you will configure settings for work orders including prioritie
 
 1. In the **Dynamics 365 Field Service app**, click the **Service** area in the bottom-left of the sitemap, and in the **Scheduling** group select **Schedule Board**.
 
-1. Select the  **odl_user_DID_Board** tab.
+1. Select the  **Board** tab.
 
 1. Drag the requirement for the work order to an available slot for today or tomorrow for your resource.
 

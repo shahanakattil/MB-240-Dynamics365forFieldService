@@ -4,7 +4,6 @@
 
 You are a dispatch manager at Relecloud who has been tasked with trying the Customer Voice functionality to capture feedback on work orders before rolling it out to your customers.
 
-   >Note: The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
 
 ## Exercise 1: Create survey
 
@@ -38,7 +37,7 @@ In this exercise, you will create a project and use a template to create a surve
 
 1. Click on the ellipsis (2) next to your project and select **Rename (3)**.
 
-1. Enter **odl_user_DID_Work_Order_Visit_Feedback** and click on **Rename**.
+1. Enter **Work Order VisitFeedback** and click on **Rename**.
 
     ![](../images/custom-voice-06.png)
 
@@ -154,11 +153,11 @@ In this exercise, you will create an email template and send the survey by email
 
     ![](../images/custom-voice-27.png)
 
-1. Enter **odl_user_DID_Field_Service_Visit** and click **Add**.
+1. Enter **Field Service Visit** and click **Add**.
 
     ![](../images/custom-voice-28.png)
 
-1. Click on the **Template** drop-down and **odl_user_DID_Field_Service_Visit**.
+1. Click on the **Template** drop-down and **Field Service Visit**.
 
     ![](../images/custom-voice-29.png)
 

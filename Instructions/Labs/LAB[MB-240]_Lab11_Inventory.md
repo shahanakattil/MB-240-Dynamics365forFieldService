@@ -2,9 +2,8 @@
 
 ## Exercise 1 – Manage inventory
 
-In this exercise you will add inventory to a warehouse and then transfer to a truck.
+In this exercise, you will add inventory to a warehouse and then transfer it to a truck.
 
-   >Note: The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
 
 ### Task 1 – Setup inventory in Warehouse
 
@@ -20,7 +19,7 @@ In this exercise you will add inventory to a warehouse and then transfer to a tr
 
 1. Click **+ New Product Inventory**.
 
-1. Select the **odl_user_DID_Remote_Printer** product you created in a previous lab for **Product**.
+1. Select the **Remote Printer** product you created in a previous lab for **Product**.
 
 1. Select the **Primary Unit** for **Unit**.
 
@@ -44,7 +43,7 @@ In this exercise you will add inventory to a warehouse and then transfer to a tr
 
 1. Click **+ New Inventory Adjustment Product**.
 
-1. Select the **odl_user_DID_Remote Printer** product you created in a previous lab for **Product**.
+1. Select the **Remote Printer** product you created in a previous lab for **Product**.
 
 1. Select the **Primary Unit** for **Unit**.
 
@@ -66,7 +65,7 @@ In this exercise you will add inventory to a warehouse and then transfer to a tr
 
 1. Select **Main** for **Source Warehouse**.
 
-1. Select **odl_user_DID_Truck** for **Destination Warehouse**.
+1. Select **Truck** for **Destination Warehouse**.
 
 1. Click **Save**.
 
@@ -76,7 +75,7 @@ In this exercise you will add inventory to a warehouse and then transfer to a tr
 
     ![](../images/Setup-inventory-in-Warehouse-2.png)
 
-1. Select the **odl_user_DID_Remote Printer** product you created in a previous lab for **Product**.
+1. Select the **Remote Printer** product you created in a previous lab for **Product**.
 
 1. Select the **Primary Unit** for **Unit**.
 

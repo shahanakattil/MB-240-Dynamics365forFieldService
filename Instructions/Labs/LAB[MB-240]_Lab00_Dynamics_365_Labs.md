@@ -4,9 +4,7 @@
 
 Worldwide Industries (WWI) provides IT and networking services to its customers. Their services range from phone system and network installations to telephoning systems and security system installations. They are going to be leveraging Dynamics 365 for Field Service for the installation and servicing of these systems for their customers. You are the system implementor that has been tasked with configuring the application to support the rollout of the application. You will be adding and configuring some products that can be installed and setting up skills and characteristics that will be used as part of the implementation.
 
-In this Module 0 lab, you will validate and set up your tenant. You will have access to your individual credentials, and record your **DeploymentID** from the environment details tab. We will be using that throughout the course.
-
-**Important notice for users:** Please do not make any changes, including adding licenses or changing tenant passwords. Tenants are fully provisioned with all necessary licenses, environments, and applications to complete the required tenants. Instructors and students should not add any additional functionality outside of the published lab steps.
+In this practice lab, you will validate and set up your tenant.
 
 ## Exercise 1 - Access the Dynamics 365 application
 
@@ -46,17 +44,25 @@ In this Module 0 lab, you will validate and set up your tenant. You will have ac
     |Region|**United States**|
     |Type|**Production**|
     |Add a Dataverse data store?|**Enabled** and select Next|
+
+    ![](../images/power-platform-environment-new-add-01.png)
+
+    |Setting|Value|
+    |---|---|
     |Enable Dynamics 365 apps?|**Enabled**| 
     |Automatically Deploy these apps| Select **Field Service** from the dropdown|
     |Security group|click on **+ Select** and select the **None** option from the list and click on **Done**|
 
-   >Note: The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
-   
-   >**Note**: Wait for the Environment to get ready before you continue with this lab.
-
-    ![](../images/power-platform-environment-new-add-01.png)
-
     ![](../images/power-platform-environment-new-add-02.png)
+   
+>**Note**: Wait for the Environment to get ready before you continue with this lab.
+
+
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 ### Task 3 – Access the Dynamics 365 application
 
@@ -69,3 +75,6 @@ In this Module 0 lab, you will validate and set up your tenant. You will have ac
     ![](../images/field-service-select.png)
 
 1. Spend a few minutes exploring the application.
+
+> **Result:** You have successfully created your Dynamics 365 environment. 
+

@@ -2,9 +2,8 @@
 
 ## Exercise 1 – Create an Incident Type
 
-In this exercise you will create and populate an Incident Type as a template for creating work orders.
+In this exercise, you will create and populate an Incident Type as a template for creating work orders.
 
-   >Note: The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
    
 ### Task 1 - Work Order Type
 
@@ -18,11 +17,11 @@ In this exercise you will create and populate an Incident Type as a template for
 
     ![](../images/incident-types-1.png)
 
-1. Enter **odl_user_DID_Service_Call** for **Name (1)**.
+1. Enter **Service Call** for **Name (1)**.
 
 1. Select **Yes** from the **Incident Required (2)** drop-down field.
 
-1. Select the **odl_user_DID_Price_List** record you created in the previous lab for **Price List (3)**.
+1. Select the **Price List** record you created in the previous lab for **Price List (3)**.
 
 1. Click **Save & Close (4)**
 
@@ -30,11 +29,11 @@ In this exercise you will create and populate an Incident Type as a template for
 
 1. Click **+ New**.
 
-1. Enter **odl_user_DID_Inspection** for **Name**.
+1. Enter **Inspection** for **Name**.
 
 1. Select **No** from the **Incident Required** drop-down field.
 
-1. Select the **odl_user_DID_Price_List** record you created in the previous lab for **Price List**.
+1. Select the **Price List** record you created in the previous lab for **Price List**.
 
 1. Click **Save & Close**
 
@@ -48,7 +47,7 @@ In this exercise you will create and populate an Incident Type as a template for
 
 1. Click **+ New**.
 
-1. Enter **odl_user_DID_Clean_Printer_Assembly** for **Name(1)**.
+1. Enter **Clean Printer Assembly** for **Name(1)**.
 
 1. Select **30 Minutes** for **Estimated Duration (2)**.
 
@@ -58,7 +57,7 @@ In this exercise you will create and populate an Incident Type as a template for
 
 1. Click **+ New**.
 
-1. Enter **odl_user_DID_Replace_Toner** for **Name**.
+1. Enter **Replace Toner** for **Name**.
 
 1. Select **15 Minutes** for **Estimated Duration**.
 
@@ -66,7 +65,7 @@ In this exercise you will create and populate an Incident Type as a template for
 
 1. Click **+ New**.
 
-1. Enter **odl_user_DID_Final_Test** for **Name**.
+1. Enter **Final Test** for **Name**.
 
 1. Select **15 Minutes** for **Estimated Duration**.
 
@@ -74,7 +73,7 @@ In this exercise you will create and populate an Incident Type as a template for
 
 1. Click **+ New**.
 
-1. Enter **odl_user_DID_Inspection** for **Name**.
+1. Enter **Inspection** for **Name**.
 
 1. Select **45 Minutes** for **Estimated Duration**.
 
@@ -90,13 +89,13 @@ In this exercise you will create and populate an Incident Type as a template for
 
 1. Click **+ New**.
 
-1. Enter **odl_user_DID_Service_Printer** for **Name**.
+1. Enter **Service Printer** for **Name**.
 
     ![](../images/incident-types-6.png)
 
 1. Select the **Details (1)** tab.
 
-1. Select the **odl_user_DID_Service Call** work order type you created in Task 1 for **Default Work Order Type (2)**.
+1. Select the **Service Call** work order type you created in Task 1 for **Default Work Order Type (2)**.
 
 1. Select **Yes** from the **Copy Incident Items to Agreement (3)** drop-down field.
 
@@ -110,9 +109,9 @@ In this exercise you will create and populate an Incident Type as a template for
 
     ![](../images/incident-types-8.png)
 
-1. Enter **odl_user_DID_Clean_Printer_Assembly** for **Name(1)**.
+1. Enter **Clean Printer Assembly** for **Name(1)**.
 
-1. Select the **odl_user_DID_Clean_Printer_Assembly** service task type you created in Task 2 for **Task Type (2)**.
+1. Select the **Clean Printer Assembly** service task type you created in Task 2 for **Task Type (2)**.
 
 1. Click **Save and Close (3)**.
 
@@ -120,17 +119,17 @@ In this exercise you will create and populate an Incident Type as a template for
 
 1. Click **+ New Incident Type Service Task**.
 
-1. Enter **odl_user_DID_Replace_Toner** for **Name**.
+1. Enter **Replace Toner** for **Name**.
 
-1. Select the **odl_user_DID_Replace_Toner** service task type you created in Task 2 for **Task Type**.
+1. Select the **Replace Toner** service task type you created in Task 2 for **Task Type**.
 
 1. Click **Save and Close**.
 
 1. Click **+ New Incident Type Service Task**.
 
-1. Enter **odl_user_DID_Replace_Final_Test** for **Name**.
+1. Enter **Replace Final Test** for **Name**.
 
-1. Select the **odl_user_DID_Final_Test** service task type you created in Task 2 for **Task Type**.
+1. Select the **Final Test** service task type you created in Task 2 for **Task Type**.
 
 1. Click **Save and Close**.
 
@@ -142,9 +141,9 @@ In this exercise you will create and populate an Incident Type as a template for
 
     ![](../images/incident-types-10.png)
 
-1. Enter **odl_user_DID_Remote_Printer** for **Name (1)**.
+1. Enter **Remote Printer** for **Name (1)**.
 
-1. Select the **odl_user_DID_Remote_Printer** product you created in a previous lab for **Product (2)**.
+1. Select the **Remote Printer** product you created in a previous lab for **Product (2)**.
 
 1. Select the **Primary Unit** for **Unit (3)**.
 
@@ -160,9 +159,9 @@ In this exercise you will create and populate an Incident Type as a template for
 
     ![](../images/incident-types-13.png)
 
-1. Enter **odl_user_DID_Printer_Service_Fee** for **Name (1)**.
+1. Enter **Printer Service Fee** for **Name (1)**.
 
-1. Select the **odl_user_DID_Printer_Service_Fee** product you created in a previous lab for **Service (2)**.
+1. Select the **Printer Service Fee** product you created in a previous lab for **Service (2)**.
 
 1. Select the **Primary Unit** for **Unit (3)**.
 
@@ -176,9 +175,9 @@ In this exercise you will create and populate an Incident Type as a template for
 
     ![](../images/incident-types-15.png)
 
-1. Select the **odl_user_DID_CISM** characteristic you created in a previous lab for **Characteristic (1)**.
+1. Select the **CISM** characteristic you created in a previous lab for **Characteristic (1)**.
 
-1. Select the **odl_user_DID_Familiar** rating you created in a previous lab for **Rating Value (2)**. Click on the search icon to see all the rating values if you are unable to locate the rating.
+1. Select the **Familiar** rating you created in a previous lab for **Rating Value (2)**. Click on the search icon to see all the rating values if you are unable to locate the rating.
 
 1. Click **Save and Close (3)**.
 
@@ -188,15 +187,15 @@ In this exercise you will create and populate an Incident Type as a template for
 
 1. Click **+ New Incident Type Characteristic**.
 
-1. Select the **odl_user_DID_Building_Security** characteristic you created in a previous lab for **Characteristic**.
+1. Select the **Building Security** characteristic you created in a previous lab for **Characteristic**.
 
-1. Select the **odl_user_DID_Level_2_Security** rating you created in a previous lab for **Rating Value**. Click on the search icon to see all the rating values if you are unable to locate the rating.
+1. Select the **Level 2 Security** rating you created in a previous lab for **Rating Value**. Click on the search icon to see all the rating values if you are unable to locate the rating.
 
 1. Click **Save and Close**.
 
 ## Exercise 2 – Test the Incident Type
 
-In this exercise you will create a work order by using the incident type.
+In this exercise, you will create a work order by using the incident type.
 
 ### Task 1 - Create Customer
 
@@ -210,7 +209,7 @@ In this exercise you will create a work order by using the incident type.
 
     ![](../images/test-incident-type-02.png)
 
-1. Enter **odl_user_DID_Relecloud** for **Account Name**. Click **Save**.
+1. Enter **Relecloud** for **Account Name**. Click **Save**.
 
 1. Click **Save & Close**.
 
@@ -218,11 +217,11 @@ In this exercise you will create a work order by using the incident type.
 
 1. Click **+ New** located on the command bar.
 
-1. Enter **odl_user_DID_Jane** for **First Name**.
+1. Enter **Jane** for **First Name**.
 
 1. Enter **Doe** for **Last Name**.
 
-1. Select the **odl_user_DID_Relecloud** account you created in Task 1 for **Account Name**.
+1. Select the **Relecloud** account you created in Task 1 for **Account Name**.
 
 1. Click **Save & Close**.
 
@@ -234,12 +233,12 @@ In this exercise you will create a work order by using the incident type.
 
 1. Click **+ New**.
 
-1. Select the **odl_user_DID_Relecloud** account you created in Task 1 for **Service Account (1)**.
+1. Select the **Relecloud** account you created in Task 1 for **Service Account (1)**.
 
-1. Select the **odl_user_DID_Service_Call** you created in a previous lab for **Work Order Type (2)**.
+1. Select the **Service Call** you created in a previous lab for **Work Order Type (2)**.
 
 
-1. Select the **odl_user_DID_Service_Printer** incident type you created in a previous lab for **Primary Incident Type (3)**.
+1. Select the **Service Printer** incident type you created in a previous lab for **Primary Incident Type (3)**.
 
 1. Click **Save (4)**.
 
@@ -247,11 +246,11 @@ In this exercise you will create a work order by using the incident type.
 
 1. Wait about 30 seconds to a minute and click **Refresh** in the command bar.
 
-1. Select the **Products** tab and verify that the **odl_user_DID_Remote_Printer_Product** was added.
+1. Select the **Products** tab and verify that the **Remote Printer Product** was added.
 
     ![](../images/work-order-03.png)
 
-1. Select the **Services** tab and verify that the **odl_user_DID_Printer_Service_Fee** was added.
+1. Select the **Services** tab and verify that the **Printer Service Fee** was added.
 
     ![](../images/work-order-04.png)
 

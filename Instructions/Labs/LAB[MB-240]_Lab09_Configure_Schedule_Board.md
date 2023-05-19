@@ -2,9 +2,8 @@
 
 ## Exercise 1 - Create and configure a new schedule board
 
-You can create new schedule boards and configure the for your requirements. In this exercise we will create and configure a schedule board.
+You can create new schedule boards and configure them for your requirements. In this exercise, we will create and configure a schedule board.
 
-   >Note: The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
 
 ### Task 1 – Create a schedule board
 
@@ -14,7 +13,7 @@ You can create new schedule boards and configure the for your requirements. In t
 
 1. Click the **+** icon in the top-left of the schedule board to add a new schedule board tab.
 
-1. Enter **odl_user_DID_Board (1)** for **Board Name**.
+1. Enter ** Board (1)** for **Board Name**.
 
 1. Select **Everyone (2)** from the **Shared with** drop-down field.
 
@@ -46,7 +45,7 @@ You can create new schedule boards and configure the for your requirements. In t
 
     ![](../images/Create-a-schedule-board-3.png)
 
-1. Select the  **odl_user_DID_Board (1)** tab.
+1. Select the  ** Board (1)** tab.
 
 1. Click on the **Scheduler Settings (2)** gear icon on the Schedule Board.
 

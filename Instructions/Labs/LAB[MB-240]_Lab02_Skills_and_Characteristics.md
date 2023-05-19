@@ -14,13 +14,11 @@ Additionally, each technician may have specific skills or Certifications that re
 - **CISSP:** Certified Information Systems Security Professional
 - **G SEC:** GIAC Security Essentials
 
-Since some of your customers are government agencies, technicians may need to have specific security clearance levels. These can range from Level one to Level five.
-
-   >Note: The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
+Since some of your customers are government agencies, technicians may need to have specific security clearance levels. These can range from Level One to Level Five.
 
 ### Task 1 – Proficiency Models
 
-In this task you will create a proficiency model that contains the five different security clearance levels and a proficiency model for skill level.
+In this task, you will create a proficiency model that contains the five different security clearance levels and a proficiency model for skill level.
 
 1. In the **Dynamics 365 Field Service app**, click the **Service (1)** area in the bottom-left of the sitemap, and select **Resources (2)** from the list. 
 
@@ -32,7 +30,7 @@ In this task you will create a proficiency model that contains the five differen
 
     ![](../images/proficiency-model-1.png)
 
-1. Enter **odl_user_DID_Security Level (1)** for **Name**.
+1. Enter **Security Level (1)** for **Name**.
 
 1. Enter **1 (2)** for **Min Rating Value**.
 
@@ -48,7 +46,7 @@ In this task you will create a proficiency model that contains the five differen
 
     ![](../images/proficiency-model-3.png)
 
-1. Enter **odl_user_DID_Level_1_Security** for **Name (1)**.
+1. Enter **Level 1 Security** for **Name (1)**.
 
 1. Enter **1** for **Value (2)**.
 
@@ -58,7 +56,7 @@ In this task you will create a proficiency model that contains the five differen
 
 1. Click **+ New Rating Value**.
 
-1. Enter **odl_user_DID_Level_2_Security** for **Name**.
+1. Enter **Level 2 Security** for **Name**.
 
 1. Enter **2** for **Value**.
 
@@ -66,7 +64,7 @@ In this task you will create a proficiency model that contains the five differen
 
 1. Click **+ New Rating Value**.
 
-1. Enter **odl_user_DID_Level_3_Security** for **Name**.
+1. Enter **Level 3 Security** for **Name**.
 
 1. Enter **3** for **Value**.
 
@@ -74,7 +72,7 @@ In this task you will create a proficiency model that contains the five differen
 
 1. Click **+ New Rating Value**.
 
-1. Enter **odl_user_DID_Level_4_Security** for **Name**.
+1. Enter **Level 4 Security** for **Name**.
 
 1. Enter **4** for **Value**.
 
@@ -82,7 +80,7 @@ In this task you will create a proficiency model that contains the five differen
 
 1. Click **+ New Rating Value**.
 
-1. Enter **odl_user_DID_Level_5_Security** for **Name**.
+1. Enter **Level 5 Security** for **Name**.
 
 1. Enter **5** for **Value**.
 
@@ -102,7 +100,7 @@ In this task you will create a proficiency model that contains the five differen
 
     ![](../images/proficiency-model-1.png)
 
-1. Enter **odl_user_DID_Proficiency** for **Name**.
+1. Enter **Proficiency** for **Name**.
 
 1. Enter **1** for **Min Rating Value**.
 
@@ -116,7 +114,7 @@ In this task you will create a proficiency model that contains the five differen
 
     ![](../images/proficiency-model-6.png)
 
-1. Enter **odl_user_DID_Familiar** for **Name (1)**.
+1. Enter **Familiar** for **Name (1)**.
 
 1. Enter **1** for **Value (2)**.
 
@@ -126,7 +124,7 @@ In this task you will create a proficiency model that contains the five differen
 
 1. Click **+ New Rating Value**.
 
-1. Enter **odl_user_DID_Proficient** for **Name**.
+1. Enter **Proficient** for **Name**.
 
 1. Enter **2** for **Value**.
 
@@ -134,7 +132,7 @@ In this task you will create a proficiency model that contains the five differen
 
 1. Click **+ New Rating Value**.
 
-1. Enter **odl_user_DID_Expert** for **Name**.
+1. Enter **Expert** for **Name**.
 
 1. Enter **3** for **Value**.
 
@@ -146,7 +144,7 @@ In this task you will create a proficiency model that contains the five differen
 
 ### Task 2 - Define a Security Clearance skill
 
-In this task you will create a building security skill that will be used in conjunction with the Proficiency Model you defined in the previous task.
+In this task, you will create a building security skill that will be used in conjunction with the Proficiency Model you defined in the previous task.
 
 1. Click on the name of the app in the top left of the application next to Dynamics 365 and from the list of published apps, select the **Resource Scheduling** app.
 
@@ -164,7 +162,7 @@ In this task you will create a building security skill that will be used in conj
 
     ![](../images/resource-scheduling-4.png)
 
-1. Enter **odl_user_DID_Building_Security** for **Name (1)**.
+1. Enter **Building Security** for **Name (1)**.
 
 1. Select **Skill** from the **Characteristic Type (2)** drop-down field.
 
@@ -186,9 +184,9 @@ In this task you will be adding the **CISM:** Certified Information Security Man
 
     ![](../images/resource-scheduling-4.png)
 
-1. Enter **odl_user_DID_CISM** for **Name (1)**.
+1. Enter **CISM** for **Name (1)**.
 
-1. Enter **odl_user_DID_Certified_Information_Security_Manager** for **Description (2)**.
+1. Enter **Certified Information Security Manager** for **Description (2)**.
 
 1. Select **Certification** from the **Characteristic Type (3)** drop-down field.
 
@@ -198,9 +196,9 @@ In this task you will be adding the **CISM:** Certified Information Security Man
 
 1. Click **+ New**.
 
-1. Enter **odl_user_DID_CISSP** for **Name**.
+1. Enter **CISSP** for **Name**.
 
-1. Enter **odl_user_DID_Certified_Information_Systems_Security_Professional** for **Description**.
+1. Enter **Certified Information Systems Security Professional** for **Description**.
 
 1. Select **Certification** from the **Characteristic Type** drop-down field.
 
@@ -208,9 +206,9 @@ In this task you will be adding the **CISM:** Certified Information Security Man
 
 1. Click **+ New**.
 
-1. Enter **odl_user_DID_G_SEC** for **Name**.
+1. Enter **G SEC** for **Name**.
 
-1. Enter **odl_user_DID_GIAC_Security_Essentials** for **Description**.
+1. Enter **GIAC Security Essentials** for **Description**.
 
 1. Select **Certification** from the **Characteristic Type** drop-down field.
 
@@ -230,7 +228,7 @@ In this task, you will be adding the Installation Specialist, Site Inspector, an
 
     ![](../images/resource-roles-1.png)
 
-1. Enter **odl_user_DID_Installation_Specialist** for **Name**.
+1. Enter **Installation Specialist** for **Name**.
 
 1. Enter **Installation Specialist** for **Description**.
 
@@ -240,7 +238,7 @@ In this task, you will be adding the Installation Specialist, Site Inspector, an
 
 1. Click **+ New**.
 
-1. Enter **odl_user_DID_Site_Inspector** for **Name**.
+1. Enter **Site Inspector** for **Name**.
 
 1. Enter **Site Inspector** for **Description**.
 
@@ -248,7 +246,7 @@ In this task, you will be adding the Installation Specialist, Site Inspector, an
 
 1. Click **+ New**.
 
-1. Enter **odl_user_DID_Security_Analyst** for **Name**.
+1. Enter **Security Analyst** for **Name**.
 
 1. Enter **Security Analyst** for **Description**.
 

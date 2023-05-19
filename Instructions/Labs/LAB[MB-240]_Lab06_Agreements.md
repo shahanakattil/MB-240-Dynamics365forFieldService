@@ -4,7 +4,6 @@
 
 In this exercise, you will be defining a preventative maintenance agreement that will generate Work orders monthly and bill customers quarterly.
 
-   >Note: The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
 
 ### Task 1 - Create Agreement
 
@@ -18,9 +17,9 @@ In this exercise, you will be defining a preventative maintenance agreement that
 
     ![](../images/agreements-01.png)
 
-1. Select the **odl_user_DID_Relecloud** account you created in a previous lab for **Service Account (1)**.
+1. Select the **Relecloud** account you created in a previous lab for **Service Account (1)**.
 
-1. Select the **odl_user_DID_Price_List** price list created in a previous lab for **Price List (2)**.
+1. Select the **Price List** price list created in a previous lab for **Price List (2)**.
 
 1. Select the first day of the current month for the **Start Date (3)**.
 
@@ -38,15 +37,15 @@ In this exercise, you will be defining a preventative maintenance agreement that
 
     ![](../images/agreements-03.png)
 
-1. Enter **odl_user_DID_Monthly_Printer_Service** for **Name (1)**.
+1. Enter **Monthly Printer Service** for **Name (1)**.
 
 1. Select **Yes** for **Auto Generate Work Order (2)**.
 
 1. Select **60** for **Generate Work Order Days in Advance (4)**.
 
-1. Select the **odl_user_DID_Low** priority you created in a previous lab for **Priority  (5)**.
+1. Select the **Low** priority you created in a previous lab for **Priority  (5)**.
 
-1. Select the **odl_user_DID_Service_Call** work order type you created in a previous lab for **Work Order Type (3)**.
+1. Select the **Service Call** work order type you created in a previous lab for **Work Order Type (3)**.
 
 1. Select **No** for **Auto Generate Booking (6)**.
 
@@ -68,7 +67,7 @@ In this exercise, you will be defining a preventative maintenance agreement that
 
     ![](../images/agreements-05.png)
 
-1. Select the **odl_user_DID_Service_Printer** incident type you created in a previous lab for **Incident Type**.
+1. Select the **Service Printer** incident type you created in a previous lab for **Incident Type**.
 
 1. Click **Save and Close**.
 
@@ -105,7 +104,7 @@ In this exercise, you will be defining a preventative maintenance agreement that
 
     ![](../images/agreements-11.png)
 
-1. Enter **odl_user_DID_Quarterly_Invoice** for **Name**.
+1. Enter **Quarterly Invoice** for **Name**.
 
 1. Click **Save**.
 
@@ -117,7 +116,7 @@ In this exercise, you will be defining a preventative maintenance agreement that
 
     ![](../images/agreements-13.png)
 
-1. Select the **odl_user_DID_Monthly_Printer_Maintenance** product you created in a previous lab for **Product**.
+1. Select the **Monthly Printer Maintenance** product you created in a previous lab for **Product**.
 
 1. Select the **Primary Unit** for **Unit**.
 

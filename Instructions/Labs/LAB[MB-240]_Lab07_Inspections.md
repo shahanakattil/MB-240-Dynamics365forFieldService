@@ -2,9 +2,7 @@
 
 ## Exercise 1 - Create and use an Inspection Template
 
-In this exercise you will be defining an inspection template and adding it to a server type task.
-
-   >Note: The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
+In this exercise, you will be defining an inspection template and adding it to a server type task.
 
 ### Task 1 - Create Inspection Template
 
@@ -18,7 +16,7 @@ In this exercise you will be defining an inspection template and adding it to a 
 
     ![](../images/inspection-01.png)
 
-1. Enter **odl_user_DID_Printer_Inspection** for **Name for Inspection (1)**.
+1. Enter **PrinterInspection** for **Name for Inspection (1)**.
 
 1. Click on **TextBox (2)** to add question.
 
@@ -100,21 +98,21 @@ In this exercise you will be defining an inspection template and adding it to a 
 
 1. Click **+ New**.
 
-1. Enter **odl_user_DID_Inspect_Printer** for **Name (1)**.
+1. Enter **InspectPrinter** for **Name (1)**.
 
 1. Enter **5 Minutes** for **Estimated Duration (2)**.
 
 1. Toggle **Has Inspection (3)** to **Yes**.
 
-1. Select the **odl_user_DID_Printer_Inspection** inspection template you created in Task 1 for **Inspection Template (4)**.
+1. Select the **PrinterInspection** inspection template you created in Task 1 for **Inspection Template (4)**.
 
 1. Click **Save (5)**.
 
-    ![](../images/Service_Task_Types_3.png)
+    ![](../images/ServiceTaskTypes3.png)
 
 1. In the **Work Orders** group select **Incident Types**.
 
-1. Edit the **odl_user_DID_Service_Printer** incident type.
+1. Edit the **ServicePrinter** incident type.
 
     ![](../images/inspection-11.png)
 
@@ -124,9 +122,9 @@ In this exercise you will be defining an inspection template and adding it to a 
 
     ![](../images/inspection-12.png)
 
-1. Enter **odl_user_DID_Inspect_Printer** for **Name (1)**.
+1. Enter **InspectPrinter** for **Name (1)**.
 
-1. Select the **odl_user_DID_Inspect_Printer** service task type you created in Task 2 for **Task Type (2)**.
+1. Select the **InspectPrinter** service task type you created in Task 2 for **Task Type (2)**.
 
 1. Click **Save and Close (3)**.
 
@@ -138,7 +136,7 @@ In this exercise you will be defining an inspection template and adding it to a 
 
 1. In the browser, open Microsoft Bing and do an image search for printers.
 
-1. Right click on the image of the printer and select **Save image as** and click **Save**.
+1. Right-click on the image of the printer and select **Save image as** and click **Save**.
 
 ### Task 4 – Create a new Work Order and view the inspection
 
@@ -152,9 +150,9 @@ In this exercise you will be defining an inspection template and adding it to a 
 
     ![](../images/inspection-15.png)
 
-1. Select the **odl_user_DID_Relecloud** account you created in Task 1 for **Service Account**.
+1. Select the **Relecloud** account you created in Task 1 for **Service Account**.
 
-1. Select the **odl_user_DID_Service_Printer** incident type you created in a previous lab for **Primary Incident Type**.
+1. Select the **ServicePrinter** incident type you created in a previous lab for **Primary Incident Type**.
 
     ![](../images/inspection-16.png)
 
@@ -166,7 +164,7 @@ In this exercise you will be defining an inspection template and adding it to a 
 
     ![](../images/inspection-17.png)
 
-1. Open the **odl_user_DID_Inspect_Printer** work order service task.
+1. Open the **InspectPrinter** work order service task.
 
 1. Enter **122333** for **Serial number (1)**.
 

@@ -2,17 +2,16 @@
 
 Customer assets in Dynamics 365, businesses can improve their ability to deliver high-quality service to their customers. They can also gather data on asset performance, which can be used to identify trends and make informed decisions about future service and maintenance schedules.
 
-   >Note: The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
 
 ## Exercise 1 – Convert product to customer asset
 
-In this exercise you will set the products to convert to customer assets.
+In this exercise, you will set the products to convert to customer assets.
 
 ### Task 1 – Product settings
 
 1. In the **Dynamics 365 Field Service app**, click the **Settings** area in the bottom-left of the sitemap, and in the **General** group select **Products**.
 
-1. Edit the **odl_user_DID_Remote Printer** product you created in an earlier lab.
+1. Edit the **Remote Printer** product you created in an earlier lab.
 
     ![](../images/Service-Account-18.png)
 
@@ -26,7 +25,7 @@ In this exercise you will set the products to convert to customer assets.
 
 ## Exercise 2 – Create assets
 
-In this exercise you will create the assets for a customer.
+In this exercise, you will create the assets for a customer.
 
 ### Task 1 – Asset categories
 
@@ -36,7 +35,7 @@ In this exercise you will create the assets for a customer.
 
     ![](../images/Service-Account-16.png)
 
-1. Enter **odl_user_DID_Printer** for **Name**.
+1. Enter **Printer** for **Name**.
 
 1. Click **Save & Close**.
 
@@ -48,7 +47,7 @@ In this exercise you will create the assets for a customer.
 
     ![](../images/Service-Account-14.png)
 
-1. Enter **odl_user_DID_Model** for **Name**.
+1. Enter **Model** for **Name**.
 
 1. Select **String** from the **Property Type** drop-down field.
 
@@ -58,7 +57,7 @@ In this exercise you will create the assets for a customer.
 
 1. Click **+ New**.
 
-1. Enter **odl_user_DID_Printer Properties** for **Name**.
+1. Enter **Printer Properties** for **Name**.
 
 1. Click **Save**.
 
@@ -68,13 +67,13 @@ In this exercise you will create the assets for a customer.
 
     ![](../images/Service-Account-12.png)
 
-1. Select the **odl_user_DID_Model** property definition you created for **Property**.
+1. Select the **Model** property definition you created for **Property**.
 
 1. Click **Save and Close**.
 
 1. Click **+ New Asset Category Template Association**.
 
-1. Select the **odl_user_DID_Printer** asset category you created for **Customer Asset Category**.
+1. Select the **Printer** asset category you created for **Customer Asset Category**.
 
 1. Click **Save and Close**.
 
@@ -90,13 +89,13 @@ In this exercise you will create the assets for a customer.
 
     ![](../images/Service-Account-10.png)
 
-1. Enter **odl_user_DID_Printer_122333** for **Name**.
+1. Enter **Printer 122333** for **Name**.
 
-1. Select the **odl_user_DID_Printer** asset category you created for **Category**.
+1. Select the **Printer** asset category you created for **Category**.
 
-1. Select the **odl_user_DID_Remote_Printer** product you created in an earlier lab for **Product**.
+1. Select the **Remote Printer** product you created in an earlier lab for **Product**.
 
-1. Select the **odl_user_DID_Relecloud** account you created in an earlier lab for **Account**.
+1. Select the **Relecloud** account you created in an earlier lab for **Account**.
 
 1. Click **Save & Close**.
 
@@ -108,25 +107,25 @@ In this exercise you will create the assets for a customer.
 
 1. Click **+ New**.
 
-1. Enter **odl_user_DID_Printer_Drum_122333** for **Name**.
+1. Enter **Printer Drum 122333** for **Name**.
 
-1. Select the **odl_user_DID_Printer** asset category you created for **Category**.
+1. Select the **Printer** asset category you created for **Category**.
 
-1. Select the **odl_user_DID_Relecloud** account you created in an earlier lab for **Account**.
+1. Select the **Relecloud** account you created in an earlier lab for **Account**.
 
-1. Select the **odl_user_DID_Printer_122333** asset you created **Parent Asset**.
+1. Select the **Printer 122333** asset you created **Parent Asset**.
 
 1. Click **Save & Close**.
 
 1. Click **+ New**.
 
-1. Enter **odl_user_DID_Printer_Fuser_Unit_122333** for **Name**.
+1. Enter **Printer Fuser Unit 122333** for **Name**.
 
-1. Select the **odl_user_DID_Printer** asset category you created for **Category**.
+1. Select the **Printer** asset category you created for **Category**.
 
-1. Select the **odl_user_DID_Relecloud** account you created in an earlier lab for **Account**.
+1. Select the **Relecloud** account you created in an earlier lab for **Account**.
 
-1. Select the **odl_user_DID_Printer_122333** asset you created **Parent Asset**.
+1. Select the **Printer 122333** asset you created **Parent Asset**.
 
 1. Click **Save & Close**.
 
@@ -134,21 +133,21 @@ In this exercise you will create the assets for a customer.
 
 ## Exercise 3 – Functional locations
 
-In this exercise you will create functional locations for an account and associate assets with the locations.
+In this exercise, you will create functional locations for an account and associate assets with the locations.
 
 ### Task 1 – Create functional locations
 
 1. In the **Dynamics 365 Field Service app**, click the **Service** area in the bottom-left of the sitemap, and in the **Customers** group select **Accounts**.
 
-1. Open the **odl_user_DID_Relecloud** account you created in an earlier lab.
+1. Open the **Relecloud** account you created in an earlier lab.
 
 1. Select the **Assets and Locations** tab.
 
-1. Click on the ellipsis (...) alongside **odl_user_DID_Relecloud** and select + **New location**.
+1. Click on the ellipsis (...) alongside **Relecloud** and select + **New location**.
 
     ![](../images/Service-Account-7.png)
 
-1. Enter **odl_user_DID_Advanta_A** for **Name**.
+1. Enter **Advanta A** for **Name**.
 
 1. Click on the pencil icon and enter **3009 160th Avenue Southeast, Bellevue, WA 98008, USA** for Address.
 
@@ -156,17 +155,17 @@ In this exercise you will create functional locations for an account and associa
 
     ![](../images/Service-Account-6.png)
 
-1. Click on the ellipsis (...) alongside **odl_user_DID_Relecloud** and select + **New location**.
+1. Click on the ellipsis (...) alongside **Relecloud** and select + **New location**.
 
-1. Enter **odl_user_DID_Advanta_B** for **Name**.
+1. Enter **Advanta B** for **Name**.
 
 1. Click on the pencil icon and enter **3007 160th Ave SE, Bellevue, WA 98008, USA** for Address.
 
 1. Click **Save and Close**.
 
-1. Click on the ellipsis (...) alongside **odl_user_DID_Relecloud** and select + **New location**.
+1. Click on the ellipsis (...) alongside **Relecloud** and select + **New location**.
 
-1. Enter **odl_user_DID_Advanta_C** for **Name**.
+1. Enter **Advanta C** for **Name**.
 
 1. Click on the pencil icon and enter **3005 160th Ave SE, Bellevue, WA 98008, USA** for Address.
 
@@ -184,19 +183,19 @@ In this exercise you will create functional locations for an account and associa
 
 1. In the **Dynamics 365 Field Service app**, click the **Service** area in the bottom-left of the sitemap, and in the **Customers** group select **Accounts**.
 
-1. Open the **odl_user_DID_Relecloud** account you created in an earlier lab.
+1. Open the **Relecloud** account you created in an earlier lab.
 
 1. Select the **Assets and Locations** tab.
 
 1. Select the check box **Show Assets**
 
-1. Drag the **odl_user_DID_Printer_122333** asset you created in Exercise 2 to **odl_user_DID_Advanta_B**.
+1. Drag the **Printer 122333** asset you created in Exercise 2 to **Advanta B**.
 
     ![](../images/Service-Account-3.png)
 
 ## Exercise 4 – Associate assets with work orders
 
-In this exercise you will create a work order linked to the customer asset and functional location.
+In this exercise, you will create a work order linked to the customer asset and functional location.
 
 ### Task 1 – Create work order with a customer asset
 
@@ -204,11 +203,11 @@ In this exercise you will create a work order linked to the customer asset and f
 
 1. Click **+ New**.
 
-1. Select the **odl_user_DID_Relecloud** account you created in an earlier lab for **Service Account**.
+1. Select the **Relecloud** account you created in an earlier lab for **Service Account**.
 
-1. Select the **odl_user_DID_Service_Printer** incident type you created in a previous lab for **Primary Incident Type**.
+1. Select the **Service Printer** incident type you created in a previous lab for **Primary Incident Type**.
 
-1. Select the **odl_user_DID_Printer_122333** asset you created for **Primary Incident Customer Asset**.
+1. Select the **Printer 122333** asset you created for **Primary Incident Customer Asset**.
 
 1. Click **Save**.
 

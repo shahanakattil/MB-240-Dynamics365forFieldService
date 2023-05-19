@@ -4,7 +4,6 @@
 
 Worldwide Industries (WWI) provides IT and networking services to their customers. Their services range from phone system and network installations to telephoning systems and security system installations. They are going to be leveraging Dynamics 365 for Field Service for installation and servicing of these systems for their customers. You are the system implementor that has been tasked with configuring the application to support the rollout of the application. You will be adding and configuring some products that can be installed and setting up skills and characteristics that will be used as part of the implementation.
 
-   >Note: The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
 
 ## Exercise 1 – Map Configuration
 
@@ -42,19 +41,17 @@ In this exercise, you will adding territories that will be used when scheduling 
 
     ![](../images/new-territories.png)
 
-1. Enter **odl_user_DID_North** for **Territory Name** and click **Save**. Click **+ New**.
+1. Enter **North** for **Territory Name** and click **Save**. Click **+ New**.
 
-1. Enter **odl_user_DID_South** for **Territory Name** and click **Save**. Click **+ New**.
+1. Enter **South** for **Territory Name** and click **Save**. Click **+ New**.
 
-1. Enter **odl_user_DID_East** for **Territory Name** and click **Save**. Click **+ New**.
+1. Enter **East** for **Territory Name** and click **Save**. Click **+ New**.
 
-1. Enter **odl_user_DID_West** for **Territory Name** and click **Save & Close**.
+1. Enter **West** for **Territory Name** and click **Save & Close**.
 
 1. You will now have four Territories with your prefix.
 
     ![](../images/new-territories-01.png)
-
-   >Note: The **[DeploymentId]/[DID] can be found under the environment details tab in the user name (example: `odl_user_xxxxxx.onmicrosoft.com`) **xxxxxx** is the [DeploymentID]**.
 
 ## Exercise 3 - Create Products
 
@@ -70,9 +67,9 @@ In this exercise, you will adding products and services for use on work orders a
 
     ![](../images/add-product.png)
 
-1. Enter **odl_user_DID_Remote_Printer** for **Name**.
+1. Enter **Remote Printer** for **Name**.
 
-1. Enter **odl_user_DID_Print-Serv-1234** for **Product ID**.
+1. Enter **Print-Serv-1234** for **Product ID**.
 
 1. Type and select **Default Unit** for **Unit Group**.
 
@@ -99,9 +96,9 @@ In this exercise, you will adding products and services for use on work orders a
 
 1. Click **Add Product**.
 
-1. Enter **odl_user_DID_Monthly_Printer_Maintenance** for **Name (1)**.
+1. Enter **Monthly Printer Maintenance** for **Name (1)**.
 
-1. Enter **odl_user_DID_Print-Maint** for **Product ID (2)**.
+1. Enter **Print-Maint** for **Product ID (2)**.
 
 1. Type and select **Default Unit** for **Unit Group (3)**.
 
@@ -127,9 +124,9 @@ In this exercise, you will adding products and services for use on work orders a
 
 1. Click **Add Product**.
 
-1. Enter **odl_user_DID_Printer_Service_Fee** for **Name (1)**.
+1. Enter **Printer Service Fee** for **Name (1)**.
 
-1. Enter **odl_user_DID_Printer_Service_Fee** for **Product ID (2)**.
+1. Enter **Printer Service Fee** for **Product ID (2)**.
 
 1. Type and select **Default Unit** for **Unit Group (3)**.
 
@@ -162,7 +159,7 @@ In this exercise, you will adding products and services for use on work orders a
     ![](../images/price-list-01.png)
 
 
-1. Enter **odl_user_DID_Price_List** for **Name (1)**.
+1. Enter **Price List** for **Name (1)**.
 
 1. Click **Save (2)**.
 
@@ -174,7 +171,7 @@ In this exercise, you will adding products and services for use on work orders a
 
     ![](../images/price-list-03.png)
 
-1. Select the **odl_user_DID_Remote_Printer (1)** product you created in Task 1.
+1. Select the **Remote Printer (1)** product you created in Task 1.
 
 1. Select **Primary Unit** for **Unit (2)**.
 
@@ -192,7 +189,7 @@ In this exercise, you will adding products and services for use on work orders a
 
 1. Click **+ New Price List Item**.
 
-1. Select the **odl_user_DID_Monthly_Printer_Maintenance (1)** product you created in Task 2.
+1. Select the **Monthly Printer Maintenance (1)** product you created in Task 2.
 
 1. Select **Primary Unit** for **Unit (2)**.
 
@@ -210,7 +207,7 @@ In this exercise, you will adding products and services for use on work orders a
 
 1. Click **+ New Price List Item**.
 
-1. Select the **[your prefix] Printer Service Fee (1)** product you created in Task 3.
+1. Select the **Printer Service Fee (1)** product you created in Task 3.
 
 1. Select **Primary Unit** for **Unit (2)**.
 
@@ -234,13 +231,13 @@ In this exercise, you will adding products and services for use on work orders a
 
     ![](../images/price-list-11.png)
 
-1. Enter **odl_user_DID_Printer_Service_Fee** for **Name (1)**.
+1. Enter **Printer Service Fee** for **Name (1)**.
 
 1. Select **Yes** from the **Flat Fee (2)** drop-down field.
 
-1. Select the **odl_user_DID_price_list** you created in Task 4.
+1. Select the **price list** you created in Task 4.
 
-1. Select the **odl_user_DID_Printer_Service_Fee (3)** product you created in Task 3.
+1. Select the **Printer Service Fee (3)** product you created in Task 3.
 
 1. Click **Save & Close (4)**.
 
