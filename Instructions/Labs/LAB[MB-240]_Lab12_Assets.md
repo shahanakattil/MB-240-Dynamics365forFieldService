@@ -13,7 +13,7 @@ In this exercise, you will set the products to convert to customer assets.
 
 1. Edit the **Remote Printer** product you created in an earlier lab.
 
-    ![](../images/Service-Account-18.png)
+    ![](../images/MB-240-remote.png)
 
 1. Select the **Field Service** tab.
 
@@ -21,7 +21,7 @@ In this exercise, you will set the products to convert to customer assets.
 
 1. Click **Save & Close**.
 
-    ![](../images/Service-Account-17.png)
+    ![](../images/MB-240-field.png)
 
 ## Exercise 2 – Create assets
 
@@ -39,7 +39,7 @@ In this exercise, you will create the assets for a customer.
 
 1. Click **Save & Close**.
 
-    ![](../images/Service-Account-15.png)
+    ![](../images/MB-240-save.png)
 
 1. In the **Dynamics 365 Field Service app**, click the **Settings** area in the bottom-left of the sitemap, and in the **Asset Properties** group select **Property Definitions**.
 
@@ -61,11 +61,11 @@ In this exercise, you will create the assets for a customer.
 
 1. Click **Save**.
 
-    ![](../images/Service-Account-13.png)
+    ![](../images/MB-240-template.png)
 
 1. Click **+ New Property Template Association**.
 
-    ![](../images/Service-Account-12.png)
+    ![](../images/MB-240-property.png)
 
 1. Select the **Model** property definition you created for **Property**.
 
@@ -79,7 +79,7 @@ In this exercise, you will create the assets for a customer.
 
 1. Click **Save & Close**.
 
-    ![](../images/Service-Account-11.png)
+    ![](../images/MB-240-properties.png)
 
 ### Task 2 – Assets
 
@@ -99,7 +99,7 @@ In this exercise, you will create the assets for a customer.
 
 1. Click **Save & Close**.
 
-    ![](../images/Service-Account-9.png)
+    ![](../images/MB-240-122.png)
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 > - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
@@ -135,7 +135,7 @@ In this exercise, you will create the assets for a customer.
 
 1. Click **Save & Close**.
 
-    ![](../images/Service-Account-8.png)
+    ![](../images/MB-240-fuser.png)
 
 ## Exercise 3 – Functional locations
 
@@ -151,7 +151,7 @@ In this exercise, you will create functional locations for an account and associ
 
 1. Click on the ellipsis (...) alongside **Relecloud** and select + **New location**.
 
-    ![](../images/Service-Account-7.png)
+    ![](../images/MB-240-relecloud.png)
 
 1. Enter **Advanta A** for **Name**.
 
@@ -159,7 +159,7 @@ In this exercise, you will create functional locations for an account and associ
 
 1. Click **Save and Close**.
 
-    ![](../images/Service-Account-6.png)
+    ![](../images/MB-240-USA.png)
 
 1. Click on the ellipsis (...) alongside **Relecloud** and select + **New location**.
 
@@ -177,13 +177,13 @@ In this exercise, you will create functional locations for an account and associ
 
 1. Click **Save and Close**.
 
-    ![](../images/Service-Account-5.png)
+    ![](../images/MB-240-All.png)
 
 1. In the **Dynamics 365 Field Service app**, click the **Service** area in the bottom-left of the sitemap, and in the **Assets** group select **Functional Locations**.
 
 1. Verify that the functional locations have latitude and longitude set.
 
-    ![](../images/Service-Account-4.png)
+    ![](../images/MB-240-longitude.png)
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 > - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
@@ -223,14 +223,12 @@ In this exercise, you will create a work order linked to the customer asset and 
 
 1. Click **Save**.
 
-    ![](../images/Service-Account-2.png)
+    ![](../images/MB-240-B.png)
 
 1. Select the **Location** tab and verify the address has been copied from the functional location.
 
 1. Select the **Products** tab.
 
 1. Open the work order product and in the **General** tab, verify the customer asset is populated.
-
-    ![](../images/Service-Account-1.png)
 
 **Result:** You have successfully learnt setting the products to convert to customer assets and created assets.Also additionally you have created functional locations to accounts and associate to assets.
