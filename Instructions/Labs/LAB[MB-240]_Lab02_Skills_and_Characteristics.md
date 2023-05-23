@@ -2,7 +2,7 @@
 
 ## Exercise 1 - Configure Dynamics 365 for Field Service Skills and Characteristics
 
-Each technician that goes out to service customers may have a number of different skills and roles assigned to them. There are three primary roles that tech may have:
+Each technician that goes out to service customers may have a number of different skills and roles assigned to them. There are three primary roles that technician may have:
 
 - Installation Specialist
 - Site Inspector
@@ -24,7 +24,7 @@ In this task, you will create a proficiency model that contains the five differe
 
     ![](../images/field-service-resource.png)
 
-1. In the **Resource** group select **Proficiency Models (1)**.
+1. In the **Resource** section, select **Proficiency Models (1)**.
 
 1. Click **+ New (2)** located on the command bar.
 
@@ -38,13 +38,13 @@ In this task, you will create a proficiency model that contains the five differe
 
 1. Click **Save (4)**.
 
-    ![](../images/proficiency-model-2.png)
+    ![](../images/PL2E1T1S7.png)
 
 1. If Rating Values are not shown in a sub-gird on the General tab, click **Related** and select **Rating Values**.
 
 1. Click **+ New Rating Value(2)**.
 
-    ![](../images/proficiency-model-3.png)
+    ![](../images/PL2E1T1S9.png)
 
 1. Enter **Level 1 Security** for **Name (1)**.
 
@@ -52,49 +52,26 @@ In this task, you will create a proficiency model that contains the five differe
 
 1. Click **Save & Close (3)**.
 
-    ![](../images/proficiency-model-4.png)
+    ![](../images/PL2E1T1S12.png)
 
-1. Click **+ New Rating Value**.
+1. Repeat steps 9-12 and create the **New Rating Value** records listed in the table below.
 
-1. Enter **Level 2 Security** for **Name**.
-
-1. Enter **2** for **Value**.
-
-1. Click **Save & Close**.
-
-1. Click **+ New Rating Value**.
-
-1. Enter **Level 3 Security** for **Name**.
-
-1. Enter **3** for **Value**.
-
-1. Click **Save & Close**.
-
-1. Click **+ New Rating Value**.
-
-1. Enter **Level 4 Security** for **Name**.
-
-1. Enter **4** for **Value**.
-
-1. Click **Save & Close**.
-
-1. Click **+ New Rating Value**.
-
-1. Enter **Level 5 Security** for **Name**.
-
-1. Enter **5** for **Value**.
-
-1. Click **Save & Close**.
-
+    | **Name** | **Value** |
+    |----------------|---------------|
+    | Level 2 Security       | 2         |
+    | Level 3 Security           | 3      |
+    | Level 4 Security          | 4       |
+    | Level 5 Security           | 5       |
+   
 1. You should now have a total of 5 rating values. Click **Save & Close (1)** again.
 
-    ![](../images/proficiency-model-5.png)
+    ![](../images/PL2E1T1S29.png)
 
 1. In the **Dynamics 365 Field Service app**, click the **Service (1)** area in the bottom-left of the sitemap, and select **Resources (2)** from the list. 
 
     ![](../images/field-service-resource.png)
 
-1. In the **Resource** group select **Proficiency Models (1)**.
+1. In the **Resource**, select **Proficiency Models (1)**.
 
 1. Click **+ New (2)** located on the command bar.
 
@@ -112,7 +89,7 @@ In this task, you will create a proficiency model that contains the five differe
 
 1. Click **+ New Rating Value (2)**.
 
-    ![](../images/proficiency-model-6.png)
+    ![](../images/PL2E1T1S38.png)
 
 1. Enter **Familiar** for **Name (1)**.
 
@@ -120,27 +97,18 @@ In this task, you will create a proficiency model that contains the five differe
 
 1. Click **Save & Close (3)**.
 
-    ![](../images/proficiency-model-7.png)
+    ![](../images/PL2E1T1S41.png)
 
-1. Click **+ New Rating Value**.
+1. Repeat steps 23-26 and create the **New Rating Value** records listed in the table below.
 
-1. Enter **Proficient** for **Name**.
-
-1. Enter **2** for **Value**.
-
-1. Click **Save & Close**.
-
-1. Click **+ New Rating Value**.
-
-1. Enter **Expert** for **Name**.
-
-1. Enter **3** for **Value**.
-
-1. Click **Save & Close**.
-
+    | **Name** | **Value** |
+    |----------------|---------------|
+    | Proficient           | 2      |
+    | Expert          | 3       |
+   
 1. You should now have a total of 3 rating values (1). Click **Save & Close (1)** again.
 
-    ![](../images/proficiency-model-8.png)
+    ![](../images/PL2E1T1S50.png)
     
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 > - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
@@ -162,7 +130,7 @@ In this task, you will create a building security skill that will be used in con
 
     ![](../images/resource-scheduling-3.png)
 
-1. In the **Resource** group select **Skills (1)**.
+1. In the **Resource** section, select **Skills (1)**.
 
 1. Click **+ New (2)**.
 
@@ -174,7 +142,7 @@ In this task, you will create a building security skill that will be used in con
 
 1. Click **Save & Close (3)**.
 
-    ![](../images/resource-scheduling-5.png)
+    ![](../images/PL2E1T2S7.png)
 
 ### Task 3 - Define Security certifications
 
@@ -184,7 +152,7 @@ In this task you will be adding the **CISM:** Certified Information Security Man
 
     ![](../images/resource-scheduling-3.png)
 
-1. In the **Resource** group select **Skills (1)**.
+1. In the **Resource** section, select **Skills (1)**.
 
 1. Click **+ New (2)**.
 
@@ -198,27 +166,16 @@ In this task you will be adding the **CISM:** Certified Information Security Man
 
 1. Click **Save & Close (4)**.
 
-    ![](../images/cism-1.png)
+    ![](../images/PL2E1T3S7.png)
 
-1. Click **+ New**.
+1. Repeat steps 3-7 and create the **+ New** records listed in the table below.
 
-1. Enter **CISSP** for **Name**.
+    | **Name**                 | **Description** | **Characteristic Type**  |
+    |--------------------------|-------------------------|----------------|
+    | CISSP     | Certified Information Systems Security Professional       | Certification | 
+    | G SEC | GIAC Security Essentials       | Certification |  
 
-1. Enter **Certified Information Systems Security Professional** for **Description**.
-
-1. Select **Certification** from the **Characteristic Type** drop-down field.
-
-1. Click **Save & Close**.
-
-1. Click **+ New**.
-
-1. Enter **G SEC** for **Name**.
-
-1. Enter **GIAC Security Essentials** for **Description**.
-
-1. Select **Certification** from the **Characteristic Type** drop-down field.
-
-1. Click **Save & Close**.
+1. You should now have a total of 3 skill values.
 
 ### Task 4 - Define Resource Roles (Categories)
 
@@ -228,7 +185,7 @@ In this task, you will be adding the Installation Specialist, Site Inspector, an
 
     ![](../images/resource-scheduling-3.png)
 
-1. In the **Resource** group select **Roles (1)**.
+1. In the **Resource** section, select **Roles (1)**.
 
 1. Click **+ New**.
 
@@ -240,23 +197,16 @@ In this task, you will be adding the Installation Specialist, Site Inspector, an
 
 1. Click **Save & Close**.
 
-    ![](../images/resource-roles-2.png)
+    ![](../images/PL2E1T4S6.png)
+    
+1. Repeat steps 3-6 and create the **+ New** records listed in the table below.
 
-1. Click **+ New**.
-
-1. Enter **Site Inspector** for **Name**.
-
-1. Enter **Site Inspector** for **Description**.
-
-1. Click **Save & Close**.
-
-1. Click **+ New**.
-
-1. Enter **Security Analyst** for **Name**.
-
-1. Enter **Security Analyst** for **Description**.
-
-1. Click **Save & Close**.
+ | **Name** | **Description** |
+    |----------------|---------------|
+    | Site Inspector           | Site Inspector      |
+    | Security Analyst          | Security Analyst       |
+    
+1. You should now have a total of 3 Role values.
 
 1. Click on the name of the app in the top left of the application next to Dynamics 365 and from the list of published apps, select the **Field Service** app.
 
@@ -264,10 +214,9 @@ In this task, you will be adding the Installation Specialist, Site Inspector, an
 
     ![](../images/resource-roles-4.png)
 
-1. Navigate to **Resources** -> **Resource** -> **Categories**.
+1. In **Field Service** app, Navigate to **Services** -> **Resource** -> **Categories**.
 
     ![](../images/resource-roles-5.png)
-
 
 1. Verify the roles you created are listed under Active Resource Categories.
 
