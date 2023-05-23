@@ -11,7 +11,7 @@ In this exercise, you will add inventory to a warehouse and then transfer it to 
 
 1. Edit the **Main (4)** warehouse.
 
-    ![](../images/Setup-inventory-in-Warehouse-8.png)
+    ![](../images/MB-240-main.png)
 
 1. Click **Related** and select **Product Inventory**.
 
@@ -51,7 +51,7 @@ In this exercise, you will add inventory to a warehouse and then transfer it to 
 
 1. Click **Save and Close**.
 
-    ![](../images/Setup-inventory-in-Warehouse-5.png)
+    ![](../images/MB-240-printer.png)
 
 1. Click **Save & Close** from the command bar.
 
@@ -67,19 +67,15 @@ In this exercise, you will add inventory to a warehouse and then transfer it to 
 
 1. Click **+ New**.
 
-    [](../images/Setup-inventory-in-Warehouse-4.png)
-
 1. Select **Main** for **Source Warehouse**.
 
 1. Select **Truck** for **Destination Warehouse**.
 
 1. Click **Save**.
 
-    [](../images/Setup-inventory-in-Warehouse-3.png)
-
 1. Click **+ New Inventory Adjustment Product**.
 
-    ![](../images/Setup-inventory-in-Warehouse-2.png)
+    ![](../images/MB-240-New.png)
 
 1. Select the **Remote Printer** product you created in a previous lab for **Product**.
 
@@ -89,7 +85,7 @@ In this exercise, you will add inventory to a warehouse and then transfer it to 
 
 1. Click **Save and Close**.
 
-    ![](../images/Setup-inventory-in-Warehouse-1.png)
+    ![](../images/MB-240-03.png)
 
 1. Click **Save & Close** from the command bar.
 
