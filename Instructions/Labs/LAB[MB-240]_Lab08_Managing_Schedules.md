@@ -17,7 +17,7 @@ Out-of-the-box, Dynamics 365 for Field Service has the work order table enabled 
 
 1. Select the **Settings** tab.
 
-   ![](../images/Create-work-order-1.png)
+   ![](../images/41.png)
 
 1. Select the **Normal** priority you created in a previous lab for **Priority**.
 
@@ -31,7 +31,7 @@ Out-of-the-box, Dynamics 365 for Field Service has the work order table enabled 
 
 1. Click **Save**. (Make a note of the Work Order number).
 
-   ![](../images/Create-work-order-2.png)
+   ![](../images/42.png)
 
 1. Click **+ New**.
 
@@ -83,7 +83,7 @@ Universal Resource Scheduling provides several items that can be used to assist 
 
 1. Select the **Normal** work order that you created in Exercise 1 and click **Find Availability**.
 
-   ![](../images/Create-work-order-4.png)
+   ![](../images/43.png)
 
 1. Dynamics 365 will analyze the requirements needed for this item and will factor in other items such as any skills required, work order & resource locations, and resource availability to create a list of suggested resources that would be able to work on this item.
 
@@ -97,7 +97,7 @@ Universal Resource Scheduling provides several items that can be used to assist 
 
 1. Click **Apply**. Your resource should be listed.
 
-   ![](../images/Create-work-order-6.png)
+   ![](../images/44.png)
 
 1. Right-click on your resource cell in the Schedule Board and select **View resource card**.
 
@@ -115,7 +115,7 @@ Universal Resource Scheduling provides several items that can be used to assist 
 
 1. Click on the **Legend** icon and examine the colors used on the board.
 
-   ![](../images/Create-work-order-8.png)
+   ![](../images/45.png)
 
 1. Click on the booking for the work order you dragged onto the schedule board earlier in this task. The tooltip for the booking will be displayed.
 

@@ -27,7 +27,7 @@ In this exercise, you will configure settings for work orders including prioriti
 
 1. Click **+ New (3)**.
 
-    ![](../images/Set-up-3.png)
+    ![](../images/48.png)
 
 1. Select the **Relecloud** account you created in an earlier lab for **Service Account (1)**.
 
@@ -35,13 +35,13 @@ In this exercise, you will configure settings for work orders including prioriti
 
 1. Select the **Settings (3)** tab.
 
-    ![](../images/Set-up-4.png)
+    ![](../images/49.png)
 
 1. Select the **Normal** priority you created in a previous lab for **Priority**.
 
 1. Click **Save**.
 
-    ![](../images/Set-up-5.png)
+    ![](../images/50.png)
 
 1. In the **Dynamics 365 Field Service app**, click the **Service** area in the bottom-left of the sitemap, and in the **Scheduling** group select **Schedule Board**.
 
@@ -49,7 +49,7 @@ In this exercise, you will configure settings for work orders including prioriti
 
 1. Drag the requirement for the work order to an available slot for today or tomorrow for your resource.
 
-    ![](../images/Set-up-6.png)
+    ![](../images/51.png)
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 > - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
@@ -85,7 +85,7 @@ In this exercise, you will configure settings for work orders including prioriti
 
 1. Tap **Get Directions**.
 
-    ![](../images/Install-the-mobile-app-7.jpg)
+    ![](../images/w6.jpg)
 
 1. Close the mapping app.
 
@@ -99,7 +99,7 @@ In this exercise, you will configure settings for work orders including prioriti
 
 1. Tap to open the **Inspect Printer** task.
 
-    ![](../images/image-9.jpg)
+    ![](../images/MB-240-2.jpg)
 
 1. If you have barcode available click on the barcode symbol and allow the app to use your device and scan a barcode.
 
@@ -109,7 +109,7 @@ In this exercise, you will configure settings for work orders including prioriti
 
 1. Enter **500** for **Page Count**.
 
-    ![](../images/Install-the-mobile-app-10.jpg)
+    ![](../images/MB-240-4.jpg)
 
 1. Enter **All ok** for **Comments (1)**.
 
@@ -133,7 +133,7 @@ In this exercise, you will configure settings for work orders including prioriti
 
 1. Tap **Save**.
 
-    ![](../images/Install-the-mobile-app-13.jpg)
+    ![](../images/MB-240-5.jpg)
 
 1. Tap **<** to return to the booking.
 
@@ -145,7 +145,7 @@ In this exercise, you will configure settings for work orders including prioriti
 
 1. Tap **Save**.
 
-    ![](../images/Install-the-mobile-app-12.jpg)
+    ![](../images/MB-240-6.jpg)
 
 1. Tap **<** to return to the booking.
 
