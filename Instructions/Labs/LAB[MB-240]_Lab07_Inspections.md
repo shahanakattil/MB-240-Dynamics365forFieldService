@@ -26,7 +26,7 @@ In this exercise, you will be defining an inspection template and adding it to a
 
 1. Click **Advanced (5)**.
 
-    ![](../images/28.png)
+    ![](../images/MB-240.png)
 
 1. Select **Barcode** for **Input type**.
 
