@@ -29,13 +29,13 @@ In this exercise, you will be defining a preventative maintenance agreement that
 
 1. Click **Save (4)**.
 
-    ![](../images/agreements-02.png)
+    ![](../images/12.png)
 
 ### Task 2 - Setup an Automated Booking for the Agreement
 
 1. In the agreement created in Task 1, click on the ellipsis (...) in the **Booking Setup** section, and select **+ New Agreement Booking Setup**.
 
-    ![](../images/agreements-03.png)
+    ![](../images/13.png)
 
 1. Enter **Monthly Printer Service** for **Name (1)**.
 
@@ -61,7 +61,7 @@ In this exercise, you will be defining a preventative maintenance agreement that
 
 1. Click **Save (10)**.
 
-    ![](../images/agreements-04.png)
+    ![](../images/14.png)
 
 1. In the **Incidents** section click on the ellipsis (...) and select **+ New Agreement Booking Incident**.
 
@@ -71,11 +71,11 @@ In this exercise, you will be defining a preventative maintenance agreement that
 
 1. Click **Save and Close**.
 
-    ![](../images/agreements-06.png)
+    ![](../images/15.png)
 
 1. Click **Booking Recurrence** in the command bar.
 
-    ![](../images/agreements-07.png)
+    ![](../images/16.png)
 
 1. Select **Monthly** from **Repeat (1)** drop-down list.
 
@@ -91,36 +91,36 @@ In this exercise, you will be defining a preventative maintenance agreement that
 
 1. In the business process flow select **Agreement** (1), click **Next Stage (2)** and select the Agreement Booking Setup you created. And select the **Agreement booking setup (3)**.
 
-    ![](../images/agreements-09.png)
+    ![](../images/17.png)
 
 
 1. In the **Agreement Booking Setup** flow, click Next Stage.
 
-    ![](../images/agreements-10.png)
+    ![](../images/18.png)
 
 ### Task 3 - Setup an Automated Invoice for the Agreement
 
 1. In the agreement created in Task 1, click on the ellipsis (...) in the **Invoice Setup** section, and select **+ New Agreement Invoice Setup**.
 
-    ![](../images/agreements-11.png)
+    ![](../images/19.png)
 
 1. Enter **Quarterly Invoice** for **Name**.
 
 1. Click **Save**.
 
-    ![](../images/agreements-12.png)
+    ![](../images/20.png)
 
 1. Select the **Invoice Products** tab.
 
 1. Click **+ New Agreement Invoice Product (1)**.
 
-    ![](../images/agreements-13.png)
+    ![](../images/21.png)
 
 1. Select the **Monthly Printer Maintenance** product you created in a previous lab for **Product**.
 
 1. Select the **Primary Unit** for **Unit**.
 
-    ![](../images/agreements-14.png)
+    ![](../images/22.png)
 
 1. Select the **Quantity & Sale Amount** tab.
 
@@ -134,11 +134,11 @@ In this exercise, you will be defining a preventative maintenance agreement that
 
 1. In the **Agreement Status** flow, click **Next Stage (1)** and select the **Agreement Invoice Setup (2)**.
 
-    ![](../images/agreements-16.png)
+    ![](../images/23.png)
 
 1. In the business process flow, click **Next Stage**.
 
-    ![](../images/agreements-17.png)
+    ![](../images/24.png)
 
 ### Task 4 - Generate work orders
 
@@ -146,17 +146,17 @@ In this exercise, you will be defining a preventative maintenance agreement that
 
 1. Select **Active** from the **System Status (1)** drop-down field.
 
-    ![](../images/agreements-18.png)
+    ![](../images/25.png)
 
 1. Click **Save (2)**.
 
 1. In the **Booking Setup** section, open the Agreement Booking Setup you created in Task 2.
 
-    ![](../images/agreements-20.png)
+    ![](../images/26.png)
 
 1. Verify there are booking dates listed.
 
-    ![](../images/agreements-19.png)
+    ![](../images/27.png)
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 > - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.

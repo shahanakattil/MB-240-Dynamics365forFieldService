@@ -26,7 +26,7 @@ In this exercise, you will configure settings for work orders including prioriti
 
 1. Click **Save & Close (4)**.
 
-    ![](../images/priorities-02.png)
+    ![](../images/2.png)
 
 1. Click **+ New**.
 
@@ -58,7 +58,7 @@ In this exercise, you will configure settings for work orders including prioriti
 
 1. Click **Save & Close**. You should have a total of 4 priorities created as shown below.
 
-    ![](../images/priorities-03.png)
+    ![](../images/3.png)
 
 ### Task 2 - Resolutions
 
@@ -72,7 +72,7 @@ In this exercise, you will configure settings for work orders including prioriti
 
 1. Click **Save & Close (2)**
 
-    ![](../images/priorities-05.png)
+    ![](../images/4.png)
 
 1. Click **+ New**.
 
@@ -92,7 +92,7 @@ In this exercise, you will configure settings for work orders including prioriti
 
 1. Click **Save & Close**. You should have a total of 4 active resolutions created as shown below.
 
-    ![](../images/priorities-06.png)
+    ![](../images/5.png)
     
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 > - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
@@ -120,7 +120,7 @@ In this exercise, you will create work orders, schedule the work orders, and com
 
 1. Select the **Service Printer** incident type you created in a previous lab for **Primary Incident Type (2)**.
 
-    ![](../images/priorities-09.png)
+    ![](../images/6.png)
 
 1. Select the **Settings** tab.
 
@@ -136,7 +136,7 @@ In this exercise, you will create work orders, schedule the work orders, and com
 
 1. Click **Save (5)**.
 
-    ![](../images/priorities-10.png)
+    ![](../images/7.png)
 
 ### Task 2 - Schedule the work order using the schedule assistant
 
@@ -144,9 +144,9 @@ Field Service provides several items that can be used to assist in scheduling re
 
 1. In the work order you created in Task 1, click on the **Book** button in the command bar.
 
-    ![](../images/schedule-work-01.png)
+    ![](../images/8.png)
 
-1. In the new window that opens up, select the **ODL user DID (1)** entry that shows up and select a time slot and click **Book & Exit (2)**.
+1. In the new window that opens up, select the **ODL_User DID (1)** entry that shows up and select a time slot and click **Book & Exit (2)**.
 
     ![](../images/schedule-work-02.png)
 
@@ -157,19 +157,19 @@ Field Service provides several items that can be used to assist in scheduling re
 
 1. Click **Create Incident Type** in the command bar.
 
-    ![](../images/work-order-new-02.png)
+    ![](../images/9.png)
 
 1. Enter **Quick Inspection** for **Name (1)**.
 
 1. Click **Create Incident Type (2)**.
 
-    ![](../images/work-order-new-03.png)
+    ![](../images/10.png)
 
 1. Click **Yes** to the prompt, and inspect the new incident type.
 
     ![](../images/work-order-new-04.png)
 
-    ![](../images/work-order-new-05.png)
+    ![](../images/11.png)
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 > - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
