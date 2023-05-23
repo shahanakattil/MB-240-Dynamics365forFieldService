@@ -9,13 +9,11 @@ Dispatchers have requested more information about the customer and the work orde
 
 In this exercise, you will create a solution and add the views used on the schedule board
 
-### Task 1: Create solution
+### Task 1: Create solution.
 
 1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>
 
-1. Select the **Prod-Env-DID** environment.
-    
-    ![](../images/power-apps-01.png)
+1. Select the **Prod-Env** environment.
 
 1. Click **Solutions (1)**.
 
