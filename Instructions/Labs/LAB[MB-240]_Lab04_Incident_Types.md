@@ -3,7 +3,6 @@
 ## Exercise 1 – Create an Incident Type
 
 In this exercise, you will create and populate an Incident Type as a template for creating work orders.
-
    
 ### Task 1 - Work Order Type
 
@@ -11,7 +10,7 @@ In this exercise, you will create and populate an Incident Type as a template fo
 
     ![](../images/select-settings.png)
 
-1. In the **Work Orders** group select **Work Order Types  (1)**.
+1. In the **Work Orders** section, select **Work Order Types  (1)**.
 
 1. Click **+ New (2)**.
 
@@ -25,7 +24,7 @@ In this exercise, you will create and populate an Incident Type as a template fo
 
 1. Click **Save & Close (4)**
 
-    ![](../images/incident-types-2.png)
+    ![](../images/PL4E1T1S7.png)
 
 1. Click **+ New**.
 
@@ -37,7 +36,7 @@ In this exercise, you will create and populate an Incident Type as a template fo
 
 1. Click **Save & Close**
 
-    ![](../images/incident-types-3.png)
+    ![](../images/PL4E1T1S12.png)
 
 ### Task 2 – Service Task Types
 
@@ -53,33 +52,19 @@ In this exercise, you will create and populate an Incident Type as a template fo
 
 1. Click **Save and Close. (3)**
 
-    ![](../images/Service-Task-Types-1.png)
+    ![](../images/PL4E1T2S5.png)
 
-1. Click **+ New**.
+1. Repeat steps 2-5 and create the **New Rating Value** records listed in the table below.
 
-1. Enter **Replace Toner** for **Name**.
+    | **Name** | **Estimated Duration** |
+    |----------------|---------------|
+    | Replace Toner           | 15      |
+    | Final Test          | 15       |
+    | Inspection          | 45       |
 
-1. Select **15 Minutes** for **Estimated Duration**.
+1. You should now have a total of 3 rating values (1).
 
-1. Click **Save and Close.**
-
-1. Click **+ New**.
-
-1. Enter **Final Test** for **Name**.
-
-1. Select **15 Minutes** for **Estimated Duration**.
-
-1. Click **Save and Close.**
-
-1. Click **+ New**.
-
-1. Enter **Inspection** for **Name**.
-
-1. Select **45 Minutes** for **Estimated Duration**.
-
-1. Click **Save and Close.**
-
-    ![](../images/Service-Task-Types-2.png)
+    ![](../images/PL4E1T2S17.png)
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 > - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
@@ -97,7 +82,7 @@ In this exercise, you will create and populate an Incident Type as a template fo
 
 1. Enter **Service Printer** for **Name**.
 
-    ![](../images/incident-types-6.png)
+    ![](../images/PL4E1T3S3.png)
 
 1. Select the **Details (1)** tab.
 
@@ -107,13 +92,13 @@ In this exercise, you will create and populate an Incident Type as a template fo
 
 1. Click **Save (4)**.
 
-    ![](../images/incident-types-7.png)
+    ![](../images/PL4E1T3S7.png)
 
 1. Select the **Service Tasks (1)** tab.
 
 1. Click **+ New Incident Type Service Task (2)**.
 
-    ![](../images/incident-types-8.png)
+    ![](../images/PL4E1T3S9.png)
 
 1. Enter **Clean Printer Assembly** for **Name(1)**.
 
@@ -121,31 +106,24 @@ In this exercise, you will create and populate an Incident Type as a template fo
 
 1. Click **Save and Close (3)**.
 
-    ![](../images/incident-types-9.png)
+    ![](../images/PL4E1T3S12.png)
+    
+1. Repeat steps 9-12 and create the **+ New Incident Type Service Task** records listed in the table below.
 
-1. Click **+ New Incident Type Service Task**.
+    | **Name** | **Task Type** |
+    |----------------|---------------|
+    | Replace Toner           | Replace Toner      |
+    | Replace Final Test          | Final Test       |
 
-1. Enter **Replace Toner** for **Name**.
+1. You should now have a total of 3 incident type service tasks.
 
-1. Select the **Replace Toner** service task type you created in Task 2 for **Task Type**.
-
-1. Click **Save and Close**.
-
-1. Click **+ New Incident Type Service Task**.
-
-1. Enter **Replace Final Test** for **Name**.
-
-1. Select the **Final Test** service task type you created in Task 2 for **Task Type**.
-
-1. Click **Save and Close**.
-
-    ![](../images/incident-types-11.png)
+    ![](../images/PL4E1T3S20.png)
 
 1. Select the **Products (1)** tab.
 
 1. Click **+ New Incident Type Product (2)**.
 
-    ![](../images/incident-types-10.png)
+    ![](../images/PL4E1T3S22.png)
 
 1. Enter **Remote Printer** for **Name (1)**.
 
@@ -157,13 +135,13 @@ In this exercise, you will create and populate an Incident Type as a template fo
 
 1. Click **Save and Close (5)**.
 
-    ![](../images/incident-types-12.png)
+    ![](../images/PL4E1T3S27.png)
 
 1. Select the **Services (1)** tab.
 
 1. Click **+ New Incident Type Service (2)**.
 
-    ![](../images/incident-types-13.png)
+    ![](../images/PL4E1T3S29.png)
 
 1. Enter **Printer Service Fee** for **Name (1)**.
 
@@ -173,13 +151,13 @@ In this exercise, you will create and populate an Incident Type as a template fo
 
 1. Click **Save and Close (4)**.
 
-    ![](../images/incident-types-14.png)
+    ![](../images/PL4E1T3S33.png)
 
 1. Select the **Characteristics (1)** tab.
 
 1. Click **+ New Incident Type Characteristic**.
 
-    ![](../images/incident-types-15.png)
+    ![](../images/PL4E1T3S35.png)
 
 1. Select the **CISM** characteristic you created in a previous lab for **Characteristic (1)**.
 
@@ -187,7 +165,7 @@ In this exercise, you will create and populate an Incident Type as a template fo
 
 1. Click **Save and Close (3)**.
 
-    ![](../images/incident-types-16.png)
+    ![](../images/PL4E1T3S38.png)
 
 1. Select the **Characteristics** tab.
 
@@ -233,7 +211,7 @@ In this exercise, you will create a work order by using the incident type.
 
 ### Task 2 – Create a new Work Order using an Incident Type
 
-1. In the **Dynamics 365 Field Service app**, On the **Service** app, and in the **Scheduling** group select **Work Orders**.
+1. In the **Dynamics 365 Field Service app**, On the **Service** app, and in the **Scheduling** section, select **Work Orders**.
 
     ![](../images/work-order-01.png)
 
@@ -243,28 +221,27 @@ In this exercise, you will create a work order by using the incident type.
 
 1. Select the **Service Call** you created in a previous lab for **Work Order Type (2)**.
 
-
 1. Select the **Service Printer** incident type you created in a previous lab for **Primary Incident Type (3)**.
 
 1. Click **Save (4)**.
 
-    ![](../images/work-order-02.png)
+    ![](../images/PL4E2T2S6.png)
 
 1. Wait about 30 seconds to a minute and click **Refresh** in the command bar.
 
 1. Select the **Products** tab and verify that the **Remote Printer Product** was added.
 
-    ![](../images/work-order-03.png)
+    ![](../images/PL4E2T2S8.png)
 
 1. Select the **Services** tab and verify that the **Printer Service Fee** was added.
 
-    ![](../images/work-order-04.png)
+    ![](../images/PL4E2T2S9.png)
 
 1. Select the **Service Tasks** tab and verify that the three tasks were added.
 
 1. Click **Related** and select **Characteristics**.
 
-    ![](../images/work-order-05.png)
+    ![](../images/PL4E2T2S11.png)
 
 1. Verify that the two Characteristics defined on the Incident Type were added.
 
