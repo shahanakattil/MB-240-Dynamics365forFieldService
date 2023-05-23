@@ -26,7 +26,7 @@ In this exercise, you will be defining an inspection template and adding it to a
 
 1. Click **Advanced (5)**.
 
-    ![](../images/inspection-02.png)
+    ![](../images/28.png)
 
 1. Select **Barcode** for **Input type**.
 
@@ -68,7 +68,7 @@ In this exercise, you will be defining an inspection template and adding it to a
 
 1. Select the **Advanced (3)** tab.
 
-    ![](../images/inspection-07.png)
+    ![](../images/29.png)
 
 1. Select **Multiline** for the **Input type** drop-down.
 
@@ -82,13 +82,13 @@ In this exercise, you will be defining an inspection template and adding it to a
 
 1. Click the **Preview (3)** tab.
 
-    ![](../images/inspection-09.png)
+    ![](../images/30.png)
 
 1. Click **Save**.
 
 1. Click **Publish** and click **Publish** again.
 
-    ![](../images/inspection-10.png)
+    ![](../images/31.png)
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 > - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
@@ -114,19 +114,19 @@ In this exercise, you will be defining an inspection template and adding it to a
 
 1. Click **Save (5)**.
 
-   ![](../images/Service_Task_Types_3.png)
+   ![](../images/32.png)
 
 1. In the **Work Orders** group select **Incident Types**.
 
 1. Edit the **ServicePrinter** incident type.
 
-    ![](../images/inspection-11.png)
+    ![](../images/33.png)
 
 1. Select the **Service Tasks** tab.
 
 1. Click **+ New Incident Type Service Task**.
 
-    ![](../images/inspection-12.png)
+    ![](../images/34.png)
 
 1. Enter **InspectPrinter** for **Name (1)**.
 
@@ -134,7 +134,7 @@ In this exercise, you will be defining an inspection template and adding it to a
 
 1. Click **Save and Close (3)**.
 
-    ![](../images/inspection-13.png)
+    ![](../images/35.png)
 
 1. Click **Save & Close**.
 
@@ -154,13 +154,13 @@ In this exercise, you will be defining an inspection template and adding it to a
 
 1. Click **+ New**.
 
-    ![](../images/inspection-15.png)
+    ![](../images/36.png)
 
 1. Select the **Relecloud** account you created in Task 1 for **Service Account**.
 
 1. Select the **ServicePrinter** incident type you created in a previous lab for **Primary Incident Type**.
 
-    ![](../images/inspection-16.png)
+    ![](../images/37.png)
 
 1. Click **Save**.
 
@@ -168,7 +168,7 @@ In this exercise, you will be defining an inspection template and adding it to a
 
 1. Select the **Service Tasks** tab and verify that the four tasks were added.
 
-    ![](../images/inspection-17.png)
+    ![](../images/38.png)
 
 1. Open the **InspectPrinter** work order service task.
 
@@ -184,13 +184,13 @@ In this exercise, you will be defining an inspection template and adding it to a
 
 1. Click **Save (6)**.
 
-    ![](../images/inspection-18.png)
+    ![](../images/39.png)
 
 1. Select **Pass** for **Result (1)**.
 
 1. Click **Mark Complete (2)**.
 
-    ![](../images/inspection-19.png)
+    ![](../images/40.png)
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 > - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
