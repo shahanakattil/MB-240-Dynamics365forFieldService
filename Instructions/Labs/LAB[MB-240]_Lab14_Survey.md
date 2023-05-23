@@ -181,7 +181,7 @@ In this exercise, you will create an email template and send the survey by email
 
 3. Click on the **Template** drop-down and select the **Field Service Visit** template you created.
 
-4. Click in the Recipients field and enter your email address.
+4. Click in the Recipients field and enter **customer@contosot.com**.
 
     ![](../images/custom-voice-31.png)
 
