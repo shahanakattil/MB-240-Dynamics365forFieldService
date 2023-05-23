@@ -25,7 +25,7 @@ In this exercise, you will create a project and use a template to create a surve
 
     ![](../images/custom-voice-02.png)
 
-1. Select the **Prod-Env-DID** Dynamics 365 environment. If the environment is not listed, click **See all environments**.
+1. Select the **Prod-Env** Dynamics 365 environment. If the environment is not listed, click **See all environments**.
 
     ![](../images/custom-voice-03.png)
 
@@ -219,7 +219,7 @@ In this exercise, you will use Power Automate to send a survey when a work order
 
 1. Click **Continue**.
 
-1. Expand the steps in the flow and select your **Prod-Env-DID** for all the flows.
+1. Expand the steps in the flow and select your **Prod-Env** for all the flows.
 
     ![](../images/custom-voice-38.png)
 
