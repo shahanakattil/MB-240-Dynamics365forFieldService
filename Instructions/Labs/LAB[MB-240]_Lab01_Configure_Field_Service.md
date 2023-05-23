@@ -75,7 +75,7 @@ In this exercise, you will adding products and services for use on work orders a
 
 1. Enter **Remote Printer** for **Name**.
 
-1. Enter **Print-Serv-1234** for **Product ID**.
+1. Enter **Print Service** for **Product ID**.
 
 1. Type and select **Default Unit** for **Unit Group**.
 
@@ -104,7 +104,7 @@ In this exercise, you will adding products and services for use on work orders a
 
 1. Enter **Monthly Printer Maintenance** for **Name (1)**.
 
-1. Enter **Print-Maint** for **Product ID (2)**.
+1. Enter **Print Maintenance** for **Product ID (2)**.
 
 1. Type and select **Default Unit** for **Unit Group (3)**.
 
