@@ -16,7 +16,7 @@ In this exercise, you will be defining an inspection template and adding it to a
 
     ![](../images/inspection-01.png)
 
-1. Enter **PrinterInspection** for **Name for Inspection (1)**.
+1. Enter **Printer Inspection** for **Name for Inspection (1)**.
 
 1. Click on **TextBox (2)** to add question.
 
