@@ -98,7 +98,7 @@ In this exercise, you will create and populate an Incident Type as a template fo
 
 1. Click **+ New Incident Type Service Task (2)**.
 
-    ![](../images/PL4E1T3S9.png)
+    ![](../images/PL4E1T3S29.png)
 
 1. Enter **Clean Printer Assembly** for **Name(1)**.
 
@@ -158,12 +158,14 @@ In this exercise, you will create and populate an Incident Type as a template fo
 1. Click **+ New Incident Type Characteristic**.
 
     ![](../images/PL4E1T3S35.png)
+    
+1. Select **Service Printer** for **Incident type (1)** 
 
-1. Select the **CISM** characteristic you created in a previous lab for **Characteristic (1)**.
+1. Select the **CISM** characteristic you created in a previous lab for **Characteristic (2)**.
 
-1. Select the **Familiar** rating you created in a previous lab for **Rating Value (2)**. Click on the search icon to see all the rating values if you are unable to locate the rating.
+1. Select the **Familiar** rating you created in a previous lab for **Rating Value (3)**. Click on the search icon to see all the rating values if you are unable to locate the rating.
 
-1. Click **Save and Close (3)**.
+1. Click **Save and Close (4)**.
 
     ![](../images/PL4E1T3S38.png)
 
