@@ -177,4 +177,4 @@ Field Service provides several items that can be used to assist in scheduling re
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
-**Result:** You have successfully made settings to work orders. Followed by you have created and completed work orders by scheduling them successfully.
+**Result:** You have successfully configured settings for work orders. Followed by, creating and completing work orders by scheduling them successfully.

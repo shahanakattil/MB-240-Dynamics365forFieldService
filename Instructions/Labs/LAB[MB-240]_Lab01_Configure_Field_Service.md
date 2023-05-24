@@ -9,7 +9,7 @@ Worldwide Industries (WWI) provides IT and networking services to their customer
 
 ### Task 1 - Enable Bing Maps to use with Resource Scheduling
 
-To ensure that you are able to take full advantage of the full scheduling and mapping capabilities available with Field Service, you need to ensure that it is configured to use a mapping provider. Bing Maps is the default map provider, but additional providers could be enabled.  We will be using Bing Maps.
+To ensure that you can take full advantage of the full scheduling and mapping capabilities available with Field Service, you need to ensure that it is configured to use a mapping provider. Bing Maps is the default map provider, but additional providers could be enabled.  We will be using Bing Maps.
 
 1. In the **Dynamics 365 Field Service app**, click the **Service (1)** area in the bottom-left of the sitemap, and select **Resources (2)** from the list. 
 
@@ -27,7 +27,7 @@ To ensure that you are able to take full advantage of the full scheduling and 
 
 ## Exercise 2 - Configure Territories
 
-In this exercise, you will adding territories that will be used when scheduling resources and work orders.
+In this exercise, you will be adding territories that will be used when scheduling resources and work orders.
 
 ### Task 1 - Define Territories
 
@@ -61,7 +61,7 @@ In this exercise, you will adding territories that will be used when scheduling 
 
 ## Exercise 3 - Create Products
 
-In this exercise, you will adding products and services for use on work orders and add them to the price list.
+In this exercise, you will be adding products and services for use on work orders and add them to the price list.
 
 ### Task 1 - Add Inventory Product
 
@@ -249,8 +249,11 @@ In this exercise, you will adding products and services for use on work orders a
 
     ![](../images/price-list-12.png)
     
-> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-> - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
-> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
-> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+    > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+    > - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
+    > - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+    > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+    > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+    
+
+> **Result:** In this lab you have added and configured some products that can be installed and set up skills and characteristics that will be used as part of the implementation. 

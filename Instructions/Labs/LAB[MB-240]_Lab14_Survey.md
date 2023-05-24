@@ -4,7 +4,6 @@
 
 You are a dispatch manager at Relecloud who has been tasked with trying the Customer Voice functionality to capture feedback on work orders before rolling it out to your customers.
 
-
 ## Exercise 1: Create survey
 
 In this exercise, you will create a project and use a template to create a survey.
@@ -233,4 +232,4 @@ In this exercise, you will use Power Automate to send a survey when a work order
 
     ![](../images/custom-voice-40.png)
     
- **Result:** You have successfully created a project and using template created a survey. Followed by creating an email template you have sent the survey by email successfully.
+ **Result:** You have successfully created a project and using a template, created a survey. Followed by creating an email template. Finally sending the survey using the email template. 

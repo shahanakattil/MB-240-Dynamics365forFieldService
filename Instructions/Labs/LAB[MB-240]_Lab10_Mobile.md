@@ -59,7 +59,7 @@ In this exercise, you will configure settings for work orders including prioriti
 
 ### Task 3 – Install the mobile app
 
->**`Note`**: From here all the tasks will be performed via a mobile app
+>**`Note`**: From here all the tasks will be performed via a mobile app.
 
 1. In your mobile devices app store, search for **Field Service Dynamics 365**.
 
@@ -101,7 +101,7 @@ In this exercise, you will configure settings for work orders including prioriti
 
     ![](../images/MB-240-2.jpg)
 
-1. If you have barcode available click on the barcode symbol and allow the app to use your device and scan a barcode.
+1. If you have a barcode available click on the barcode symbol and allow the app to use your device and scan a barcode.
 
 1. If you do not have a barcode, enter **ABC888** for **Serial number**.
 
