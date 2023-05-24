@@ -70,7 +70,7 @@ In this exercise, you will create the location where resources will start and en
 
 1. Select **User (1)** from the **Resource Type** drop-down field.
 
-1. Select the user record you are signed in as ex. **ODL_User [DeploymentID]** for the **User (2)**.
+1. Select your **own account** for the **User (2)**.
 
 1. Select your Time Zone for **Time Zone (3)**.
 
