@@ -181,7 +181,7 @@ In this exercise, you will create the location where resources will start and en
 
 1. Enter **Standard hours** for **Name (1)**.
 
-1. Select your user for **Template resource (2)**.
+1. Select your own account for **Template resource (2)**.
 
 1. Click **Save & Close (3)**.
 
