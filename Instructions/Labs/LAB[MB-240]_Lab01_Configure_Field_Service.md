@@ -51,7 +51,7 @@ In this exercise, you will be adding territories that will be used when scheduli
 
 1. You will now have four Territories with your prefix.
 
-    ![](../images/new-territories-01.png)
+    ![](../images/MB-240-territories.png)
     
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 > - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
@@ -75,7 +75,7 @@ In this exercise, you will be adding products and services for use on work order
 
 1. Enter **Remote Printer** for **Name**.
 
-1. Enter **Print-Serv-1234** for **Product ID**.
+1. Enter **Print Service** for **Product ID**.
 
 1. Type and select **Default Unit** for **Unit Group**.
 
@@ -83,7 +83,7 @@ In this exercise, you will be adding products and services for use on work order
 
 1. Set **Decimals Supported** to **2**.
 
-    ![](../images/new-product.png)
+    ![](../images/MB-240-default.png)
 
 1. Select the **Field Service (1)** tab.
 
@@ -95,7 +95,7 @@ In this exercise, you will be adding products and services for use on work order
 
 1. Click **Save & Close(3)**
 
-    ![](../images/field-service-select-2.png)
+    ![](../images/inventory.png)
 
 
 ### Task 2 - Add Non-Inventory Product
@@ -104,7 +104,7 @@ In this exercise, you will be adding products and services for use on work order
 
 1. Enter **Monthly Printer Maintenance** for **Name (1)**.
 
-1. Enter **Print-Maint** for **Product ID (2)**.
+1. Enter **Print Maintenance** for **Product ID (2)**.
 
 1. Type and select **Default Unit** for **Unit Group (3)**.
 
@@ -112,7 +112,7 @@ In this exercise, you will be adding products and services for use on work order
 
 1. Set **Decimals Supported (5)** to **2**.
 
-    ![](../images/product-details-non-inv.png)
+    ![](../images/MB-240-print-maint.png)
 
 1. Select the **Field Service** tab.
 
@@ -124,7 +124,7 @@ In this exercise, you will be adding products and services for use on work order
 
 1. Click **Save & Close (4)**
 
-    ![](../images/non-inventory-field.png)
+    ![](../images/non-inventory.png)
 
 ### Task 3 - Add Service Product
 
@@ -140,7 +140,7 @@ In this exercise, you will be adding products and services for use on work order
 
 1. Set **Decimals Supported** to **2 (5)**.
 
-    ![](../images/service-product-01.png)
+    ![](../images/printer-service.png)
     
 1. Select the **Field Service** tab.
 
@@ -152,7 +152,7 @@ In this exercise, you will be adding products and services for use on work order
 
 1. Click **Save & Close**
 
-    ![](../images/service-product-02.png)
+    ![](../images/product-printer.png)
 
 ### Task 4 - Add Products to a Price List
 
@@ -169,19 +169,19 @@ In this exercise, you will be adding products and services for use on work order
 
 1. Click **Save (2)**.
 
-    ![](../images/price-list-02.png)
+    ![](../images/price.png)
 
 1. Select the **Price List Items (1)** tab.
 
 1. Click **+ New Price List Item (2)**.
 
-    ![](../images/price-list-03.png)
+    ![](../images/MB-240-Item.png)
 
 1. Select the **Remote Printer (1)** product you created in Task 1.
 
 1. Select **Primary Unit** for **Unit (2)**.
 
-    ![](../images/price-list-04.png)
+    ![](../images/MB-240-New-Item.png)
 
 1. Select the **Pricing Information** tab.
 
@@ -191,7 +191,7 @@ In this exercise, you will be adding products and services for use on work order
 
 1. Click **Save & Close (3)**.
 
-    ![](../images/price-list-05.png)
+    ![](../images/MB-240-save.png)
 
 1. Click **+ New Price List Item**.
 
@@ -199,7 +199,7 @@ In this exercise, you will be adding products and services for use on work order
 
 1. Select **Primary Unit** for **Unit (2)**.
 
-    ![](../images/price-list-06.png)
+    ![](../images/monthly.png)
 
 1. Select the **Pricing Information** tab.
 
@@ -217,7 +217,7 @@ In this exercise, you will be adding products and services for use on work order
 
 1. Select **Primary Unit** for **Unit (2)**.
 
-    ![](../images/price-list-08.png)
+    ![](../images/printservice.png)
 
 1. Select the **Pricing Information** tab.
 
@@ -231,11 +231,11 @@ In this exercise, you will be adding products and services for use on work order
 
 1. Click **Related (1)** on the Price List and select **Field Service Price List Items (2)**.
 
-    ![](../images/price-list-10.png)
+    ![](../images/related.png)
 
 1. Click **+ New Field Service Price List Item**.
 
-    ![](../images/price-list-11.png)
+    ![](../images/newpricelist-MB-240.png)
 
 1. Enter **Printer Service Fee** for **Name (1)**.
 
@@ -247,7 +247,7 @@ In this exercise, you will be adding products and services for use on work order
 
 1. Click **Save & Close (4)**.
 
-    ![](../images/price-list-12.png)
+    ![](../images/MB-240-save&close.png)
     
     > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
     > - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.

@@ -122,7 +122,7 @@ In this task, you will create a building security skill that will be used in con
 
 1. Click on the name of the app in the top left of the application next to Dynamics 365 and from the list of published apps, select the **Resource Scheduling** app.
 
-    ![](../images/resource-scheduling-1.png)
+    ![](../images/MB-240-newimage.png)
 
     ![](../images/resource-scheduling-2.png)
 
@@ -201,16 +201,16 @@ In this task, you will be adding the Installation Specialist, Site Inspector, an
     
 1. Repeat steps 3-6 and create the **+ New** records listed in the table below.
 
- | **Name** | **Description** |
+    | **Name** | **Description** |
     |----------------|---------------|
-    | Site Inspector           | Site Inspector      |
-    | Security Analyst          | Security Analyst       |
+    | Site Inspector | Site Inspector|
+    | Security Analyst | Security Analyst|
     
 1. You should now have a total of 3 Role values.
 
 1. Click on the name of the app in the top left of the application next to Dynamics 365 and from the list of published apps, select the **Field Service** app.
 
-    ![](../images/resource-roles-3.png)
+    ![](../images/MB-240-resourcescheduling.png)
 
     ![](../images/resource-roles-4.png)
 
@@ -220,7 +220,7 @@ In this task, you will be adding the Installation Specialist, Site Inspector, an
 
 1. Verify the roles you created are listed under Active Resource Categories.
 
-    ![](../images/resource-roles-6.png)
+    ![](../images/MB-240-installation.png)
     
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 > - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
