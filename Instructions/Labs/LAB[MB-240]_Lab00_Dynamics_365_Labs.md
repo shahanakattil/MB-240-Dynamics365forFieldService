@@ -40,12 +40,12 @@ In this practice lab, you will validate and set up your tenant.
 
     |Setting|Value|
     |---|---|
-    |Name|**Prod-Env-[DeploymentID]**|
+    |Name|**Prod-Env**|
     |Region|**United States**|
     |Type|**Production**|
     |Add a Dataverse data store?|**Enabled** and select Next|
 
-    ![](../images/power-platform-environment-new-add-01.png)
+    ![](../images/newenvnext.png)
 
     |Setting|Value|
     |---|---|
@@ -59,7 +59,7 @@ In this practice lab, you will validate and set up your tenant.
 
 ### Task 3 – Access the Dynamics 365 application
 
-1. On the Power Platform admin center, select the **Prod-Env-[DeploymentID]** environment.
+1. On the Power Platform admin center, select the **Prod-Env** environment.
 
 1. Select the **Open** located on the command bar.
 

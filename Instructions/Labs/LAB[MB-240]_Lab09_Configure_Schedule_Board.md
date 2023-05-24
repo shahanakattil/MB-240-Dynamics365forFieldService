@@ -13,13 +13,13 @@ You can create new schedule boards and configure them for your requirements. In 
 
 1. Click the **+** icon in the top-left of the schedule board to add a new schedule board tab.
 
-1. Enter ** Board (1)** for **Board Name**.
+1. Enter **Board (1)** for **Board Name**.
 
 1. Select **Everyone (2)** from the **Shared with** drop-down field.
 
 1. Select the **Schedule Assistant (3)** tab.
 
-    ![](../images/Create-a-schedule-board-6.png)
+    ![](../images/46.png)
 
 1. Enter **c6fcb3** for **Available color (1)**.
 
@@ -27,7 +27,7 @@ You can create new schedule boards and configure them for your requirements. In 
 
 1. Select the **Board colors (3)** tab.
 
-    ![](../images/Create-a-schedule-board-5.png)
+    ![](../images/47.png)
 
 1. Enter **c6fcb3** for **Not booked (1)**.
 
@@ -45,7 +45,7 @@ You can create new schedule boards and configure them for your requirements. In 
 
     ![](../images/Create-a-schedule-board-3.png)
 
-1. Select the  ** Board (1)** tab.
+1. Select the  **Board (1)** tab.
 
 1. Click on the **Scheduler Settings (2)** gear icon on the Schedule Board.
 

@@ -4,10 +4,9 @@
 
 In this exercise, you will create the location where resources will start and end their day.
 
-
 ### Task 1 - Set Time Zone
 
-1. Click the **Settings (1)** icon in the navigation bar and select **Personalization Settings (2)**.
+1. In the **Dynamics 365 Field Service app** page, Click the **Settings (1)** icon in the navigation bar and select **Personalization Settings (2)**.
 
     ![](../images/Personalization-Settings.png)
 
@@ -17,7 +16,7 @@ In this exercise, you will create the location where resources will start and en
 
 1. Click on **Home** at the top of the left-hand side navigation.
 
-1. In the **Dynamics 365 Field Service app**, click the **Service (1)** area in the bottom-left of the sitemap, and in the **Scheduling (2)** group select **Schedule Board (3)**.
+1. In the **Dynamics 365 Field Service app**, click the **Service (1)** area in the bottom-left of the sitemap, and in the **Scheduling (2)** section, select **Schedule Board (3)**.
 
     ![](../images/Scheduling.png)
 
@@ -29,7 +28,7 @@ In this exercise, you will create the location where resources will start and en
 
 ### Task 2 - Create Organizational Unit
 
-1. In the **Dynamics 365 Field Service app**, click the **Settings (1)** area in the bottom-left of the sitemap, and in the **General (2)** group select **Org Units (3)**.
+1. In the **Dynamics 365 Field Service app**, click the **Settings (1)** area in the bottom-left of the sitemap, and in the **General (2)** section, select **Org Units (3)**.
 
 1. Click **+ New (4)**.
 
@@ -47,7 +46,7 @@ In this exercise, you will create the location where resources will start and en
 
 ### Task 3 - Create a Warehouse for a Truck
 
-1. In the **Dynamics 365 Field Service app**, click the **Inventory (1)** area in the bottom-left of the sitemap, and in the **Inventory (2)** group select **Warehouses (3)**.
+1. In the **Dynamics 365 Field Service app**, click the **Inventory (1)** area in the bottom-left of the sitemap, and in the **Inventory (2)** section, select **Warehouses (3)**.
 
 1. Click **+ New (4)**.
 
@@ -57,13 +56,13 @@ In this exercise, you will create the location where resources will start and en
 
 1. Click **Save & Close**
 
-    ![](../images/Inventory-name.png)
+    ![](../images/PL3E1T3S4.png)
 
 ## Exercise 2 – Configure resources
 
 ### Task 1 - Create a Bookable Resource for your user record
 
-1. In the **Dynamics 365 Field Service app**, click the **Resources (1)** area in the bottom-left of the sitemap, and in the **Resource (2)** group select **Resources (3)**.
+1. In the **Dynamics 365 Field Service app**, click the **Resources (1)** area in the bottom-left of the sitemap, and in the **Resource (2)** section, select **Resources (3)**.
 
 1. Click **+ New (4)**.
 
@@ -87,7 +86,7 @@ In this exercise, you will create the location where resources will start and en
 
 1. Select the **Field Service (4)** tab
 
-    ![](../images/Field-Service.png)
+    ![](../images/PL3E2T1S10.png)
 
 1. Set the **Hourly Rate (1)** field to **175**.
 
@@ -97,7 +96,7 @@ In this exercise, you will create the location where resources will start and en
 
 1. Click **Save (4)**.
 
-    ![](../images/Hourly-Rates.png)
+    ![](../images/PL3E2T1S14.png)
 
 1. Select the **General** tab
 
@@ -113,25 +112,18 @@ In this exercise, you will create the location where resources will start and en
 
 1. Click **Save and Close**.
 
-    ![](../images/Skill-Name.png)
+    ![](../images/PL3E2T1S20.png)
 
-1. Click **+ New Bookable Resource Characteristic**.
+ 1. Repeat steps 17-20 and create the **New Bookable Resource Characteristic** records listed in the table below.
 
-1. Select the **CISM** you created in the previous lab for **Skill Name**.
+    | **Skill Name** | **Rating Value** |
+    |----------------|---------------|
+    | CISM       | Proficient         |
+    | CISSP           | Expert      |
+       
+1. You should now have a total of 3 Resource Characteristic.
 
-1. Select the **Proficient** you created in the previous lab for **Rating Value**.
-
-1. Click **Save and Close**.
-
-1. Click **+ New Bookable Resource Characteristic**.
-
-1. Select the **CISSP** you created in the previous lab for **Characteristic**.
-
-1. Select the **Expert** you created in the previous lab for **Rating Value**.
-
-1. Click **Save and Close**.
-
-1. Select the **General** tab
+1. Select the **General** tab.
 
 1. If **Resource Category Assns** are not shown in a sub-gird on the General tab, click **Related** and select **Resource Category Assns**.
 
@@ -167,11 +159,9 @@ In this exercise, you will create the location where resources will start and en
 
 1. Select **Every Week (2)** from the **Repeat** drop-down field.
 
-1. Check **Mo** to **Fr** are checked
+1. Check **Mo** to **Fr** and Uncheck **Su** and **Sa**.
 
-1. Uncheck **Su** and **Sa**.
-
-1. Set the **Work Hour (3)** are set to **9:00 AM** to **5:00 PM**
+1. Set the **Work Hour (3)** to **9:00 AM** to **5:00 PM**
 
 1. Select your Time Zone (4).
 
@@ -183,7 +173,7 @@ In this exercise, you will create the location where resources will start and en
 
 ### Task 2 - Create a Working Hours template
 
-1. In the **Dynamics 365 Field Service app**, click the **Resources** area in the bottom-left of the sitemap, and in the **Resource** group select **Work Hours Templates**.
+1. In the **Dynamics 365 Field Service app**, click the **Resources** area in the bottom-left of the sitemap, and in the **Resource** Section, select **Work Hours Templates**.
 
 1. Click **+ New**.
 
@@ -195,7 +185,7 @@ In this exercise, you will create the location where resources will start and en
 
 1. Click **Save & Close (3)**.
 
-    ![](../images/Template-resource.png)
+    ![](../images/PL3E2T2S5.png)
     
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 > - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
