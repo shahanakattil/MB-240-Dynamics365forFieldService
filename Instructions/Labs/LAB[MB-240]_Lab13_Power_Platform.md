@@ -23,7 +23,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Click **+ New publisher (4)**.
 
-    ![](../images/power-apps-02.png)
+    ![](../images/power-apps02.png)
 
 1. Enter **odl_user_DID** for **Display Name (1)**.
 
