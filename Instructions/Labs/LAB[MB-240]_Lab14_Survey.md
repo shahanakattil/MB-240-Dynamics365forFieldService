@@ -24,11 +24,11 @@ In this exercise, you will create a project and use a template to create a surve
 
     ![](../images/custom-voice-02.png)
 
-1. Select the **Prod-Env** Dynamics 365 environment. If the environment is not listed, click **See all environments**.
+1. Select the **Prod-Env (1)** Dynamics 365 environment. If the environment is not listed, click **See all environments** and chick on **Select and Close (2)**.
 
     ![](../images/custom-voice-03.png)
 
-    ![](../images/custom-voice-04.png)
+    ![](../images/resolution-30.png)
 
 1. Click **Create**.
 
