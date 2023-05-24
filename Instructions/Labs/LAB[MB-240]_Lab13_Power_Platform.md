@@ -45,7 +45,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. In Power Apps, Click on **Solution**.
 
-    ![](../images/power-apps-05.png)
+    ![](../images/power-apps05.png)
 
 1. Click **Add existing (1)** and select **Table (2)**.
 
@@ -77,6 +77,8 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Select **Resource Requirement** and click **Next**
 
+     ![](../images/rereq.png)
+
 1. Click **Select objects**.
 
 1. Select the **Views** tab.
@@ -107,7 +109,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. There should be three resources of the type table as shown below.
 
-    ![](../images/power-apps-11.png)
+    ![](../images/power-apps11.png)
 
 ### Task 3: Customize views
 
@@ -115,7 +117,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Select **Bookable Resource** table.
 
-    ![](../images/power-apps-12.png)
+    ![](../images/power-apps12.png)
 
 1. Edit the **Active Bookable Resources** view.
 
@@ -133,7 +135,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
 1. Enter **Bookable Resource Detail panel** for **Name (2)** and click **Save (3)**.
 
-    ![](../images/power-apps-15.png)
+    ![](../images/power-apps15.png)
 
 1. Click **Save and Publish**.
 
