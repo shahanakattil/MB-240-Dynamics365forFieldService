@@ -37,11 +37,11 @@ In this exercise, you will create a project and use a template to create a surve
 
 1. Click on the ellipsis (2) next to your project and select **Rename (3)**.
 
-1. Enter **Work Order VisitFeedback** and click on **Rename**.
+1. Enter **Work Order Visit Feedback** and click on **Rename**.
 
     ![](../images/custom-voice-06.png)
 
-    ![](../images/custom-voice-07.png)
+    ![](../images/custom-voice07.png)
 
 ### Task 2: Customize survey
 
@@ -49,7 +49,7 @@ In this exercise, you will create a project and use a template to create a surve
 
 1. Click in the **Header** and change **Field service feedback** to **How did we do?**.
 
-    ![](../images/custom-voice-08.png)
+    ![](../images/custom-voice08.png)
 
 1. Hover the mouse over the header and click on the **Theme color (1)** icon and change from 2266e3 to **ffdd66 (2)**.
 
@@ -57,7 +57,7 @@ In this exercise, you will create a project and use a template to create a surve
 
 1. Hover the mouse over the header and click on the **Image (1)** icon and choose one of the images (2) from the gallery.
 
-    ![](../images/custom-voice-10.png)
+    ![](../images/custom-voice10.png)
 
 1. Select question 1 and set as **Required**.
 
@@ -89,7 +89,7 @@ In this exercise, you will create a project and use a template to create a surve
 
 1. Click **Save**.
 
-    ![](../images/custom-voice-18.png)
+    ![](../images/custom-voice18.png)
 
 1. Click **Close**.
 
@@ -101,13 +101,13 @@ In this exercise, you will create a project and use a template to create a surve
 
 1. Click into the section header that starts with *Hi {{First Name}}* and clear the text, click on the **variables** drop-down and select **workordernumber**.
 
-    ![](../images/custom-voice-20.png)
+    ![](../images/custom-voice20.png)
 
     ![](../images/custom-voice-21.png)
 
 1. Click **Preview**.
 
-    ![](../images/custom-voice-22.png)
+    ![](../images/custom-voice22.png)
 
 1. Click **Back**.
 
@@ -147,7 +147,7 @@ In this exercise, you will create an email template and send the survey by email
 
 1. Click on the **Email** tile.
 
-    ![](../images/custom-voice-26.png)
+    ![](../images/custom-voice26.png)
 
 1. Click on the **Template** drop-down and select **Create new**.
 
@@ -155,11 +155,11 @@ In this exercise, you will create an email template and send the survey by email
 
 1. Enter **Field Service Visit** and click **Add**.
 
-    ![](../images/custom-voice-28.png)
+    ![](../images/custom-voice28.png)
 
 1. Click on the **Template** drop-down and **Field Service Visit**.
 
-    ![](../images/custom-voice-29.png)
+    ![](../images/custom-voice29.png)
 
 1. Click in the top of the body of the email template.
 
@@ -169,7 +169,7 @@ In this exercise, you will create an email template and send the survey by email
 
 1. Click **Save (3)**
 
-    ![](../images/custom-voice-30.png)
+    ![](../images/custom-voice30.png)
 
 1. Click **Cancel (4)**
 
@@ -183,7 +183,7 @@ In this exercise, you will create an email template and send the survey by email
 
 4. Click in the Recipients field and enter **customer@contosot.com**.
 
-    ![](../images/custom-voice-31.png)
+    ![](../images/sendmail.png)
 
 5. Click **Send**
 
@@ -203,13 +203,13 @@ In this exercise, you will use Power Automate to send a survey when a work order
 
 1. Click **Automate**.
 
-    ![](../images/custom-voice-32.png)
+    ![](../images/custom-voice32.png)
 
 1. Select your region on the pop up and select get started. Now select **Send a survey when a work order is completed or closed in Dynamics 365** template. You may need to click on **See more templates**.
 
-    ![](../images/custom-voice-33.png)
+    ![](../images/custom-voice33.png)
 
-    ![](../images/custom-voice-34.png)
+    ![](../images/custom-voice34.png)
 
 1. Select **Sign in** on both the connections and enter any necessary details when prompted.
 
@@ -227,7 +227,7 @@ In this exercise, you will use Power Automate to send a survey when a work order
 
 1. Clear the **Email** template field and select the **Field Service Visit** template you created.
 
-    ![](../images/custom-voice-37.png)
+    ![](../images/custom-voice37.png)
 
 1. Click **Save**.
 
