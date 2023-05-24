@@ -5,7 +5,7 @@
 Dispatchers have requested more information about the customer and the work order to be displayed on the schedule board. You are going to customize the views used by the schedule board to achieve this.
 
 
-## Exercise 1: Gather components to customizes
+## Exercise 1: Gather components to customize
 
 In this exercise, you will create a solution and add the views used on the schedule board
 
@@ -257,7 +257,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
     ![](../images/power-apps-24.png)
 
-1. Select **Remaining Duration** with operator **Is greater than** and value **0 minutes**.
+1. Select **Remaining Duration** with the operator **Is greater than** and value **0 minutes**.
 
 1. Click **+ Add** and select **Add related table**.
 
@@ -345,4 +345,4 @@ In this exercise, you will create a solution and add the views used on the sched
 
     ![](../images/select-board8.png)
 
-**Result:** You have successfully created, added views to the solution, customized views to the solution in Power Apps Portal. Then you have used the views on scheduled borads and tested successfully.
+**Result:** You have successfully created and added views to the solution, and customized views to the solution in Power Apps Portal. Then you used the views on scheduled boards and tested them successfully.

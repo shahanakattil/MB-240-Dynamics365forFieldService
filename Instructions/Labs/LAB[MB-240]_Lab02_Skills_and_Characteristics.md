@@ -2,7 +2,7 @@
 
 ## Exercise 1 - Configure Dynamics 365 for Field Service Skills and Characteristics
 
-Each technician that goes out to service customers may have a number of different skills and roles assigned to them. There are three primary roles that technician may have:
+Each technician that goes out to service customers may have a number of different skills and roles assigned to them. There are three primary roles that a technician may have:
 
 - Installation Specialist
 - Site Inspector
