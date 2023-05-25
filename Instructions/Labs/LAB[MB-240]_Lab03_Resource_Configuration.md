@@ -52,9 +52,9 @@ In this exercise, you will create the location where resources will start and en
 
     ![](../images/Inventory.png)
 
-1. Enter **Truck** for **Name**.
+1. Enter **Truck (1)** for **Name**.
 
-1. Click **Save & Close**
+1. Click **Save & Close (2)**
 
     ![](../images/PL3E1T3S4.png)
 
@@ -70,7 +70,7 @@ In this exercise, you will create the location where resources will start and en
 
 1. Select **User (1)** from the **Resource Type** drop-down field.
 
-1. Select the user record you are signed in as ex. **ODL User [DeploymentID]** for the **User (2)**.
+1. Select your **own account** for the **User (2)**.
 
 1. Select your Time Zone for **Time Zone (3)**.
 
@@ -82,7 +82,7 @@ In this exercise, you will create the location where resources will start and en
 
 1. Select **Organizational Unit Address (2)** from the **End Location** drop-down field.
 
-1. Select the **Org Unit (2)** organizational unit you created in Exercise 1 for **Organizational Unit**.
+1. Select the **Org Unit (3)** organizational unit you created in Exercise 1 for **Organizational Unit**.
 
 1. Select the **Field Service (4)** tab
 
@@ -92,7 +92,7 @@ In this exercise, you will create the location where resources will start and en
 
 1. Select the **Truck (2)** you created in Exercise 1 for **Warehouse**.
 
-1. Select **Yes** from the **Time Off Approval Required (3)** drop-down field.
+1. Select **Yes (3)** from the **Time Off Approval Required (3)** drop-down field.
 
 1. Click **Save (4)**.
 
@@ -173,15 +173,15 @@ In this exercise, you will create the location where resources will start and en
 
 ### Task 2 - Create a Working Hours template
 
-1. In the **Dynamics 365 Field Service app**, click the **Resources** area in the bottom-left of the sitemap, and in the **Resource** Section, select **Work Hours Templates**.
+1. In the **Dynamics 365 Field Service app**, click the **Resources (1)** area in the bottom-left of the sitemap, and in the **Resource** Section, select **Work Hours Templates (2)**.
 
-1. Click **+ New**.
+1. Click **+ New (3)**.
 
     ![](../images/Work-Hours-Templates.png)
 
 1. Enter **Standard hours** for **Name (1)**.
 
-1. Select your user for **Template resource (2)**.
+1. Select your own account for **Template resource (2)**.
 
 1. Click **Save & Close (3)**.
 
