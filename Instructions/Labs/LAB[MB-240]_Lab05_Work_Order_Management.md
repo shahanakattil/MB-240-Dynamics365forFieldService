@@ -140,7 +140,7 @@ In this exercise, you will create work orders, schedule the work orders, and com
 
 ### Task 2 - Schedule the work order using the schedule assistant
 
-Field Service provides several items that can be used to assist in scheduling resources for specific items. The two primary components that are used are the Schedule Board and the Schedule Assistant. The Schedule Board provides the ability to manually schedule items, and the assistant offers suggestions on resources based on factors like location, skills, and availability. In this task we will examine how you can use the Book button from within the work order.
+Field Service provides several items that can be used to assist in scheduling resources for specific items. The two primary components that are used are the Schedule Board and the Schedule Assistant. The Schedule Board provides the ability to manually schedule items, and the assistant offers suggestions on resources based on factors like location, skills, and availability. In this task, we will examine how you can use the Book button from within the work order.
 
 1. In the work order you created in Task 1, click on the **Book** button in the command bar.
 

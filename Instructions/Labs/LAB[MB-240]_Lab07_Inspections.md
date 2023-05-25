@@ -20,7 +20,7 @@ In this exercise, you will be defining an inspection template and adding it to a
 
 1. Click on **TextBox (2)** to add question.
 
-1. Enter **Serial number** for **Question1 (3)** title.
+1. Enter **Serial number** for **Question 1 (3)** title.
 
 1. Toggle **Required (4)** to On.
 
@@ -36,7 +36,7 @@ In this exercise, you will be defining an inspection template and adding it to a
 
 1. Click on **Dropdown (2)** to add question.
 
-1. Enter **Condition (3)** for **Question2** title.
+1. Enter **Condition (3)** for **Question 2** title.
 
 1. Toggle **Required (4)** to On.
 
@@ -50,7 +50,7 @@ In this exercise, you will be defining an inspection template and adding it to a
 
 1. Click on **Number (1)** to add question.
 
-1. Enter **Page Count (2)** for **Question3** title.
+1. Enter **Page Count (2)** for **Question 3** title.
 
 1. Select the **Advanced (3)** tab.
 
@@ -64,7 +64,7 @@ In this exercise, you will be defining an inspection template and adding it to a
 
 1. Click on **TextBox (1)** to add question.
 
-1. Enter **Comments (2)** for **Question4** title.
+1. Enter **Comments (2)** for **Question 4** title.
 
 1. Select the **Advanced (3)** tab.
 
@@ -78,7 +78,7 @@ In this exercise, you will be defining an inspection template and adding it to a
 
 1. Click on **File (1)** to add question.
 
-1. Enter **Image** for **Question5 (2)** title.
+1. Enter **Image** for **Question 5 (2)** title.
 
 1. Click the **Preview (3)** tab.
 

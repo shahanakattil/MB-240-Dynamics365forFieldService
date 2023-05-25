@@ -55,7 +55,7 @@ In this practice lab, you will validate and set up your tenant.
 
     ![](../images/power-platform-environment-new-add-02.png)
    
->**Note**: Wait for the Environment to get ready before you continue with this lab.
+> **Note**: Wait for the Environment to get ready before you continue with this lab.
 
 ### Task 3 – Access the Dynamics 365 application
 

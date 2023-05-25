@@ -46,7 +46,7 @@ In this exercise, you will create a project and use a template to create a surve
 
 1. Select your project.
 
-1. Click in the **Header** and change **Field service feedback** to **How did we do?**.
+1. Click in the **Header** and change **Field service feedback** to **How did we do?**
 
     ![](../images/custom-voice08.png)
 
@@ -84,7 +84,7 @@ In this exercise, you will create a project and use a template to create a surve
 
     ![](../images/custom-voice-17.png)
 
-1. Click + **Add variable** and enter **workordernumber** with default value **your booking**.
+1. Click + **Add variable** and enter **workordernumber** with the default value **your** booking**.
 
 1. Click **Save**.
 
@@ -204,7 +204,7 @@ In this exercise, you will use Power Automate to send a survey when a work order
 
     ![](../images/custom-voice32.png)
 
-1. Select your region on the pop up and select get started. Now select **Send a survey when a work order is completed or closed in Dynamics 365** template. You may need to click on **See more templates**.
+1. Select your region on the pop-up and select get started. Now select **Send a survey when a work order is completed or closed in Dynamics 365** template. You may need to click on **See more templates**.
 
     ![](../images/custom-voice33.png)
 

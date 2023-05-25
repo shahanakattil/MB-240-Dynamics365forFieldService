@@ -121,7 +121,7 @@ In this exercise, you will create the location where resources will start and en
     | CISM       | Proficient         |
     | CISSP           | Expert      |
        
-1. You should now have a total of 3 Resource Characteristic.
+1. You should now have a total of 3 Resource Characteristics.
 
 1. Select the **General** tab.
 
