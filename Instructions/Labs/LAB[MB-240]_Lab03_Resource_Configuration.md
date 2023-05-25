@@ -50,7 +50,7 @@ In this exercise, you will create the location where resources will start and en
 
 1. Click **+ New (4)**.
 
-    ![](../images/Inventory.png)
+    ![](../images/inventory-ou.png)
 
 1. Enter **Truck (1)** for **Name**.
 
