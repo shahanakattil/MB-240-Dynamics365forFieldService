@@ -123,7 +123,7 @@ In this exercise, you will create a solution and add the views used on the sched
 
     ![](../images/power-apps13.png)
 
-1. Search for **Start Location** column in the searchbox and select the **Start Location** resource that shows up.
+1. Search for **Start Location** column in the search box and select the **Start Location** resource that shows up.
 
     ![](../images/power-apps-14.png)
 
