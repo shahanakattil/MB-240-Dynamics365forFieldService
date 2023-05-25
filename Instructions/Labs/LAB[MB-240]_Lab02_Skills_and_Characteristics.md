@@ -1,4 +1,4 @@
-# Practice Lab 2 - Skills and characteristics
+# Practice Lab 2 - Skills and Characteristics
 
 ## Exercise 1 - Configure Dynamics 365 for Field Service Skills and Characteristics
 
