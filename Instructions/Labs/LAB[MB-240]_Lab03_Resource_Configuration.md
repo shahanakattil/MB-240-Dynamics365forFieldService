@@ -143,7 +143,7 @@ In this exercise, you will create the location where resources will start and en
 
 1. Click **Related** and select **Resource Territories** under the **Related-Details** section.
 
-    ![](../images/Related.png)
+    ![](../images/related-new01.png)
 
 1. Click **+ New Resource Territory**.
 
