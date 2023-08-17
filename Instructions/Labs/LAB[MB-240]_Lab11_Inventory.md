@@ -91,3 +91,5 @@ In this exercise, you will add inventory to a warehouse and then transfer it to 
 1. In the **Dynamics 365 Field Service app**, click the **Inventory** area in the bottom-left of the sitemap, and in the **Inventory** group select **Product Inventory** and review the inventory lines.
 
 **Result:** You have successfully added an inventory to a warehouse and then transferred it to a truck.
+
+### **Proceed with the next Lab.**
