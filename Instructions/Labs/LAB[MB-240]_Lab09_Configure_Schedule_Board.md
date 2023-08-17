@@ -76,3 +76,5 @@ You can create new schedule boards and configure them for your requirements. In 
 > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 **Result:** You have successfully created and configured Schedule Boards according to your requirement.
+
+### **Proceed with the next Lab.**
