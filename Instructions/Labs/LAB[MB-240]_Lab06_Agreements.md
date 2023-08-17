@@ -165,3 +165,5 @@ In this exercise, you will be defining a preventative maintenance agreement that
 > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 **Result:** You have successfully created an agreement and have set up an automated invoice/automated booking for the agreement. Then you have generated a work order successfully.
+
+### **Proceed with the next Lab.**
