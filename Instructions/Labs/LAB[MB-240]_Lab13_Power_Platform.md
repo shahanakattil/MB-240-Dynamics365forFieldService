@@ -346,3 +346,5 @@ In this exercise, you will create a solution and add the views used on the sched
     ![](../images/select-board8.png)
 
 **Result:** You have successfully created and added views to the solution, and customized views to the solution in Power Apps Portal. Then you used the views on scheduled boards and tested them successfully.
+
+### **Proceed with the next Lab.**
