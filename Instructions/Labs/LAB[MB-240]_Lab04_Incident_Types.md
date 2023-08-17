@@ -254,3 +254,5 @@ In this exercise, you will create a work order by using the incident type.
 > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 **Result:** You have successfully created/populated an Incident Type as a template and also created a work order by using the incident type.
+
+### **Proceed with the next Lab.**
