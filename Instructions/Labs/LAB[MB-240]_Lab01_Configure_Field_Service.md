@@ -257,3 +257,5 @@ In this exercise, you will be adding products and services for use on work order
     
 
 > **Result:** In this lab you have added and configured some products that can be installed and set up skills and characteristics that will be used as part of the implementation. 
+
+### **Proceed with the next Lab.**
