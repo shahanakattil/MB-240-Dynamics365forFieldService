@@ -199,3 +199,5 @@ In this exercise, you will be defining an inspection template and adding it to a
 > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 **Result:** You have successfully defined an inspection template by adding it to a service type task. Also, you have viewed the inspection by creating a work order.
+
+### **Proceed with the next Lab.**
