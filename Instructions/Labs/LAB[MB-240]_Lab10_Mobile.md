@@ -156,3 +156,5 @@ In this exercise, you will configure settings for work orders including prioriti
 1. Tap **<** to return to the agenda.
 
 **Result:** You have successfully configured Field Service mobile app for frontline workers by creating work orders including priorities and resolutions.
+
+### **Proceed with the next Lab.**
