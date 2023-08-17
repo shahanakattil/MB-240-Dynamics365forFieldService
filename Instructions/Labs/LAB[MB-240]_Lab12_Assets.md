@@ -232,3 +232,5 @@ In this exercise, you will create a work order linked to the customer asset and 
 1. Open the work order product and in the **General** tab, verify the customer asset is populated.
 
 **Result:** You have successfully learned how to convert products to customer assets and created assets. Also, you have created functional locations. Finally, you have created work orders and linked them to the customer asset and functional location.
+
+### **Proceed with the next Lab.**
