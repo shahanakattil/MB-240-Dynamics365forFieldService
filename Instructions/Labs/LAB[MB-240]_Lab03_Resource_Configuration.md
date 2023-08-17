@@ -194,3 +194,5 @@ In this exercise, you will create the location where resources will start and en
 > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 **Result:** You have successfully configured your Resources by creating a location where resources will start and end their day.
+
+### **Proceed with the next Lab.**
