@@ -130,3 +130,5 @@ Universal Resource Scheduling provides several items that can be used to assist 
    ![](../images/Create-work-order-10.png)
 
 **Result:** You have successfully created work orders by scheduling them using Schedule Boards.
+
+### **Proceed with the next Lab.**
