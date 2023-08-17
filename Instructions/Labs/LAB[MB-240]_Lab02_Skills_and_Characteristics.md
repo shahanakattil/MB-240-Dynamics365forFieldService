@@ -229,3 +229,5 @@ In this task, you will be adding the Installation Specialist, Site Inspector, an
 > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 **Result:** You have successfully configured your Dynamics 365 Field service Skills and Characteristics. 
+
+### **Proceed with the next Lab.**
