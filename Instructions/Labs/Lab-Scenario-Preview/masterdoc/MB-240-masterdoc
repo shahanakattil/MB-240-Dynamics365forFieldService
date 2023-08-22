@@ -1,1 +1,13 @@
-
+[
+  {
+    "Name": "Lab Scenario Preview: MB-240: Microsoft Dynamics 365 Field Service Functional Consultant",
+    "Language": "English",
+    "BaseURL": "https://github.com/CloudLabs-MOC/MB-240-Dynamics365forFieldService",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-800-Administering-Windows-Server-Hybrid-Core-Infrastructure/master/Instructions/Labs/Lab-Scenario-Preview/Module.md",
+        "Order": 1
+      }
+    ]
+  }
+]
