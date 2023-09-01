@@ -1,10 +1,10 @@
 # Practice Lab 14 – Customer Voice
 
-## Estimated timing: 30 minutes
-
 ## Scenario
 
 You are a dispatch manager at Relecloud who has been tasked with trying the Customer Voice functionality to capture feedback on work orders before rolling it out to your customers.
+
+## Estimated timing: 30 minutes
 
 ## Exercise 1: Create survey
 
