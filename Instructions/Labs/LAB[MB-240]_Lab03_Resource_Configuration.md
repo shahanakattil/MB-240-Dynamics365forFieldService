@@ -1,5 +1,7 @@
 # Practice Lab 3 - Resources
 
+## Estimated timing: 20 minutes
+
 ## Exercise 1 – Base location
 
 In this exercise, you will create the location where resources will start and end their day.
