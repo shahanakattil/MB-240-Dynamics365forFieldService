@@ -1,5 +1,7 @@
 # Practice Lab 8 - Scheduling
 
+## Estimated timing: 15 minutes
+
 ## Exercise 1 - Schedule work orders with the schedule board
 
 Out-of-the-box, Dynamics 365 for Field Service has the work order table enabled for use with the Resource Scheduling feature. In this exercise, we will be creating work orders that we can schedule using the application.
