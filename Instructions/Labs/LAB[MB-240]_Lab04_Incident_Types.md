@@ -1,5 +1,7 @@
 # Practice Lab 4 - Incident types
 
+## Estimated timing: 15 minutes
+
 ## Exercise 1 – Create an Incident Type
 
 In this exercise, you will create and populate an Incident Type as a template for creating work orders.
