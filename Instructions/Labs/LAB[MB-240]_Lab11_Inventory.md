@@ -1,5 +1,7 @@
 # Practice Lab 11 - Inventory
 
+## Estimated timing: 10 minutes
+
 ## Exercise 1 – Manage inventory
 
 In this exercise, you will add inventory to a warehouse and then transfer it to a truck.

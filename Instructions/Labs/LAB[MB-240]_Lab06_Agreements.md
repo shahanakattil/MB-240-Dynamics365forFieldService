@@ -1,5 +1,7 @@
 # Practice Lab 6 - Agreements
 
+## Estimated timing: 20 minutes
+
 ## Exercise 1 - Create an Agreement
 
 In this exercise, you will be defining a preventative maintenance agreement that will generate Work orders monthly and bill customers quarterly.

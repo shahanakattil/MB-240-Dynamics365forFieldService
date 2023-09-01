@@ -1,5 +1,7 @@
 # Practice Lab 9 - Configure the Schedule Board
 
+## Estimated timing: 10 minutes
+
 ## Exercise 1 - Create and configure a new schedule board
 
 You can create new schedule boards and configure them for your requirements. In this exercise, we will create and configure a schedule board.

@@ -1,5 +1,7 @@
 # Practice Lab 5 - Work order management
 
+## Estimated timing: 60 minutes
+
 ## Exercise 1 – Settings for work orders
 
 In this exercise, you will configure settings for work orders including priorities and resolutions.

@@ -1,5 +1,7 @@
 # Practice Lab 10 - Field Service mobile app
 
+## Estimated timing: 30 minutes
+
 ## Exercise 1 – Configure Field Service mobile app for frontline workers
 
 In this exercise, you will configure settings for work orders including priorities and resolutions.

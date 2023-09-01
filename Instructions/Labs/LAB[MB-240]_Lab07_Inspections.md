@@ -1,5 +1,7 @@
 # Practice Lab 7 - Inspections
 
+## Estimated timing: 15 minutes
+
 ## Exercise 1 - Create and use an Inspection Template
 
 In this exercise, you will be defining an inspection template and adding it to a server type task.

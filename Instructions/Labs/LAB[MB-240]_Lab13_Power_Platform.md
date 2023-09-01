@@ -4,6 +4,7 @@
 
 Dispatchers have requested more information about the customer and the work order to be displayed on the schedule board. You are going to customize the views used by the schedule board to achieve this.
 
+## Estimated timing: 60 minutes
 
 ## Exercise 1: Gather components to customize
 

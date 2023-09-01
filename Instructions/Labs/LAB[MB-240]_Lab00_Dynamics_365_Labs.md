@@ -6,6 +6,8 @@ Worldwide Industries (WWI) provides IT and networking services to its customers.
 
 In this practice lab, you will validate and set up your tenant.
 
+## Estimated timing: 5 minutes
+
 ## Exercise 1 - Access the Dynamics 365 application
 
 ### Task 1 – Log in to the Power Platform admin center

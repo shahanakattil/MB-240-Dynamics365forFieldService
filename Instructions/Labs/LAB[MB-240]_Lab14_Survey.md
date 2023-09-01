@@ -4,6 +4,8 @@
 
 You are a dispatch manager at Relecloud who has been tasked with trying the Customer Voice functionality to capture feedback on work orders before rolling it out to your customers.
 
+## Estimated timing: 30 minutes
+
 ## Exercise 1: Create survey
 
 In this exercise, you will create a project and use a template to create a survey.
