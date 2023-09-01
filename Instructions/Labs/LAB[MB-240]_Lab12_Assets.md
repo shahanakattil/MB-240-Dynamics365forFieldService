@@ -2,6 +2,7 @@
 
 Customer assets in Dynamics 365, businesses can improve their ability to deliver high-quality service to their customers. They can also gather data on asset performance, which can be used to identify trends and make informed decisions about future service and maintenance schedules.
 
+## Estimated timing: 30 minutes
 
 ## Exercise 1 – Convert product to customer asset
 
