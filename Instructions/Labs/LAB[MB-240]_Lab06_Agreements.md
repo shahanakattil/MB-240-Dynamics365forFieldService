@@ -1,9 +1,10 @@
 # Practice Lab 6 - Agreements
 
 ## Lab scenario
-In this lab, you will configure a preventative maintenance agreement within your Dynamics 365 Field Service environment. This agreement is designed to trigger monthly work orders for maintenance tasks and bill customers on a quarterly basis. 
+Configure a preventative maintenance agreement within your Dynamics 365 Field Service environment. This agreement is designed to trigger monthly work orders for maintenance tasks and bill customers on a quarterly basis. 
 
 ## Lab objective
+In this lab, you will perform:
 + Exercise 1 - Create an Agreement
   
 ## Estimated timing: 20 minutes
