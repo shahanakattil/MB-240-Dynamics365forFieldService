@@ -1,7 +1,7 @@
 # Practice Lab 9 - Configure the Schedule Board
 
 ## Lab scenario
-Explore and master the intricacies of configuring the Schedule Board in Dynamics 365 Field Service. They will be tasked with customizing resource views, creating and managing work orders, setting up booking rules, and optimizing scheduling options to meet specific business requirements.
+Exploring and master the intricacies of configuring the Schedule Board in Dynamics 365 Field Service. They will be tasked with customizing resource views, creating and managing work orders, setting up booking rules, and optimizing scheduling options to meet specific business requirements.
 
 ## Lab objective
 In this lab, you will perform:
