@@ -1,16 +1,20 @@
 # Practice Lab 13 – Customize Schedule Boards
 
-## Scenario
+## Lab scenario
 
 Dispatchers have requested more information about the customer and the work order to be displayed on the schedule board. You are going to customize the views used by the schedule board to achieve this.
 
+## Lab objective
+In this lab, you will perform:
++ Exercise 1: Gather components to customize
+  
 ## Estimated timing: 60 minutes
 
 ## Exercise 1: Gather components to customize
 
 In this exercise, you will create a solution and add the views used on the schedule board
 
-### Task 1: Create solution.
+### Task 1: Create solution
 
 1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>
 
@@ -348,4 +352,10 @@ In this exercise, you will create a solution and add the views used on the sched
 
 **Result:** You have successfully created and added views to the solution, and customized views to the solution in Power Apps Portal. Then you used the views on scheduled boards and tested them successfully.
 
-### **Proceed with the next Lab.**
+### Review
+In this lab, you have completed:
+
+- Create a solution and add the views used on the schedule board
+- Test the changes
+  
+### Proceed with the next Lab.
