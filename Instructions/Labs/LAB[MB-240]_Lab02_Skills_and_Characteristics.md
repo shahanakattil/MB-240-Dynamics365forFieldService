@@ -1,8 +1,6 @@
 # Practice Lab 2 - Skills and Characteristics
 
-## Estimated timing: 20 minutes
-
-## Exercise 1 - Configure Dynamics 365 for Field Service Skills and Characteristics
+## Lab scenario
 
 Each technician that goes out to service customers may have a number of different skills and roles assigned to them. There are three primary roles that a technician may have:
 
@@ -17,6 +15,13 @@ Additionally, each technician may have specific skills or Certifications that re
 - **G SEC:** GIAC Security Essentials
 
 Since some of your customers are government agencies, technicians may need to have specific security clearance levels. These can range from Level One to Level Five.
+
+## Lab objective
++ Exercise 1 - Configure Dynamics 365 for Field Service Skills and Characteristics
+
+## Estimated timing: 20 minutes
+
+## Exercise 1 - Configure Dynamics 365 for Field Service Skills and Characteristics
 
 ### Task 1 – Proficiency Models
 
@@ -231,5 +236,11 @@ In this task, you will be adding the Installation Specialist, Site Inspector, an
 > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 **Result:** You have successfully configured your Dynamics 365 Field service Skills and Characteristics. 
+
+### Review
+In this lab, you have completed:
+- Proficiency Models
+- Define a Security Clearance skill
+- Define Security certifications and Define Resource Roles
 
 ### **Proceed with the next Lab.**
