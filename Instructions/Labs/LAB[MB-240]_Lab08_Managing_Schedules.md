@@ -1,7 +1,7 @@
 # Practice Lab 8 - Scheduling
 
 ## Lab scenario
-Explore the capabilities of the Dynamics 365 Field Service Schedule Board to efficiently schedule and manage work orders, assume the roles of dispatchers and technicians, using the Schedule Board to assign work orders, optimize scheduling, and monitor field service activities in real-time.
+Exploring the capabilities of the Dynamics 365 Field Service Schedule Board to efficiently schedule and manage work orders, assume the roles of dispatchers and technicians, using the Schedule Board to assign work orders, optimize scheduling, and monitor field service activities in real-time.
 
 ## Lab objectives
 In this lab, you will perform:
