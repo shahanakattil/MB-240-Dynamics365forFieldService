@@ -1,5 +1,13 @@
 # Practice Lab 3 - Resources
 
+## Lab scenario
+Configure Dynamics 365 Field Service for resource management. Set time zones, create base locations, and define working hours. Create bookable resources with characteristics and categories to optimize resource allocation and scheduling efficiency.
+
+## Lab objectives
+In this lab, you will perform:
++ Exercise 1 – Base location
++ Exercise 2 – Configure resources
+
 ## Estimated timing: 20 minutes
 
 ## Exercise 1 – Base location
@@ -197,4 +205,12 @@ In this exercise, you will create the location where resources will start and en
 
 **Result:** You have successfully configured your Resources by creating a location where resources will start and end their day.
 
-### **Proceed with the next Lab.**
+### Review
+In this lab, you have completed:
+
+- Set Time Zone and create Organizational Unit
+- Create a Warehouse for a Truck
+- Create a Bookable Resource for your user record
+- Create a Working Hours template
+
+### Proceed with the next Lab.

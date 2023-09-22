@@ -1,5 +1,13 @@
 # Practice Lab 4 - Incident types
 
+## Lab scenario
+Configure Incident Types in Dynamics 365 Field Service. Create a "Service Call" incident type linked to a price list and "Inspection" type without an incident requirement. Define service task types with estimated durations. Test the incident type by creating a work order for a customer account.
+
+## Lab objectives
+In this lab, you will perform:
++ Exercise 1 – Create an Incident Type
++ Exercise 2 – Test the Incident Type
+
 ## Estimated timing: 15 minutes
 
 ## Exercise 1 – Create an Incident Type
@@ -256,5 +264,11 @@ In this exercise, you will create a work order by using the incident type.
 > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 **Result:** You have successfully created/populated an Incident Type as a template and also created a work order by using the incident type.
+
+### Review
+In this lab, you have completed:
+- Work Order Type, Service Task Types and Incident Type
+- Create Customer
+- Create a new Work Order using an Incident Type
 
 ### **Proceed with the next Lab.**

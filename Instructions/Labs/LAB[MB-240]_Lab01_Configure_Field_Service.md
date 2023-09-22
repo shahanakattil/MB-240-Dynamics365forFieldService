@@ -1,10 +1,20 @@
 # Practice Lab 1 - Configure Dynamics 365 Field Service
 
-## Scenario
+## Lab scenario
 
 Worldwide Industries (WWI) provides IT and networking services to their customers. Their services range from phone system and network installations to telephoning systems and security system installations. They are going to be leveraging Dynamics 365 for Field Service for installation and servicing of these systems for their customers. You are the system implementor that has been tasked with configuring the application to support the rollout of the application. You will be adding and configuring some products that can be installed and setting up skills and characteristics that will be used as part of the implementation.
 
+## Lab objectives
+In this lab, you will perform:
++ Exercise 1 – Map Configuration
++ Exercise 2 - Configure Territories
++ Exercise 3 - Create Products
+  
 ## Estimated timing: 10 minutes
+
+## Architecture diagram
+
+![](media/MB240-DIAG.png)
 
 ## Exercise 1 – Map Configuration
 
@@ -250,13 +260,20 @@ In this exercise, you will be adding products and services for use on work order
 
     ![](../images/MB-240-save&close.png)
     
-    > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-    > - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
-    > - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
-    > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-    > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
     
 
 > **Result:** In this lab you have added and configured some products that can be installed and set up skills and characteristics that will be used as part of the implementation. 
 
-### **Proceed with the next Lab.**
+### Review
+In this lab, you have completed:
+- Enable Bing Maps to use with Resource Scheduling
+- Configure Territories
+- Add Inventory Product and Non-Inventory Product
+- Add Service Product
+
+### Proceed with the next Lab.

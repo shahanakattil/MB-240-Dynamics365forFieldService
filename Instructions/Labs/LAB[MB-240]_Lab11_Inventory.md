@@ -1,5 +1,12 @@
 # Practice Lab 11 - Inventory
 
+## Lab scenario
+Exploring and practice inventory tracking in Microsoft Dynamics 365. The focus will be on effectively managing and monitoring inventory levels, movements, and transactions within the Dynamics 365 environment, learn how to create and manage products, set up warehouses, perform stock transfers, record adjustments, and generate inventory reports.
+
+## Lab objective
+In this lab, you will perform:
++ Exercise 1 – Manage inventory
+
 ## Estimated timing: 10 minutes
 
 ## Exercise 1 – Manage inventory
@@ -93,5 +100,10 @@ In this exercise, you will add inventory to a warehouse and then transfer it to 
 1. In the **Dynamics 365 Field Service app**, click the **Inventory** area in the bottom-left of the sitemap, and in the **Inventory** group select **Product Inventory** and review the inventory lines.
 
 **Result:** You have successfully added an inventory to a warehouse and then transferred it to a truck.
+
+### Review
+In this lab, you have completed:
+- Setup inventory in Warehouse
+- Inventory adjustment and Inventory transfer
 
 ### **Proceed with the next Lab.**

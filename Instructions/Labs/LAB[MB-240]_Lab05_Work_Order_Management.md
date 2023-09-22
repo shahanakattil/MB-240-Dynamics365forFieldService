@@ -1,11 +1,19 @@
 # Practice Lab 5 - Work order management
 
+## Lab scenario
+
+Configure Dynamics 365 Field Service for work order settings, including priorities and resolutions. Then create and manage work orders using incident types, schedule resources, and complete work orders. Finally, explore the process of generating incident types from work orders for comprehensive hands-on experience in work order management.
+
+## Lab objectives
+In this lab, you will perform:
++ Exercise 1 – Settings for work orders
++ Exercise 2 – Create and process work orders
+  
 ## Estimated timing: 60 minutes
 
 ## Exercise 1 – Settings for work orders
 
 In this exercise, you will configure settings for work orders including priorities and resolutions.
-
 
 ### Task 1 - Priorities
 
@@ -181,5 +189,12 @@ Field Service provides several items that can be used to assist in scheduling re
 
 **Result:** You have successfully configured settings for work orders. Followed by, creating and completing work orders by scheduling them successfully.
 
+### Review
+In this lab, you have completed:
 
-### **Proceed with the next Lab.**
+- configure settings for work orders including priorities and resolutions
+- Create a new work order using an incident type
+- Schedule the work order using the schedule assistant
+- Create an incident type from a work order
+  
+### Proceed with the next Lab.

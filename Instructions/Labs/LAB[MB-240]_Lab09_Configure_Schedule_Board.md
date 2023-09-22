@@ -1,11 +1,17 @@
 # Practice Lab 9 - Configure the Schedule Board
 
+## Lab scenario
+Exploring and master the intricacies of configuring the Schedule Board in Dynamics 365 Field Service. They will be tasked with customizing resource views, creating and managing work orders, setting up booking rules, and optimizing scheduling options to meet specific business requirements.
+
+## Lab objective
+In this lab, you will perform:
++ Exercise 1 - Create and configure a new schedule board
+
 ## Estimated timing: 10 minutes
 
 ## Exercise 1 - Create and configure a new schedule board
 
 You can create new schedule boards and configure them for your requirements. In this exercise, we will create and configure a schedule board.
-
 
 ### Task 1 – Create a schedule board
 
@@ -79,4 +85,8 @@ You can create new schedule boards and configure them for your requirements. In 
 
 **Result:** You have successfully created and configured Schedule Boards according to your requirement.
 
-### **Proceed with the next Lab.**
+### Review
+In this lab, you have completed:
+- create new schedule boards and configure them as per requirements
+
+### Proceed with the next Lab.

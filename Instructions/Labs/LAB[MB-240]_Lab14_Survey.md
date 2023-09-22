@@ -1,9 +1,16 @@
 # Practice Lab 14 – Customer Voice
 
-## Scenario
+## Lab scenario
 
 You are a dispatch manager at Relecloud who has been tasked with trying the Customer Voice functionality to capture feedback on work orders before rolling it out to your customers.
 
+## Lab objectives
+
+In this lab, you will perform:
++ Exercise 1: Create survey
++ Exercise 2: Send survey
++ Exercise 3: Send survey when a work order is completed
+  
 ## Estimated timing: 30 minutes
 
 ## Exercise 1: Create survey
@@ -236,4 +243,11 @@ In this exercise, you will use Power Automate to send a survey when a work order
     
  **Result:** You have successfully created a project and using a template, created a survey. Followed by creating an email template. Finally sending the survey using the email template. 
 
-## **You have successfully completed the lab**
+ ### Review
+ In this lab, you have completed:
+
+ - Create a project and use a template to create a survey
+ - Create an email template and send the survey by email
+ - Use Power Automate to send a survey when a work order is completed
+ 
+ ### You have successfully completed the lab
