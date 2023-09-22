@@ -17,6 +17,7 @@ Additionally, each technician may have specific skills or Certifications that re
 Since some of your customers are government agencies, technicians may need to have specific security clearance levels. These can range from Level One to Level Five.
 
 ## Lab objective
+In this lab, you will perform:
 + Exercise 1 - Configure Dynamics 365 for Field Service Skills and Characteristics
 
 ## Estimated timing: 20 minutes
