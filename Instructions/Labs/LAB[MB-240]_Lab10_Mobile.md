@@ -1,7 +1,7 @@
 # Practice Lab 10 - Field Service mobile app
 
 ## Lab scenario
-Exploring the capabilities of the Field Service Mobile App to track and manage service activities efficiently. The scenario involves a simulated service call where a customer reports a malfunctioning machine and use the mobile app to schedule the appointment, navigate to the customer's location, update work order details, capture customer signatures, and close out the service call. 
+Configure the capabilities of the Field Service Mobile App to track and manage service activities efficiently. The scenario involves a simulated service call where a customer reports a malfunctioning machine and use the mobile app to schedule the appointment, navigate to the customer's location, update work order details, capture customer signatures, and close out the service call. 
 
 ## Lab objective
 In this lab, you will perform:
