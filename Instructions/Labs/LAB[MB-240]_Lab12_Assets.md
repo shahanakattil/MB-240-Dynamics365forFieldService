@@ -1,6 +1,15 @@
 # Practice Lab 12 - Customer assets
 
+## Lab scenario
 Customer assets in Dynamics 365, businesses can improve their ability to deliver high-quality service to their customers. They can also gather data on asset performance, which can be used to identify trends and make informed decisions about future service and maintenance schedules.
+
+## Lab objectives
+
+In this lab, you will perform:
++ Exercise 1 – Convert product to customer asset
++ Exercise 2 – Create assets
++ Exercise 3 – Functional locations
++ Exercise 4 – Associate assets with work orders
 
 ## Estimated timing: 30 minutes
 
@@ -234,4 +243,13 @@ In this exercise, you will create a work order linked to the customer asset and 
 
 **Result:** You have successfully learned how to convert products to customer assets and created assets. Also, you have created functional locations. Finally, you have created work orders and linked them to the customer asset and functional location.
 
-### **Proceed with the next Lab.**
+### Review
+In this lab, you have completed:
+
+- Product settings
+- Asset categories and Asset hierarchy
+- Create functional locations
+- Associate assets with functional locations
+- Create work order with a customer asset
+  
+### Proceed with the next Lab.
