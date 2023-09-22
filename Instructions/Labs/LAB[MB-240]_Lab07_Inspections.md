@@ -1,5 +1,12 @@
 # Practice Lab 7 - Inspections
 
+## Lab scenario
+Inspections in Dynamics 365 Field Service provide a robust framework for organizations to systematically assess and maintain their assets, equipment, or locations. With this feature, users can design customizable inspection templates tailored to their specific needs. Field service technicians can then use mobile devices to conduct inspections in the field, capturing data on asset conditions, compliance, and safety. The system generates detailed reports, allowing for data-driven decisions, proactive maintenance, and regulatory compliance. Overall, Dynamics 365 Field Service Inspections streamline asset management and enhance operational efficiency.
+
+## Lab objective
+In this lab, you will perform:
++ Exercise 1 - Create and use an Inspection Template
+
 ## Estimated timing: 15 minutes
 
 ## Exercise 1 - Create and use an Inspection Template
@@ -202,4 +209,11 @@ In this exercise, you will be defining an inspection template and adding it to a
 
 **Result:** You have successfully defined an inspection template by adding it to a service type task. Also, you have viewed the inspection by creating a work order.
 
-### **Proceed with the next Lab.**
+### Review
+In this lab, you have completed:
+
+- Create Inspection Template
+- Add Inspection Template to Service Type Task
+- Download an image and Create a new Work Order and view the inspection
+  
+### Proceed with the next Lab.
