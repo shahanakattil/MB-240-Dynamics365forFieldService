@@ -1,11 +1,17 @@
 # Practice Lab 10 - Field Service mobile app
 
+## Lab scenario
+Exploring the capabilities of the Field Service Mobile App to track and manage service activities efficiently. The scenario involves a simulated service call where a customer reports a malfunctioning machine and use the mobile app to schedule the appointment, navigate to the customer's location, update work order details, capture customer signatures, and close out the service call. 
+
+## Lab objective
+In this lab, you will perform:
++ Exercise 1 – Configure Field Service mobile app for frontline workers
+
 ## Estimated timing: 30 minutes
 
 ## Exercise 1 – Configure Field Service mobile app for frontline workers
 
 In this exercise, you will configure settings for work orders including priorities and resolutions.
-
 
 ### Task 1 – Configure security and offline profile
 
@@ -159,4 +165,12 @@ In this exercise, you will configure settings for work orders including prioriti
 
 **Result:** You have successfully configured Field Service mobile app for frontline workers by creating work orders including priorities and resolutions.
 
-### **Proceed with the next Lab.**
+### Review
+In this lab, you have completed:
+
+- Configure security and offline profile
+- Create work order
+- Install the mobile app
+- Process the booking
+
+### Proceed with the next Lab.
