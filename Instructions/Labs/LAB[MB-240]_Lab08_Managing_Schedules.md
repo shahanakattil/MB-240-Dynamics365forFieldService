@@ -1,11 +1,18 @@
 # Practice Lab 8 - Scheduling
 
+## Lab scenario
+Explore the capabilities of the Dynamics 365 Field Service Schedule Board to efficiently schedule and manage work orders, assume the roles of dispatchers and technicians, using the Schedule Board to assign work orders, optimize scheduling, and monitor field service activities in real-time.
+
+## Lab objectives
+In this lab, you will perform:
++ Exercise 1 - Schedule work orders with the schedule board
++ Exercise 2 - Schedule work orders using the schedule board
+  
 ## Estimated timing: 15 minutes
 
 ## Exercise 1 - Schedule work orders with the schedule board
 
 Out-of-the-box, Dynamics 365 for Field Service has the work order table enabled for use with the Resource Scheduling feature. In this exercise, we will be creating work orders that we can schedule using the application.
-
 
 ### Task 1 – Create work orders
 
@@ -133,4 +140,11 @@ Universal Resource Scheduling provides several items that can be used to assist 
 
 **Result:** You have successfully created work orders by scheduling them using Schedule Boards.
 
+### Review
+In this lab, you have completed:
+
+- Create work orders
+- Enable the new Schedule Board
+- Schedule work orders
+  
 ### **Proceed with the next Lab.**
