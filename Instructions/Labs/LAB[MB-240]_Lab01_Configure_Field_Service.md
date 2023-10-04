@@ -14,7 +14,7 @@ In this lab, you will perform:
 
 ## Architecture diagram
 
-![](media/MB240-DIAG.png)
+![](../images/MB240-DIAG.png)
 
 ## Exercise 1 – Map Configuration
 
